@@ -1,5 +1,5 @@
-ATOMS: Applied Thermodynamics and Molecular Simulation {#mainpage}
-======================================================
+Applied Thermodynamics and Molecular Simulation {#mainpage}
+===============================================
 
 Our research focuses on the study of materials and their applications by means of microscopic-scale modeling and computer simulation. In this fashion, we try to understand how the molecular constitution of a material determines its observed thermophysical properties. An exciting possibility is the study of yet undiscovered materials, entailing the prediction of their properties and the search for novel applications. This is the core of the discipline known as Material Design. The computational methods we employ in our investigations include advanced Monte Carlo (MC) methods such as Configurational-Bias MC, Multihistogram Reweighting, Multicanonical and other Non-Boltzmann Sampling methods, Transition-Matrix MC, and so on. Not only have we applied known methods, but also developed new ones and assembled many of them under a useful, generalized framework. For instance, we have being studying the equilibrium adsorption of polymers on solids with heterogeneous distributions of active sites, the effects of molecular topology on the scaling behavior and phase transitions of complex polymers, and the interaction between proteins and electrically charged surfaces of existing nanodevices.
 

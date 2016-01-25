@@ -1,8 +1,7 @@
 all:
-	cp pages/people.md people.markdown
-	sed -i -r "s/(K[0-9]{7}[A-Z][0-9])/\n<\/td><\/tr><tr><td>\n![](images\/\1.jpg)\n<\/td><td>/g" people.markdown
+	tools/pre_process.sh pages/people.md > .people.md
 	doxygen
-	rm people.markdown
+	rm .people.md
 
 update:
 	bash tools/update_people_images.sh

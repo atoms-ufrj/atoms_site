@@ -1480,12 +1480,13 @@ tr.heading h2 {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
 	font-size: 12px;
 	margin: 0px;
-	width: 830px;
+	width: 100%;
 /*	text-align: left;*/
 	border-collapse: collapse;
 }
 #gradient-style-large th
 {
+        text-align: left;
 	font-size: 13px;
 	font-weight: normal;
 	padding: 8px;
@@ -1503,7 +1504,7 @@ tr.heading h2 {
 	border-top: 1px solid #fff;
 	background: #e8edff;
 }
-#gradient-style-large td div img {
+#gradient-style-large td img {
         max-width: 100px;
 }
 #gradient-style-large tfoot tr td
