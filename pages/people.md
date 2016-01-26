@@ -1,10 +1,14 @@
 People {#people}
 ======
 
-<!-- IMPORTANTE: nesta página, o código que precede o nome de cada pesquisador é o mesmo que aparece
-na barra de endereço do navegador quando se visita o seu currículo lattes. JAMAIS acrescente um novo
-nome nesta página sem precedê-lo pelo código correspondente.
+<!-- IMPORTANTE: o código que precede o nome de cada pesquisador abaixo é o mesmo código que aparece
+na barra de endereço do navegador quando se visita o seu currículo lattes. Nunca acrescente um novo
+nome nesta página sem precedê-lo pelo correspondente código.
 -->
+
+<img src="../images/workshop2.jpg" width="830">
+<center>2nd ATOMS Annual Workshop - December 2013</center>
+<hr>
 
 <!------------------------------------------------------------------------------------------------->
 @header: Academic Staff

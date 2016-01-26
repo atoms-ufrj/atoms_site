@@ -1,6 +1,40 @@
 Applied Thermodynamics and Molecular Simulation {#mainpage}
 ===============================================
 
-Our research focuses on the study of materials and their applications by means of microscopic-scale modeling and computer simulation. In this fashion, we try to understand how the molecular constitution of a material determines its observed thermophysical properties. An exciting possibility is the study of yet undiscovered materials, entailing the prediction of their properties and the search for novel applications. This is the core of the discipline known as Material Design. The computational methods we employ in our investigations include advanced Monte Carlo (MC) methods such as Configurational-Bias MC, Multihistogram Reweighting, Multicanonical and other Non-Boltzmann Sampling methods, Transition-Matrix MC, and so on. Not only have we applied known methods, but also developed new ones and assembled many of them under a useful, generalized framework. For instance, we have being studying the equilibrium adsorption of polymers on solids with heterogeneous distributions of active sites, the effects of molecular topology on the scaling behavior and phase transitions of complex polymers, and the interaction between proteins and electrically charged surfaces of existing nanodevices.
+ATOMS is a research group dedicated to the development of theoretical, experimental, and
+computational tools in the fields of classical and statistical thermodynamics, and to the
+application of these tools to the solution of problems of both academic and industrial interest.
 
-Research at ATOMS is supported by:
+The group congregates [professors, researchers, and students](people.html) of two academic units
+of the Federal University of Rio de Janeiro ([UFRJ]), Brazil:
+
+* The School of Chemistry ([Escola de Quimica]), which has undergraduate programs in Chemical
+Engineering, Bioprocess Engineering, Food Engineering, and other Industrial Chemistry, as well as a
+graduate program in Chemical and Biochemical Process Technology ([TPQB]).
+
+* The Alberto Luiz Coimbra Institute for Graduate Studies ([COPPE]), which coordinates several
+graduate programs in engineering, including the Chemical Engineering Program ([PEQ]).
+
+Research at ATOMS is supported by Brazilian public agencies such as the National Council for
+Scientific and Technological Development ([CNPq]), the Coordination for the Improvement of Higher
+Education Personnel ([CAPES]), and the State Research Funding Agency of Rio de Janeiro ([FAPERJ]).
+We also receive support from Petrobras through its R&D funding program, regulated by the Brazilian
+National Agency of Petroleum, Natural Gas and Biofuels ([ANP]).
+
+<img src="../images/petrobras.jpg" height="70">
+<img src="../images/anp.jpg" height="70">
+<img src="../images/cnpq.jpg" height="70">
+<img src="../images/capes.jpg" height="70">
+<img src="../images/faperj.jpg" height="70">
+
+<!-- External links -->
+
+[UFRJ]:			http://www.ufrj.br
+[Escola de Quimica]:	http://www.eq.ufrj.br
+[COPPE]:		http://www.coppe.ufrj.br/english
+[TPQB]:			http://tpqb.eq.ufrj.br
+[PEQ]:			http://www.peq.coppe.ufrj.br/global/index.php/en/
+[CNPq]:			http://cnpq.br/
+[CAPES]:		http://www.capes.gov.br/
+[FAPERJ]:		http://www.faperj.br/
+[ANP]:			http://www.anp.gov.br/
