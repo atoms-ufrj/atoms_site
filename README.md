@@ -30,10 +30,10 @@ Modo de Alteração Offline
 
 Para realizar modificações mais profundas, incluindo as possibilidades de adicionar novas páginas,
 alterar _layout_ e acrescentar ferramentas, recomenda-se fazer uma cópia do repositório `atoms_site`
-no seu computador. Para isso, você vai precisar de um sistema Linux com os programas `git`,
+no seu computador. Para isso, você vai precisar de um sistema Linux com os programas `git`, `curl`,
 `doxygen` e `make`. Se você utiliza o Ubuntu, pode digitar:
 
-    sudo apt-get install git git-extras doxygen make
+    sudo apt-get install git git-extras curl doxygen make
 
 Após isso, você poderá copiar o repositório, compilar localmente o _site_ do ATOMS e, finalmente,
 visualizá-lo no seu navegador (nos exemplos abaixo, assume-se que é o Firefox). Com a sua conexão à
@@ -55,7 +55,7 @@ novamente, digite:
 Finalmente, quando tiver feito todas as alterações que desejar, execute os seguintes comandos:
 
     git commit -a
-    git request-pull
+    git-pull-request
 
 O primeiro comando acima exigirá que você faça uma breve descrição das alterações efetuadas.
 

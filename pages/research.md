@@ -1,9 +1,7 @@
 Research {#research}
 ========
 
-----------------------------------------------------------------------------------------------------
-Thermodynamics and Structure of Confined Fluids
-----------------------------------------------------------------------------------------------------
+## Thermodynamics and Structure of Confined Fluids
 
 Prediction of the interaction of complex fluids (e.g. hydrogen-bonding fluids, hydrocarbons,
 proteins, and polymers) with adsorbing surfaces is essential for the control of many processes of
@@ -13,10 +11,9 @@ the thermodynamic properties and structures of components confined near hydropho
 surfaces. These tools can be useful for solving problems in adsorption, shale gas reservoirs, and
 other systems with confined fluids.
 
+----------------------------------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------------------
-Thermodynamics and Kinetics of Gas Hydrates
-----------------------------------------------------------------------------------------------------
+## Thermodynamics and Kinetics of Gas Hydrates
 
 Gas hydrates are structures formed by the cooperative hydrogen bonding of water molecules to form
 cages that encapsulate small molecules. In terms of methane reservoir, these crystalline structures
@@ -30,10 +27,9 @@ gas industry and in collaboration with Petrobras, our group studies thermodynami
 aspects related to hydrate formation and hydrate dissociation. Multiphase equilibria and kinetic
 studies provide thermodynamic, transport, and kinetic data for hydrate decomposition.
 
+----------------------------------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------------------
-Asphaltene Precipitation and Deposition
-----------------------------------------------------------------------------------------------------
+## Asphaltene Precipitation and Deposition
 
 The formation of asphaltene plugs in piping represent a significant problem in oil production and
 refining. Asphaltenes are a collection of polydisperse molecules consisting mostly of polynuclear
@@ -47,8 +43,8 @@ aspect related to asphaltene precipitation, deposition and agglomeration using b
 equation of state and molecular simulation.
 
 ----------------------------------------------------------------------------------------------------
-Structure-Property Relations of Complex Materials
-----------------------------------------------------------------------------------------------------
+
+## Structure-Property Relations of Complex Materials
 
 Our research focuses on the study of materials and their applications by means of microscopic-scale
 modeling and computer simulation. In this way, we try to understand how the molecular constitution
