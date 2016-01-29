@@ -4,8 +4,8 @@ Web Site do Grupo ATOMS/UFRJ
 Este repositório contém a estrutura básica do _web site_ do grupo ATOMS/UFRJ, localizado no endereço
 http://atoms.peq.coppe.ufrj.br. Essa estrutura foi construída de modo a tornar bastante simples a
 alteração de conteúdo do _site_. Sendo assim, **todos os membros do grupo ATOMS** são convidados a
-realizar alterações. Os arquivos de conteúdo estão no formato [Markdown], que foi criado para ser o
-mais próximo possível de um texto sem formatação.
+realizar alterações. Os arquivos de conteúdo estão no formato [Markdown] (com algumas extensões
+do [Doxygen]), que foi criado para ser o mais próximo possível de um texto sem formatação.
 
 Se você desejar alterar alguma página (por exemplo, acrescentando na página _people_ um colega que
 acabou de entrar no grupo), você precisará se registrar como usuário no _site_ [GitHub].
@@ -13,17 +13,18 @@ acabou de entrar no grupo), você precisará se registrar como usuário no _site
 Modo Simples de Alteração
 -------------------------
 
-O modo mais simples de realizar alterações de conteúdo no _site_ ATOMS é editar, diretamente pelo
-[GitHub], uma ou mais páginas contidas em:
+O modo mais simples de alterar conteúdo do _site_ ATOMS é editar páginas diretamente pelo [GitHub].
+Para isso, você deverá acessar o repositório [atoms_site] e clicar no botão _fork_, para que uma
+cópia seja criada no seu perfil. Trocando `<user-name>` pelo seu _login_ no GitHub, acesse:
 
-https://github.com/atoms-ufrj/atoms_site/tree/master/pages
+    https://github.com/<user-name>/atoms_site
 
-Você pode adicionar texto com formatação [Markdown] padrão ou usando extensões [Doxygen Markdown],
-se desejar. Ao clicar em um arquivo, você verá o botão de edição (um pequeno lápis) no canto
-superior direito da página. Enquanto edita, você tem disponível a opção _preview changes_. Após
-terminar a edição, preencha o formulário _commit changes_ (localizado no fundo da página) e clique
-na opção _create a new branch for this commit and start a pull request_. Pronto! Suas edições serão
-submetidas para revisão.
+Entre na pasta `pages` e escolha um arquivo para editar. Ao clicar nele, você verá o botão de edição
+(um lápis) no canto superior direito. Adicione texto com formatação similar à já existente. Enquanto
+edita, você terá disponível a opção `preview changes`. Ao terminar, vá ao fundo da página e clique
+no botão verde `commit changes`. Repita o procedimento com todos os arquivos que desejar alterar.
+Finalmente, volte para a pasta principal (a do endereço acima), clique em `new pull request`. Ao
+confirmar, suas edições serão submetidas a revisão.
 
 Modo de Alteração Offline
 -------------------------
@@ -33,13 +34,14 @@ alterar _layout_ e acrescentar ferramentas, recomenda-se fazer uma cópia do rep
 no seu computador. Para isso, você vai precisar de um sistema Linux com os programas `git`, `curl`,
 `doxygen` e `make`. Se você utiliza o Ubuntu, pode digitar:
 
-    sudo apt-get install git git-extras curl doxygen make
+    sudo apt-get install git curl doxygen make
 
 Após isso, você poderá copiar o repositório, compilar localmente o _site_ do ATOMS e, finalmente,
-visualizá-lo no seu navegador (nos exemplos abaixo, assume-se que é o Firefox). Com a sua conexão à
-Internet ativada, execute os seguintes comandos:
+visualizá-lo no seu navegador (nos exemplos abaixo, assume-se que é o Firefox). Comece criando um
+_fork_ do repositório [atoms_site] no seu perfil, tal como explicado acima. Com a sua conexão à
+Internet ativada e substituindo `<user-name>` pelo seu _login_ no GitHub, execute os comandos:
 
-    git clone https://github.com/atoms-ufrj/atoms_site
+    git clone https://github.com/<user-name>/atoms_site
     cd atoms_site
     make
     firefox en/index.html
@@ -52,18 +54,23 @@ novamente, digite:
     make
     firefox en/index.html
 
-Finalmente, quando tiver feito todas as alterações que desejar, execute os seguintes comandos:
+Quando tiver feito todas as alterações que desejar, execute os seguintes comandos:
 
     git commit -a
-    git-pull-request
+    git push
 
-O primeiro comando acima exigirá que você faça uma breve descrição das alterações efetuadas.
+O primeiro comando acima exigirá que você faça uma breve descrição das alterações efetuadas. O
+segundo commando atualizará o seu _fork_ no site do [GitHub]. Finalmente, entre no site, acesse o
+_fork_ e clique em `compare & pull request`.
 
 __Observação__: não apague a sua cópia local do repositório, pois ela poderá ser usada no futuro
 para novas edições. Quando for editar novamente, você só precisará sincronizar a sua cópia local com
-o repositório no [GitHub], o que pode ser feito a partir da pasta `atoms_site`, digitando-se:
+o repositório [atoms_site], o que pode ser feito a partir da sua pasta `atoms_site` local,
+digitando-se:
 
-    git pull
+    git remote add upstream https://github.com/atoms-ufrj/atoms_site
+    git fetch upstream
+    git merge upstream/master
 
 People & Publications
 ---------------------
@@ -92,8 +99,8 @@ Conclusão
 Com este projeto, espera-se que o grupo ATOMS tenha um _web site_ ativo, dinâmico e democrático,
 com o qual todos os membros se sintam identificados e motivados a contribuir.
 
-<!-- Links externos -->
+<!-- Links -->
 [Markdown]:		https://daringfireball.net/projects/markdown/basics
-[Doxygen Markdown]:	https://www.stack.nl/~dimitri/doxygen/manual/markdown.html
+[Doxygen]:		https://www.stack.nl/~dimitri/doxygen/manual/markdown.html
 [GitHub]:		https://github.com
-
+[atoms_site]:		https://github.com/atoms-ufrj/atoms_site
