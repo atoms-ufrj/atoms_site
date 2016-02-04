@@ -14,3 +14,16 @@ sed -i -e 's/<p>//g' -e 's/<\/p>//g' \
        -e 's/(document)/\$(document)/' \
   en/publications.html
 
+#---------------------------------------------------------------------------------------------------
+# counter
+#---------------------------------------------------------------------------------------------------
+rm en/pages.html
+for file in en/*.html; do
+  base=$(basename $file .html)
+  sed -i "s/\$currpagename/$base/" $file
+  if [ ! -f "counter/logs/$base.txt" ]; then
+    echo 0 > counter/logs/$base.txt
+    chmod 666 counter/logs/$base.txt
+  fi
+done
+

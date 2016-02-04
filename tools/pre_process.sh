@@ -35,8 +35,7 @@ if [ $# == "0" ] || [ $1 == "publications" ]; then
     echo "<pre id=\"bibtex\">"
     regex="DOI:\ ([^\ ]*)"
     for doi in $(egrep "$regex" pages/publications.md | sed -r "s/$regex/\1/g"); do
-      curl -LH "Accept: application/x-bibtex;q=1" http://dx.doi.org/$doi
-      echo
+      tools/doi2bib.sh $doi
     done
     echo "</pre>"
     echo "<script type=\"text/javascript\" src=\"bib-list.js\"></script>"
