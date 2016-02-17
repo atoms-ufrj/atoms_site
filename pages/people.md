@@ -69,6 +69,12 @@ K4298461A4
 * Advisors: Frederico W. Tavares, Charlles R. A. Abreu, and Abbas Firoozabadi
 * E-mail: filipe@peq.coppe.ufrj.br
 
+K4404224D3
+## Iuri Soter Viana Segtovich
+* Thesis: **Statistical mechanics modelling of hydrate nucleation and growth rates**
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
+* E-mail: iurisegtovich@gmail.com
+
 K4216699A9
 ## Jéssica Caroline da Silva Linhares
 * Thesis: **Molecular Simulation of Rigid Molecules Aiming at Improving the COSMO-SAC Model**
@@ -125,12 +131,6 @@ K4462773T4
 * Thesis: **Determination of Rheological Behavior of Complex Fluids**
 * Advisors: Frederico W. Tavares
 * E-mail: fellipe.oliveira.ufc@gmail.com
-
-K4404224D3
-## Iuri Soter Viana Segtovich
-* Thesis: **Multiphase flash and implicit stability analysis calculations involving hydrate phases**
-* Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
-* E-mail: iurisegtovich@gmail.com
 
 K4428226U6
 ## Hermes Ribeiro Sant'Anna
