@@ -7,6 +7,10 @@ após o aceite. Então, basta adicionar o novo DOI na lista abaixo, em qualquer 
 exatamente o formato dos demais.
 -->
 
+DOI: 10.1016/j.fluid.2015.10.030
+
+DOI: 10.1016/j.fluid.2016.02.002
+
 DOI: 10.1021/acs.jpcb.5b02215
 
 DOI: 10.1016/j.colsurfb.2015.06.066
@@ -38,4 +42,5 @@ DOI: 10.1016/j.electacta.2014.11.109
 DOI: 10.1260/0263-6174.33.2.175
 
 DOI: 10.1590/0104-6632.20150321s00001653
+
 
