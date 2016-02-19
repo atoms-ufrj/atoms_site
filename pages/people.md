@@ -37,6 +37,12 @@ K4766494T6
 @header: Research Assistants
 <!------------------------------------------------------------------------------------------------->
 
+K4267155E4
+## Pedro Henrique Rodrigues Alijó
+* Chemical Engineering Department - School of Chemistry - UFRJ
+* Chemical Engineering Program - COPPE - UFRJ
+* E-mail: pedroalijo@gmail.com
+
 K4238328Y0
 ## Vinicius Menez da Silva
 * Chemical Engineering Department - School of Chemistry - UFRJ
@@ -61,17 +67,11 @@ K4327048A3
 * Advisors: Frederico W. Tavares and Vera Maria Martins Salim
 * E-mail: cmanske@peq.coppe.ufrj.br
 
-K4772845D8
-## Cassiano Gomes Aimoli
-* Thesis: **Thermodynamic and Transport Properties of Methane and Carbon Dioxide: A Molecular Simulation Study**
-* Advisors: Charlles R. A. Abreu and Edward J. Maginn
-* E-mail: aimoli@petrobras.com.br
-
-K4164770A8
-## Cauê Torres de Oliveira Guedes Costa
-* Thesis: **Equation of State Based on COSMO Quantum Chemistry Calculations**
-* Advisors: Frederico W. Tavares and Argimiro R. Secchi
-* E-mail: caue.costa@gmail.com
+K4481961P9
+## Dheiver Francisco Santos
+* Project: **Properties of mixtures containing protic ionic liquids. A study of specific interactions**
+* Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
+* E-mail: dheiver.santos@ufba.br
 
 K4298461A4
 ## Filipe Arantes Furtado
@@ -103,17 +103,6 @@ K4431921D7
 * Advisors: Eduardo R. A. Lima and Frederico W. Tavares
 * E-mail: nathalia.vernin@gmail.com
 
-K4267155E4
-## Pedro Henrique Rodrigues Alijó
-* Thesis: **Steric and electrostatic correlation effects on ion dynamics near charged electrodes**
-* Advisors: Frederico W. Tavares and Evaristo C. Biscaia Jr.
-* E-mail: alijo@peq.coppe.ufrj.br
-
-K4209625U4
-## Rafael Mengotti Charin
-* Thesis: **Emulsion phase inversion and eletrical properties in oil phase**
-* Advisors: Frederico W. Tavares and Marcio Nele
-* E-mail: rafaelcharin@yahoo.com.br
 
 K4426112D6
 ## Tiago Silva Miranda Lemos
@@ -147,12 +136,6 @@ K4428226U6
 * Thesis: **Numerical Simulation of N2 and CH4 Separation Through Adsorption in Silicalite**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: hermes@eq.ufrj.br
-
-K4451104E6
-## Tatiana Pitchon Sampaio
-* Thesis: **Bivariate Population Balance Model for Hydrate Formation Considering Mass and Heat Transfer Limitations**
-* Advisors: Frederico W. Tavares and Paulo L. C. Lage
-* E-mail: tpitchon@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
 @end
@@ -196,12 +179,43 @@ K4406302J9
 @header: Visiting Students
 <!------------------------------------------------------------------------------------------------->
 
-K4481961P9
-## Dheiver Francisco Santos
-* Project: **Properties of mixtures containing protic ionic liquids. A study of specific interactions**
-* Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
-* E-mail: dheiver.santos@ufba.br
+
 
 <!------------------------------------------------------------------------------------------------->
+
+<!------------------------------------------------------------------------------------------------->
+@header: Former members
+<!------------------------------------------------------------------------------------------------->
+
+K4772845D8
+## Cassiano Gomes Aimoli
+* Thesis: **Thermodynamic and Transport Properties of Methane and Carbon Dioxide: A Molecular Simulation Study**
+* Advisors: Charlles R. A. Abreu and Edward J. Maginn
+* E-mail: aimoli@petrobras.com.br
+
+K4164770A8
+## Cauê Torres de Oliveira Guedes Costa
+* Thesis: **Equation of State Based on COSMO Quantum Chemistry Calculations**
+* Advisors: Frederico W. Tavares and Argimiro R. Secchi
+* E-mail: caue.costa@gmail.com
+
+K4267155E4
+## Pedro Henrique Rodrigues Alijó
+* Thesis: **Steric and electrostatic correlation effects on ion dynamics near charged electrodes**
+* Advisors: Frederico W. Tavares and Evaristo C. Biscaia Jr.
+* E-mail: pedroalijo@gmail.com
+
+K4209625U4
+## Rafael Mengotti Charin
+* Thesis: **Emulsion phase inversion and eletrical properties in oil phase**
+* Advisors: Frederico W. Tavares and Marcio Nele
+* E-mail: rafaelcharin@yahoo.com.br
+
+K4451104E6
+## Tatiana Pitchon Sampaio
+* Thesis: **Bivariate Population Balance Model for Hydrate Formation Considering Mass and Heat Transfer Limitations**
+* Advisors: Frederico W. Tavares and Paulo L. C. Lage
+* E-mail: tpitchon@gmail.com
+
 @end
 
