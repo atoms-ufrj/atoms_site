@@ -1,7 +1,7 @@
 People {#people}
 ======
 
-<!-- IMPORTANTE: o código que precede o nome de cada pesquisador abaixo é o mesmo código que aparece
+<!-- IMPORTANTE: O código que precede o nome de cada pesquisador abaixo é o mesmo código que aparece
 na barra de endereço do navegador quando se visita o seu currículo lattes. Nunca acrescente um novo
 nome nesta página sem precedê-lo pelo correspondente código.
 -->
@@ -30,12 +30,27 @@ K4766494T6
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: heloisa@eq.ufrj.br
 
+K4763426D4
+## Prof. Papa M. Ndiaye
+* Chemical Engineering Department - School of Chemistry - UFRJ
+* E-mail: papa@eq.ufrj.br
+
+K4765968P1
+## Prof. Amaro Gomes Barreto Jr.
+* Chemical Engineering Department - School of Chemistry - UFRJ
+* E-mail: amaro@eq.ufrj.br
+
 <!------------------------------------------------------------------------------------------------->
 @end
 
 <!------------------------------------------------------------------------------------------------->
 @header: Research Assistants
 <!------------------------------------------------------------------------------------------------->
+
+K4338076H4
+## Fernando de Azevedo Medeiros
+* Chemical Engineering Department - School of Chemistry - UFRJ
+* E-mail: fernando.medeiros01@gmail.com
 
 K4267155E4
 ## Pedro Henrique Rodrigues Alijó
@@ -50,6 +65,21 @@ K4238328Y0
 
 <!------------------------------------------------------------------------------------------------->
 @end
+
+
+<!------------------------------------------------------------------------------------------------->
+@header: Postdoctoral Researchers
+<!------------------------------------------------------------------------------------------------->
+
+K8265433Y5
+## José Antonio Scilipoti
+* Thesis: **Compositional Grading in Oil and Gas Reservoirs**
+* Advisors: Frederico W. Tavares
+* E-mail: jscilipoti@gmail.com
+
+<!------------------------------------------------------------------------------------------------->
+@end
+
 
 <!------------------------------------------------------------------------------------------------->
 @header: Ph.D. Students
@@ -67,17 +97,17 @@ K4327048A3
 * Advisors: Frederico W. Tavares and Vera Maria Martins Salim
 * E-mail: cmanske@peq.coppe.ufrj.br
 
-K4481961P9
-## Dheiver Francisco Santos
-* Project: **Properties of mixtures containing protic ionic liquids. A study of specific interactions**
-* Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
-* E-mail: dheiver.santos@ufba.br
-
 K4298461A4
 ## Filipe Arantes Furtado
 * Thesis: **Experimental Determination and Non-Equilibrium Molecular Dynamics Simulation of Thermodiffusion Coefficients of Mixtures**
 * Advisors: Frederico W. Tavares, Charlles R. A. Abreu, and Abbas Firoozabadi
 * E-mail: filipe@peq.coppe.ufrj.br
+
+K4413804P6
+## Gabriel Duarte Barbosa
+* Thesis: **Confined Fluids Modeling**
+* Advisors: Frederico W. Tavares and Leonardo Travalloni
+* E-mail: gdbarbosa@iq.urfj.br
 
 K4404224D3
 ## Iuri Soter Viana Segtovich
@@ -103,6 +133,11 @@ K4431921D7
 * Advisors: Eduardo R. A. Lima and Frederico W. Tavares
 * E-mail: nathalia.vernin@gmail.com
 
+K4384811P8
+## Rafael Pereira do Carmo
+* Thesis: **Modified SAFT Equation of State for Paraffin and Asphaltene Precipitation**
+* Advisors: Frederico W. Tavares
+* E-mail: rcarmo@peq.coppe.ufrj.br
 
 K4426112D6
 ## Tiago Silva Miranda Lemos
@@ -125,38 +160,29 @@ K4257847Z6
 @header: Master's Degree Students
 <!------------------------------------------------------------------------------------------------->
 
-K4462773T4
-## Fellipe Carvalho de Oliveira
-* Thesis: **Determination of Rheological Behavior of Complex Fluids**
-* Advisors: Frederico W. Tavares
-* E-mail: fellipe.oliveira.ufc@gmail.com
-
-K4428226U6
-## Hermes Ribeiro Sant'Anna
-* Thesis: **Numerical Simulation of N2 and CH4 Separation Through Adsorption in Silicalite**
-* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
-* E-mail: hermes@eq.ufrj.br
-
-<!------------------------------------------------------------------------------------------------->
-@end
-
-
-
-<!------------------------------------------------------------------------------------------------->
-@header: Undergraduate Students
-<!------------------------------------------------------------------------------------------------->
-
 K8568991H6
 ## Diego Stone de Souza Aires
 * Project: **Calculation Methods for Soret Coefficient in Compositional Grading Models for Petroleum Reservoirs**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: dsaires@ufrj.br
 
+K4462773T4
+## Fellipe Carvalho de Oliveira
+* Thesis: **Determination of Rheological Behavior of Complex Fluids**
+* Advisors: Frederico W. Tavares
+* E-mail: fellipe.oliveira.ufc@gmail.com
+
 K4348506E6
 ## Guilherme Carneiro Queiroz da Silva
-* Project: **Solvation free energy calculation of a polyphenolic compound in ionic liquids by molecular dynamics**
-* Advisors: Charlles R. A. Abreu
+* Project: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
+* Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
 * E-mail: gcarneiroq@gmail.com
+
+K4428226U6
+## Hermes Ribeiro Sant'Anna
+* Thesis: **Numerical Simulation of N2 and CH4 Separation Through Adsorption in Silicalite**
+* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* E-mail: hermes@eq.ufrj.br
 
 K4361739E1
 ## Ingrid Azevedo de Oliveira
@@ -169,6 +195,19 @@ K4406302J9
 * Project: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
 * Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
 * E-mail: karinarpr@yahoo.com.br
+
+
+<!------------------------------------------------------------------------------------------------->
+@end
+
+
+
+<!------------------------------------------------------------------------------------------------->
+@header: Undergraduate Students
+<!------------------------------------------------------------------------------------------------->
+
+
+
 
 <!------------------------------------------------------------------------------------------------->
 @end
@@ -190,6 +229,12 @@ K4164770A8
 * Thesis: **Equation of State Based on COSMO Quantum Chemistry Calculations**
 * Advisors: Frederico W. Tavares and Argimiro R. Secchi
 * E-mail: caue.costa@gmail.com
+
+K4481961P9
+## Dheiver Francisco Santos
+* Project: **Properties of mixtures containing protic ionic liquids. A study of specific interactions**
+* Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
+* E-mail: dheiver.santos@ufba.br
 
 K4267155E4
 ## Pedro Henrique Rodrigues Alijó
