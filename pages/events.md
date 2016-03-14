@@ -2,6 +2,24 @@ Events {#events}
 ======
 
 ----------------------------------------------------------------------------------------------------
+ATOMS Seminar: Campos de Força Específicos, Construção e Aplicações
+----------------------------------------------------------------------------------------------------
+
+    Prof. Marco Antonio Chaer do Nascimento
+    Universidade Federal do Rio de Janeiro
+    Instituto de Química - Departamento de Físico-Química
+    DFQ/IQ/UFRJ
+
+* __Date__: March 18, 2016<br>
+* __Time__: 12:00 pm<br>
+* __Location__: Room G-119
+
+O laboratório ATOMS convida para o seminário o Professor Marco Antonio Chaer do Nascimento. Professor Titular de Físico-Química do Instituto de Química da UFRJ, o Professor Chaer é Membro Titular da Academia Brasileira de Ciências e já foi agraciado com diversos prêmios e honras, entre eles a Medalha Walter Baptist Mors e a Medalha Simão Mathias da Sociedade Brasileira de Química. Suas principais linhas de pesquisa dentro da área de Modelagem Molecular abrangem: catálise heterogênea, mecanismo de enovelamento de proteínas, desenho de inibidores de proteínas, desenho de materiais com propriedades óticas não-lineares e desenvolvimento de campos de força para metais, polímeros e argilas.
+
+<img src="../images/events/chaer.png" width="400">
+
+
+----------------------------------------------------------------------------------------------------
 ATOMS Seminar: Equations of State in Three Centuries - What have we learned? What more needs to be done?
 ----------------------------------------------------------------------------------------------------
 
