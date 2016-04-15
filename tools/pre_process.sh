@@ -8,7 +8,13 @@ mkdir -p proc
 if [ $# == "0" ] || [ $1 == "people" ]; then
   address="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id="
   for code in $(grep 'K[0-9]\{7\}[A-Z][0-9]' pages/people.md); do
-    eval "wget -O images/$code.jpg \"$address$code\""
+    image="images/$code.jpg"
+    eval "wget -O $image \"$address$code\""
+    width=$(identify -format "%w" $image)
+    if [ "$width" -gt "200" ]; then
+      percent=$(echo "20000/$width" | bc)
+      eval "convert -resize $percent% $image $image"
+    fi
   done
   before="<table id=\"gradient-style-large\"><tr><th><\/th><th><h2>"
   after="<\/h2><\/th><\/tr><tr><td><\/td><td>"
