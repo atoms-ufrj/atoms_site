@@ -74,7 +74,7 @@ K4238328Y0
 K8265433Y5
 ## José Antonio Scilipoti
 * Thesis: **Compositional Grading in Oil and Gas Reservoirs**
-* Advisors: Frederico W. Tavares
+* Advisor: Frederico W. Tavares
 * E-mail: jscilipoti@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
@@ -136,7 +136,7 @@ K4431921D7
 K4384811P8
 ## Rafael Pereira do Carmo
 * Thesis: **Modified SAFT Equation of State for Paraffin and Asphaltene Precipitation**
-* Advisors: Frederico W. Tavares
+* Advisor: Frederico W. Tavares
 * E-mail: rcarmo@peq.coppe.ufrj.br
 
 K4426112D6
@@ -169,7 +169,7 @@ K8568991H6
 K4462773T4
 ## Fellipe Carvalho de Oliveira
 * Thesis: **Determination of Rheological Behavior of Complex Fluids**
-* Advisors: Frederico W. Tavares
+* Advisor: Frederico W. Tavares
 * E-mail: fellipe.oliveira.ufc@gmail.com
 
 K4348506E6
@@ -208,9 +208,9 @@ K4406302J9
 
 K8290410Y8
 ## Leonardo Tourasse Galdino
-* Project: **Molecular Simulation of Drug Incorporation in a Multilayered Film of Colyelectrolytes**
-* Advisors: Charlles R. A. Abreu
-* E-mail: leo1010@gmail.com
+* Project: **Molecular Simulation of Drug Incorporation in a Multilayered Film of Polyelectrolytes**
+* Advisor: Charlles R. A. Abreu
+* E-mail: leotg1010@gmail.com
 
 
 <!------------------------------------------------------------------------------------------------->
