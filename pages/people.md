@@ -195,7 +195,12 @@ K4406302J9
 * Project: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
 * Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
 * E-mail: karinarpr@yahoo.com.br
-
+ 
+K4419572T6
+## Marlon de Souza Gama
+* Project: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
+* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* E-mail: marlongama@ufrj.br
 
 <!------------------------------------------------------------------------------------------------->
 @end
@@ -211,6 +216,18 @@ K8290410Y8
 * Project: **Molecular Simulation of Drug Incorporation in a Multilayered Film of Polyelectrolytes**
 * Advisor: Charlles R. A. Abreu
 * E-mail: leotg1010@gmail.com
+
+K8137399J3
+## Mayk Caldas Ramos
+* Project: **A Molecular Dynamics Analysis of Water on Zeolite**
+* Advisor: Charlles R. A. Abreu and Amaro G. Barreto Jr.
+* E-mail: maykcaldas@gmail.com
+
+K4335171A2
+## Thiago José Pinheiro dos Santos
+* Project: **Obtaning Hydrocarbon Transport Properties using Molecular Simulation**
+* Advisor: Frederico W. Tavares
+* E-mail: pinheiro.thiagoj@gmail.br
 
 
 <!------------------------------------------------------------------------------------------------->
