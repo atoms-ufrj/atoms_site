@@ -220,14 +220,14 @@ K8290410Y8
 K8137399J3
 ## Mayk Caldas Ramos
 * Project: **A Molecular Dynamics Analysis of Water on Zeolite**
-* Advisor: Charlles R. A. Abreu and Amaro G. Barreto Jr.
+* Advisors: Charlles R. A. Abreu and Amaro G. Barreto Jr.
 * E-mail: maykcaldas@gmail.com
 
 K4335171A2
 ## Thiago José Pinheiro dos Santos
 * Project: **Obtaning Hydrocarbon Transport Properties using Molecular Simulation**
 * Advisor: Frederico W. Tavares
-* E-mail: pinheiro.thiagoj@gmail.br
+* E-mail: pinheiro.thiagoj@gmail.com
 
 
 <!------------------------------------------------------------------------------------------------->
