@@ -204,7 +204,7 @@ K4419572T6
  
 K4478880A4
 ## Vítor de Morais Sermoud
-* Project: **Development of Adsorption Models to Gaseous System by Modified Linear Driving Force Concept**
+* Project: **Development of Adsorption Models to Gaseous System**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: vsermoud@gmail.com
 
