@@ -201,6 +201,12 @@ K4419572T6
 * Project: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: marlongama@ufrj.br
+ 
+K4478880A4
+## Vítor de Morais Sermoud
+* Project: **Development of Adsorption Models to Gaseous System**
+* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* E-mail: vsermoud@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
 @end
