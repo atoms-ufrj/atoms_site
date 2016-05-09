@@ -168,8 +168,8 @@ K8568991H6
 
 K4462773T4
 ## Fellipe Carvalho de Oliveira
-* Thesis: **Determination of Rheological Behavior of Complex Fluids**
-* Advisor: Frederico W. Tavares
+* Thesis: **Structural, Dynamical and Rheological Characterization of Colloidal Suspensions via Molecular Simulation**
+* Advisors: Frederico W. Tavares and João Manuel Luís Lopez Maia
 * E-mail: fellipe.oliveira.ufc@gmail.com
 
 K4348506E6
@@ -189,6 +189,12 @@ K4361739E1
 * Project: **Kinetic and thermodynamic analysis of the formation of hydrates**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: ingrid.azevedo@ufrj.br
+
+K4432903H3
+## José Rodrigues Torraca Neto
+* Thesis: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
+* Advisor: Amaro G. Barreto Jr.
+* E-mail: joseneto@eq.ufrj.br
 
 K4406302J9
 ## Karina Rodrigues Paiva Ranauro do Nascimento
