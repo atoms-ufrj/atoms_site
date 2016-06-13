@@ -6,6 +6,8 @@ Identifier (DOI). No caso de artigo em periódico, o DOI é normalmente fornecid
 após o aceite. Então, basta adicionar o novo DOI na lista abaixo, em qualquer posição, seguindo
 exatamente o formato dos demais.
 -->
+DOI: 10.1016/j.fluid.2016.05.020
+
 DOI: 10.1016/j.fluid.2015.11.010
 
 DOI: 10.1016/j.fluid.2016.03.005
