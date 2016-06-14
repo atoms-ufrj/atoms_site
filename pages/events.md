@@ -1,6 +1,22 @@
 Events {#events}
 ======
 
+--------------------------------------------------------------------------------------------------------
+ATOMS Seminar: Development of the thermodynamically consistent 2016H66 GROMOS-compatible force field
+--------------------------------------------------------------------------------------------------------
+
+    Prof. Bruno Araujo Cautiero Horta
+    Universidade Federal do Rio de Janeiro
+    Instituto de Química - Departamento de Química Orgânica
+    DQO/IQ/UFRJ
+
+* __Date__: June 17, 2016<br>
+* __Time__: 12:00 pm<br>
+* __Location__: Room G-119
+
+The GROMOS force field is one of the widely used force fields for condensed-phase simulations.It has been applied to a variety of systems including molecular liquids, solvated biomolecules, crystals, membrane bilayers, polymers among others. The philosophy underlying the development and improvements of this force field encompasses a simple functional form, a minimal number of atom types and a parametrization focusing on primary experimental data instead of derived data. The pure-liquid and solvation properties of small organic molecules have played a central role in the parametrization of the recent versions of the GROMOS force field. An assumption of transferability has been invoked to justify the use of parameters calibrated in this context for chemically similar fragments within larger molecules, e.g. biomolecules. Recently, we have shown that the calibration of the non-bonded parameters towards the reproduction of simultaneously liquid properties (density and heat of vaporization) and solvation free energies in polar and apolar environments is possible and leads to a more consistent force field, able to reproduce not only the target properties for a vast range of compounds, but also other thermodynamic and dynamic properties within an acceptable error. This presentation will cover the following aspects: (i) a brief historical background of the GROMOS force field and its improvements; (ii) our motivation to reparametrize the non-bonded interactions; (iii) the parametrization strategy employed; (iv) the results obtained with the new parameter set; (v) the application to systems of technological interest.
+
+
 ----------------------------------------------------------------------------------------------------
 ATOMS Seminar: Campos de Força Específicos, Construção e Aplicações
 ----------------------------------------------------------------------------------------------------
