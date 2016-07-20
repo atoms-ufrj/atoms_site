@@ -2,6 +2,20 @@ Events {#events}
 ======
 
 --------------------------------------------------------------------------------------------------------
+ATOMS Seminar: Parafinas e Asfaltenos - as dificuldades e benefícios da interação empresa/universidade
+--------------------------------------------------------------------------------------------------------
+
+    Felipe Fleming
+    Químico de Petróleo
+    Petrobras - Cenpes
+
+* __Date__: July 29, 2016<br>
+* __Time__: 12:00 pm<br>
+* __Location__: Room G-121
+
+Toda indústria moderna depende do domínio da tecnologia que utiliza para se tornar mais rentável e competitiva. A indústria do petróleo, mais além, depende também do constante desenvolvimento de tecnologias para superar os desafios que se apresentam em novos campos, ou até mesmo em novas condições operacionais de campos antigos. Para tal, a parceria com universidades torna-se central canal de desenvolvimento de tecnologia e troca de conhecimento. No entanto, problemas de linguagem, objetivos, prioridades e até vocação tornam-se obstáculos no caminho da eficiência da colaboração. Pretende-se, então, apresentar a experiência do grupo nessa interface e se propor melhorias no processo para aumentar sua eficiência.
+
+--------------------------------------------------------------------------------------------------------
 ATOMS Seminar: Development of the thermodynamically consistent 2016H66 GROMOS-compatible force field
 --------------------------------------------------------------------------------------------------------
 
