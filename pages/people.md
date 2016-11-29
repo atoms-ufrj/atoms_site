@@ -52,11 +52,6 @@ K4338076H4
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: fernando.medeiros01@gmail.com
 
-K4267155E4
-## Pedro Henrique Rodrigues Alijó
-* Chemical Engineering Department - School of Chemistry - UFRJ
-* Chemical Engineering Program - COPPE - UFRJ
-* E-mail: pedroalijo@gmail.com
 
 K4238328Y0
 ## Vinicius Menez da Silva
@@ -77,6 +72,12 @@ K8265433Y5
 * Advisor: Frederico W. Tavares
 * E-mail: jscilipoti@gmail.com
 
+K4209625U4
+## Rafael Mengotti Charin
+* Thesis: **High Pressure Phase Behavior of Alphaltenes and Hydrates**
+* Advisor: Frederico W. Tavares
+* E-mail: rafaelcharin@yahoo.com.br
+
 <!------------------------------------------------------------------------------------------------->
 @end
 
@@ -91,11 +92,29 @@ K8562306D4
 * Advisors: Selva Pereda and Charlles R. A. Abreu
 * E-mail: asilveira@plapiqui.edu.ar
 
+K4278078T5
+## Ana Paula Palhares Simoncelli
+* Thesis: **Thermodynamic Study of Asphaltene Precipitation**
+* Advisors: Frederico W. Tavares and Papa M. Ndiaye
+* E-mail: palhares@poli.ufrj.br
+
+K4406651Z0
+## Arthur Jesse Oliveira Braga
+* Thesis: **High Pressure Phase Equilibria of Petroleum Heavy Fractions: Experimental and Thermodynamic Study**
+* Advisors: Frederico W. Tavares and Papa M. Ndiaye
+* E-mail: arthur.ufma@gmail.com
+
 K4327048A3
 ## Carla Luciane Manske Camargo
 * Thesis: **Study of Mercury Sorption on Sulfided Hydroxyapatite-based Adsorbents**
 * Advisors: Frederico W. Tavares and Vera Maria Martins Salim
 * E-mail: cmanske@peq.coppe.ufrj.br
+
+K4462773T4
+## Fellipe Carvalho de Oliveira
+* Thesis: **Structural, Dynamical and Rheological Characterization of Colloidal Suspensions via Molecular Simulation**
+* Advisors: Frederico W. Tavares and João Manuel Luís Lopez Maia
+* E-mail: fellipe.oliveira.ufc@gmail.com
 
 K4298461A4
 ## Filipe Arantes Furtado
@@ -109,9 +128,15 @@ K4413804P6
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
 * E-mail: gdbarbosa@iq.urfj.br
 
+K4361739E1
+## Ingrid Azevedo de Oliveira
+* Thesis: **Kinetic and Thermodynamic Analysis of the Formation of Hydrates**
+* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* E-mail: ingrid.azevedo@ufrj.br
+
 K4404224D3
 ## Iuri Soter Viana Segtovich
-* Thesis: **Statistical mechanics modelling of hydrate nucleation and growth rates**
+* Thesis: **Statistical Mechanics Modelling of Hydrate Nucleation and Growth Rates**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: iurisegtovich@gmail.com
 
@@ -121,9 +146,15 @@ K4216699A9
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: jmaciel@peq.coppe.ufrj.br
 
+K4419572T6
+## Marlon de Souza Gama
+* Thesis: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
+* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* E-mail: marlongama@ufrj.br
+
 K4298011A3
 ## Mirella Simões Santos
-* Thesis: **Application of the extended Poisson-Fermi-Nernst-Planck approach for colloidal and proteic systems**
+* Thesis: **Application of the Extended Poisson-Fermi-Nernst-Planck Approach for Colloidal and Proteic Systems**
 * Advisors: Frederico W. Tavares and Evaristo C. Biscaia Jr.
 * E-mail: mirella@peq.coppe.ufrj.br
 
@@ -162,19 +193,19 @@ K4257847Z6
 
 K8568991H6
 ## Diego Stone de Souza Aires
-* Project: **Calculation Methods for Soret Coefficient in Compositional Grading Models for Petroleum Reservoirs**
+* Thesis: **Calculation Methods for Soret Coefficient in Compositional Grading Models for Petroleum Reservoirs**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: dsaires@ufrj.br
 
-K4462773T4
-## Fellipe Carvalho de Oliveira
-* Thesis: **Structural, Dynamical and Rheological Characterization of Colloidal Suspensions via Molecular Simulation**
-* Advisors: Frederico W. Tavares and João Manuel Luís Lopez Maia
-* E-mail: fellipe.oliveira.ufc@gmail.com
+K4338076H4
+## Fernando de Azevedo Medeiros
+* Thesis: **Thermodynamic Study of Hydrates Formation**
+* Advisor: Frederico W. Tavares
+* E-mail: fernando.medeiros01@gmail.com
 
 K4348506E6
 ## Guilherme Carneiro Queiroz da Silva
-* Project: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
+* Thesis: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
 * Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
 * E-mail: gcarneiroq@gmail.com
 
@@ -184,12 +215,6 @@ K4428226U6
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: hermes@eq.ufrj.br
 
-K4361739E1
-## Ingrid Azevedo de Oliveira
-* Project: **Kinetic and thermodynamic analysis of the formation of hydrates**
-* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
-* E-mail: ingrid.azevedo@ufrj.br
-
 K4432903H3
 ## José Rodrigues Torraca Neto
 * Thesis: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
@@ -198,19 +223,13 @@ K4432903H3
 
 K4406302J9
 ## Karina Rodrigues Paiva Ranauro do Nascimento
-* Project: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
+* Thesis: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
 * Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
 * E-mail: karinarpr@yahoo.com.br
  
-K4419572T6
-## Marlon de Souza Gama
-* Project: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
-* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
-* E-mail: marlongama@ufrj.br
- 
 K4478880A4
 ## Vítor de Morais Sermoud
-* Project: **Development of Adsorption Models to Gaseous System**
+* Thesis: **Development of Adsorption Models to Gaseous System**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: vsermoud@gmail.com
 
@@ -265,19 +284,19 @@ K4164770A8
 
 K4481961P9
 ## Dheiver Francisco Santos
-* Project: **Properties of mixtures containing protic ionic liquids. A study of specific interactions**
+* Project: **Properties of Mixtures Containing Protic Ionic Liquids. A Study of Specific Interactions**
 * Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
 * E-mail: dheiver.santos@ufba.br
 
 K4267155E4
 ## Pedro Henrique Rodrigues Alijó
-* Thesis: **Steric and electrostatic correlation effects on ion dynamics near charged electrodes**
+* Thesis: **Steric and Electrostatic Correlation Effects on Ion Dynamics near Charged Electrodes**
 * Advisors: Frederico W. Tavares and Evaristo C. Biscaia Jr.
 * E-mail: pedroalijo@gmail.com
 
 K4209625U4
 ## Rafael Mengotti Charin
-* Thesis: **Emulsion phase inversion and eletrical properties in oil phase**
+* Thesis: **Emulsion Phase Inversion and Eletrical Properties in Oil Phase**
 * Advisors: Frederico W. Tavares and Marcio Nele
 * E-mail: rafaelcharin@yahoo.com.br
 
