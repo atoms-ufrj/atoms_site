@@ -44,6 +44,22 @@ equation of state and molecular simulation.
 
 ----------------------------------------------------------------------------------------------------
 
+## Wax Precipitation
+
+During production, petroleum is submitted to different temperature and pressure conditions, which 
+can lead to precipitation of different solids, such as hydrates, asphaltenes and waxes. Among these 
+flow assurance issues, wax deposition gains importance as the frontiers of oil exploration moves 
+towards hostile environments, like deep water and the Artic. Wax deposition is hard to remediate, 
+as it depends on mechanical removal of the deposits through pigging operations or chemical intervention 
+like solvent soaking. As these different operations lead to production loss, the most cost effective 
+strategy to deal with wax deposition is to avoid it during the design of production installations. 
+Thus, the use of thermodynamic models for the calculation of solid-liquid equilibria (SLE) for mixtures 
+of waxes and oil is very important to the petroleum industry. Therefore, our group studies, in 
+collaboration with Petrobras, the thermodynamic aspects related to wax precipitation using 
+different approaches available in the literature. 
+
+------------------------------------------------------------------------------------------------------
+
 ## Structure-Property Relations of Complex Materials
 
 Our research focuses on the study of materials and their applications by means of microscopic-scale
