@@ -10,7 +10,9 @@ for Molecular Dynamics and Monte Carlo simulations.
 
 Git repository: https://github.com/atoms-ufrj/playmol
 
-User's Manual: http://atoms.peq.coppe.ufrj.br/playmol
+User's Manual: http://atoms-ufrj.github.io/playmol/docs/html
+
+Discussion Forum: https://groups.google.com/forum/#!forum/playmol-users
 
 
 ----------------------------------------------------------------------------------------------------
