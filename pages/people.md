@@ -33,6 +33,7 @@ K4766494T6
 K4763426D4
 ## Prof. Papa M. Ndiaye
 * Chemical Engineering Department - School of Chemistry - UFRJ
+* Chemical Engineering Program - COPPE - UFRJ
 * E-mail: papa@eq.ufrj.br
 
 K4765968P1
@@ -65,6 +66,13 @@ K4238328Y0
 <!------------------------------------------------------------------------------------------------->
 @header: Postdoctoral Researchers
 <!------------------------------------------------------------------------------------------------->
+
+
+K4327048A3
+## Carla Luciane Manske Camargo
+* Thesis: **Emulsion Stability Study**
+* Advisors: Frederico W. Tavares and Márcio Nele
+* E-mail: cmanske@peq.coppe.ufrj.br
 
 K8265433Y5
 ## José Antonio Scilipoti
@@ -104,23 +112,11 @@ K4406651Z0
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: arthur.ufma@gmail.com
 
-K4327048A3
-## Carla Luciane Manske Camargo
-* Thesis: **Study of Mercury Sorption on Sulfided Hydroxyapatite-based Adsorbents**
-* Advisors: Frederico W. Tavares and Vera Maria Martins Salim
-* E-mail: cmanske@peq.coppe.ufrj.br
-
 K4462773T4
 ## Fellipe Carvalho de Oliveira
 * Thesis: **Structural, Dynamical and Rheological Characterization of Colloidal Suspensions via Molecular Simulation**
 * Advisors: Frederico W. Tavares and João Manuel Luís Lopez Maia
 * E-mail: fellipe.oliveira.ufc@gmail.com
-
-K4298461A4
-## Filipe Arantes Furtado
-* Thesis: **Experimental Determination and Non-Equilibrium Molecular Dynamics Simulation of Thermodiffusion Coefficients of Mixtures**
-* Advisors: Frederico W. Tavares, Charlles R. A. Abreu, and Abbas Firoozabadi
-* E-mail: filipe@peq.coppe.ufrj.br
 
 K4413804P6
 ## Gabriel Duarte Barbosa
@@ -145,6 +141,12 @@ K4216699A9
 * Thesis: **Molecular Simulation of Rigid Molecules Aiming at Improving the COSMO-SAC Model**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: jmaciel@peq.coppe.ufrj.br
+
+K8124300E0
+## keerti Vardhan Sharma
+* Thesis: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
+* Advisor: Frederico W. Tavares
+* E-mail: royalkeerti@hotmail.com
 
 K4419572T6
 ## Marlon de Souza Gama
@@ -203,17 +205,17 @@ K4338076H4
 * Advisor: Frederico W. Tavares
 * E-mail: fernando.medeiros01@gmail.com
 
-K4348506E6
-## Guilherme Carneiro Queiroz da Silva
-* Thesis: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
-* Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
-* E-mail: gcarneiroq@gmail.com
-
 K4428226U6
 ## Hermes Ribeiro Sant'Anna
 * Thesis: **Numerical Simulation of N2 and CH4 Separation Through Adsorption in Silicalite**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: hermes@eq.ufrj.br
+
+K4331379J6
+## Isabela Quintela Matos
+* Thesis: **Determination of Partition Coefficients of Asphaltenes Type Molecules Through Molecular Simulation With SAFT-γ CG Mie Force Field**
+* Advisors: Charlles R. A. Abreu and Papa M. Ndiaye
+* E-mail: iquintelam@ufrj.br
 
 K4432903H3
 ## José Rodrigues Torraca Neto
@@ -227,6 +229,20 @@ K4406302J9
 * Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
 * E-mail: karinarpr@yahoo.com.br
  
+
+K4331136Y5
+## Maria Rosa Rocha Tenório Góes
+* Thesis: **Simulation of Paraffin Precipitation in One-dimensional Two-Phase Flow**
+* Advisors: Frederico W. Tavares and Argimiro R. Secchi
+* E-mail: mgoes@peq.coppe.ufrj.br
+
+
+K4368519A7
+## Renata Cazelato Gaioto
+* Thesis: **Kinetic and Thermodynamic Study of Drug Precipitation**
+* Advisor: Frederico W. Tavares
+* E-mail: renatacgaioto@gmail.com
+
 K4478880A4
 ## Vítor de Morais Sermoud
 * Thesis: **Development of Adsorption Models to Gaseous System**
@@ -288,6 +304,18 @@ K4481961P9
 * Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
 * E-mail: dheiver.santos@ufba.br
 
+K4298461A4
+## Filipe Arantes Furtado
+* Thesis: **Experimental Determination and Non-Equilibrium Molecular Dynamics Simulation of Thermodiffusion Coefficients of Mixtures**
+* Advisors: Frederico W. Tavares, Charlles R. A. Abreu, and Abbas Firoozabadi
+* E-mail: filipe@peq.coppe.ufrj.br
+
+K4348506E6
+## Guilherme Carneiro Queiroz da Silva
+* Thesis: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
+* Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
+* E-mail: gcarneiroq@gmail.com
+
 K4267155E4
 ## Pedro Henrique Rodrigues Alijó
 * Thesis: **Steric and Electrostatic Correlation Effects on Ion Dynamics near Charged Electrodes**
@@ -299,6 +327,12 @@ K4209625U4
 * Thesis: **Emulsion Phase Inversion and Eletrical Properties in Oil Phase**
 * Advisors: Frederico W. Tavares and Marcio Nele
 * E-mail: rafaelcharin@yahoo.com.br
+
+K8569592Z9
+## Reinaldo Calderón Supelano
+* Thesis: **Phase Equilibria and Thermodynamic Stability in Multiphase Flashes**
+* Advisors: Frederico W. Tavares and Argimiro R. Secchi
+* E-mail: reinaldocalderon.s@gmail.com
 
 K4451104E6
 ## Tatiana Pitchon Sampaio
