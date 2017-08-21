@@ -74,11 +74,6 @@ K4327048A3
 * Advisors: Frederico W. Tavares and Márcio Nele
 * E-mail: cmanske@peq.coppe.ufrj.br
 
-K8265433Y5
-## José Antonio Scilipoti
-* Thesis: **Compositional Grading in Oil and Gas Reservoirs**
-* Advisor: Frederico W. Tavares
-* E-mail: jscilipoti@gmail.com
 
 K4209625U4
 ## Rafael Mengotti Charin
@@ -143,9 +138,9 @@ K4216699A9
 * E-mail: jmaciel@peq.coppe.ufrj.br
 
 K8124300E0
-## keerti Vardhan Sharma
+## Keerti Vardhan Sharma
 * Thesis: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
-* Advisor: Frederico W. Tavares
+* Advisors: Frederico W. Tavares and Robert Straka (in collaboration with this project)
 * E-mail: royalkeerti@hotmail.com
 
 K4419572T6
@@ -315,6 +310,12 @@ K4348506E6
 * Thesis: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
 * Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
 * E-mail: gcarneiroq@gmail.com
+
+K8265433Y5
+## José Antonio Scilipoti
+* Thesis: **Compositional Grading in Oil and Gas Reservoirs**
+* Advisor: Frederico W. Tavares
+* E-mail: jscilipoti@gmail.com
 
 K4267155E4
 ## Pedro Henrique Rodrigues Alijó
