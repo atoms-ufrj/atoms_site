@@ -75,3 +75,12 @@ we have being studying the equilibrium adsorption of polymers on solids with het
 distributions of active sites, the effects of molecular topology on the scaling behavior and phase
 transitions of complex polymers, and the interaction between proteins and electrically charged
 surfaces of existing nanodevices.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+## Lattice Boltzmann Methods (LBM)
+
+The research stream of Lattice Boltzmann Methods (LBM) is a relatively new candidate in the family of  Computational Fluid Dynamics (CFD) research. Discretizing the Boltzmann’s Transport Equation with finite velocity sets and using the appropriate collision schemes can efficiently solve fluid flow and heat transfer problems. Fluid is considered as fictitious particle and probability distribution functions are characterising the evolution of each particle. Mass, momentum, and energy conservation rules are obliged on suitable lattice models. Navier-Stokes equations can easily be recovered when hydrodynamic limits of the lattice Boltzmann equations are considered. Complex boundary conditions can be incorporated naturally in the LBM thus making LBM the favourite choice for simulations of fluid flows and thermal transport in complex geometry e.g., porous media. It is proven that LBM provides accurate and stable solutions for complex geometry and turbulent flows.
+We, together with AGH University of science and technology, Poland, recently opened up this new research stream at ATOMS to look for real world solutions to address some genuine problems regarding fluid flow and heat transfer. Our current activities involves development of the theoretical foundations and the in-house software based on cascaded, cumulant and entropic isothermal/thermal LBMs i.e. the state-of-art computational tools, which will be applied to complex fluid flows through porous media that can be of great interest to petroleum industry applications e.g., multiphase flows, phase separation, phase transition, mixing of chemicals, reservoir simulations, etc.
