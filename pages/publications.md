@@ -1,6 +1,7 @@
 Publications {#publications}
 ============
 
+
 <!--Para acrescentar uma nova publicação, basta que ela esteja associada a um Digital Object
 Identifier (DOI). No caso de artigo em periódico, o DOI é normalmente fornecido pela editora logo
 após o aceite. Então, basta adicionar o novo DOI na lista abaixo, em qualquer posição, seguindo
@@ -145,3 +146,16 @@ DOI: 10.1002/cjce.22558
 DOI: 10.1016/j.chroma.2016.09.070
 
 DOI: 10.1063/1.5003636
+
+DOI: 10.1016/j.jct.2017.08.003
+
+DOI: 10.1016/j.jct.2017.08.005
+
+DOI: 10.1016/j.chroma.2017.11.022
+
+DOI: 10.1016/j.colsurfa.2017.11.028
+
+DOI: 10.1021/acs.jced.7b00126
+
+
+
