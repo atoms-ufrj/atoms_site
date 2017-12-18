@@ -90,7 +90,7 @@ K8323782A7
 
 K8562306D4
 ## Ana Jorgelina Silveira
-* Thesis: **Molecular Design for Processing and Purification of Biomass Hydrolysates**
+* Thesis: **Sampling Strategies in Molecular Simulation with Rigid Bodies: Critical Evaluation and Application to Solvation Free Energy Calculations**
 * Advisors: Selva Pereda and Charlles R. A. Abreu
 * E-mail: asilveira@plapiqui.edu.ar
 
@@ -154,12 +154,6 @@ K4419572T6
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: marlongama@ufrj.br
 
-K4298011A3
-## Mirella Simões Santos
-* Thesis: **Application of the Extended Poisson-Fermi-Nernst-Planck Approach for Colloidal and Proteic Systems**
-* Advisors: Frederico W. Tavares and Evaristo C. Biscaia Jr.
-* E-mail: mirella@peq.coppe.ufrj.br
-
 K4267685E1
 ## Monique Lombardo de Almeida
 * Thesis: **Stability of Water-in-Oil Emulsions in the Presence of External Fields**
@@ -179,7 +173,7 @@ K4384811P8
 * E-mail: rcarmo@peq.coppe.ufrj.br
 
 K4866719A0
-## Thales Cainã dos Santos Barbalh
+## Thales Cainã dos Santos Barbalho
 * Thesis: **Water Content Determination in Natural Gas Streams**
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: thales@peq.coppe.ufrj.br
@@ -189,12 +183,6 @@ K4426112D6
 * Thesis: **Molecular Dynamics of Self-Assembling Gradient Copolymers**
 * Advisors: José Carlos Pinto and Charlles R. A. Abreu
 * E-mail: tlemos@peq.coppe.ufrj.br
-
-K4257847Z6
-## Troner Assenheimer de Souza
-* Thesis: **Emulsion Stability in the Presence of External Electric Fields**
-* Advisors: Frederico W. Tavares and Márcio Nele de Souza
-* E-mail: tassenheimer@gmail.com
 
 K4478880A4
 ## Vítor de Morais Sermoud
@@ -235,12 +223,6 @@ K4432903H3
 * Advisor: Amaro G. Barreto Jr.
 * E-mail: joseneto@eq.ufrj.br
 
-K4406302J9
-## Karina Rodrigues Paiva Ranauro do Nascimento
-* Thesis: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
-* Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
-* E-mail: karinarpr@yahoo.com.br
- 
 K8041171E1
 ## Mariana Amorim de Almeida
 * Thesis: **Extension of an Equation of State to the Modeling of Confined Fluids**
@@ -337,6 +319,12 @@ K8265433Y5
 * Advisor: Frederico W. Tavares
 * E-mail: jscilipoti@gmail.com
 
+K4406302J9
+## Karina Rodrigues Paiva Ranauro do Nascimento
+* Thesis: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
+* Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
+* E-mail: karinarpr@yahoo.com.br
+ 
 K4777258Y8
 ## Letícia Cotia dos Santos
 * Thesis: **An Association Model to Calculate Phase Equilibria of Complex Mixtures With Focus in the Natural Gas Processing**
@@ -348,6 +336,12 @@ K8137399J3
 * Project: **A Molecular Dynamics Analysis of Water on Zeolite**
 * Advisors: Charlles R. A. Abreu and Amaro G. Barreto Jr.
 * E-mail: maykcaldas@gmail.com
+
+K4298011A3
+## Mirella Simões Santos
+* Thesis: **Application of the Extended Poisson-Fermi-Nernst-Planck Approach for Colloidal and Proteic Systems**
+* Advisors: Frederico W. Tavares and Evaristo C. Biscaia Jr.
+* E-mail: mirella@peq.coppe.ufrj.br
 
 K4267155E4
 ## Pedro Henrique Rodrigues Alijó
@@ -378,6 +372,12 @@ K4451104E6
 * Thesis: **Bivariate Population Balance Model for Hydrate Formation Considering Mass and Heat Transfer Limitations**
 * Advisors: Frederico W. Tavares and Paulo L. C. Lage
 * E-mail: tpitchon@gmail.com
+
+K4257847Z6
+## Troner Assenheimer de Souza
+* Thesis: **Emulsion Stability in the Presence of External Electric Fields**
+* Advisors: Frederico W. Tavares and Márcio Nele de Souza
+* E-mail: tassenheimer@gmail.com
 
 @end
 
