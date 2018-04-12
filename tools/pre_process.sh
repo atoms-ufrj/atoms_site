@@ -48,6 +48,7 @@ if [ $# == "0" ] || [ $1 == "publications" ]; then
     for doi in $(egrep "$regex" pages/publications.md | sed -r "s/$regex/\1/g"); do
       tools/doi2bib.sh $doi
     done
+    cat pages/publications.bib
     echo "</pre>"
     echo "<script type=\"text/javascript\" src=\"bib-list.js\"></script>"
     echo "<script type=\"text/javascript\">"
