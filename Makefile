@@ -1,6 +1,6 @@
 PAGES = $(wildcard pages/*.md)
 
-.PHONY: clean
+.PHONY: clean view
 
 all: en/index.html
 
@@ -18,3 +18,7 @@ clean:
 	rm -rf en/*
 	rm -rf proc/*
 	ls images/K* | grep 'K[0-9]\{7\}[A-Z][0-9].jpg' | xargs rm -f
+
+view:
+	firefox en/index.html
+

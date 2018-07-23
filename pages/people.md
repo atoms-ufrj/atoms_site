@@ -262,6 +262,12 @@ K4335171A2
 * Advisor: Frederico W. Tavares
 * E-mail: pinheiro.thiagoj@gmail.com
 
+K8694587J3
+## Arthur Mussi Luz
+* Project: **Calculation of Properties of Deep Eutectic Solvents by Molecular Dynamics Simulation**
+* Advisors: Charlles R. A. Abreu e Jéssica C. S. L. Maciel
+* E-mail: arthur_mussi@eq.ufrj.br
+
 
 <!------------------------------------------------------------------------------------------------->
 @end
@@ -326,8 +332,8 @@ K4331379J6
 * E-mail: iquintelam@ufrj.br
 
 K4216699A9
-## Jéssica Caroline da Silva Linhares
-* Thesis: **Molecular Simulation of Rigid Molecules Aiming at Improving the COSMO-SAC Model**
+## Jéssica Caroline da Silva Linhares Maciel
+* Thesis: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: jmaciel@peq.coppe.ufrj.br
 
