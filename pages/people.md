@@ -265,7 +265,7 @@ K4335171A2
 K8694587J3
 ## Arthur Mussi Luz
 * Project: **Calculation of Properties of Deep Eutectic Solvents by Molecular Dynamics Simulation**
-* Advisors: Charlles R. A. Abreu e Jéssica C. S. L. Maciel
+* Advisors: Charlles R. A. Abreu and Jéssica C. S. L. Maciel
 * E-mail: arthur_mussi@eq.ufrj.br
 
 
