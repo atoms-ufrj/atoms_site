@@ -199,12 +199,6 @@ K4478880A4
 @header: Master's Degree Students
 <!------------------------------------------------------------------------------------------------->
 
-K4338076H4
-## Fernando de Azevedo Medeiros
-* Thesis: **Thermodynamic Study of Hydrates Formation**
-* Advisor: Frederico W. Tavares
-* E-mail: fernando.medeiros01@gmail.com
-
 K4201727Y3
 ## Hugo Candia Saad
 * Thesis: **Thermodynamic Properties of CO2 in Mixtures of Natural Gas and Water**
@@ -232,7 +226,7 @@ K4208759D4
 K4030740P3
 ## Yamara Matos Oliveira
 * Thesis: **Application of the Lattice Boltzmann Method for Porous Media Flows in Critical Situation**
-* Advisor: Charlles R. A. Abreu
+* Advisors: Charlles R. A. Abreu and Frederico W. Tavares
 * E-mail: yamaramatos@gmail.com
 
 K8073148E6
@@ -250,6 +244,18 @@ K8073148E6
 @header: Undergraduate Students
 <!------------------------------------------------------------------------------------------------->
 
+K8694587J3
+## Arthur Mussi Luz
+* Project: **Calculation of Properties of Deep Eutectic Solvents by Molecular Dynamics Simulation**
+* Advisors: Charlles R. A. Abreu and Jéssica C. S. L. Maciel
+* E-mail: arthur_mussi@eq.ufrj.br
+
+K4300549A9
+## Breno Cassaro Mourão
+* Project: **Application of Multistate Methods to Compute Property Profiles of Deep Eutectic Solvents by Molecular Simulation**
+* Advisor: Charlles R. A. Abreu
+* E-mail: b.c.mquim@gmail.com
+
 K8290410Y8
 ## Leonardo Tourasse Galdino
 * Project: **Molecular Simulation of Drug Incorporation in a Multilayered Film of Polyelectrolytes**
@@ -259,15 +265,8 @@ K8290410Y8
 K4335171A2
 ## Thiago José Pinheiro dos Santos
 * Project: **Obtaning Hydrocarbon Transport Properties using Molecular Simulation**
-* Advisor: Frederico W. Tavares
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: pinheiro.thiagoj@gmail.com
-
-K8694587J3
-## Arthur Mussi Luz
-* Project: **Calculation of Properties of Deep Eutectic Solvents by Molecular Dynamics Simulation**
-* Advisors: Charlles R. A. Abreu and Jéssica C. S. L. Maciel
-* E-mail: arthur_mussi@eq.ufrj.br
-
 
 <!------------------------------------------------------------------------------------------------->
 @end
@@ -277,6 +276,7 @@ K8694587J3
 <!------------------------------------------------------------------------------------------------->
 @header: Former members
 <!------------------------------------------------------------------------------------------------->
+
 K8562306D4
 ## Ana Jorgelina Silveira
 * Thesis: **Sampling Strategies in Molecular Simulation with Rigid Bodies: Critical Evaluation and Application to Solvation Free Energy Calculations**
@@ -294,7 +294,7 @@ K4164770A8
 * Thesis: **Equation of State Based on COSMO Quantum Chemistry Calculations**
 * Advisors: Frederico W. Tavares and Argimiro R. Secchi
 * E-mail: caue.costa@gmail.com
- 
+
 K8568991H6
 ## Diego Stone de Souza Aires
 * Thesis: **Calculation Methods for Soret Coefficient in Compositional Grading Models for Petroleum Reservoirs**
@@ -306,6 +306,12 @@ K4481961P9
 * Project: **Properties of Mixtures Containing Protic Ionic Liquids. A Study of Specific Interactions**
 * Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
 * E-mail: dheiver.santos@ufba.br
+
+K4338076H4
+## Fernando de Azevedo Medeiros
+* Thesis: **Thermodynamic Study of Hydrates Formation**
+* Advisor: Frederico W. Tavares
+* E-mail: fernando.medeiros01@gmail.com
 
 K4298461A4
 ## Filipe Arantes Furtado
@@ -348,7 +354,7 @@ K4406302J9
 * Thesis: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
 * Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
 * E-mail: karinarpr@yahoo.com.br
- 
+
 K4777258Y8
 ## Letícia Cotia dos Santos
 * Thesis: **An Association Model to Calculate Phase Equilibria of Complex Mixtures With Focus in the Natural Gas Processing**
@@ -404,4 +410,3 @@ K4257847Z6
 * E-mail: tassenheimer@gmail.com
 
 @end
-
