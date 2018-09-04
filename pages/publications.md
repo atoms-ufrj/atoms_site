@@ -8,5 +8,11 @@ após o aceite. Então, basta adicionar o novo DOI na lista abaixo, em qualquer 
 exatamente o formato dos demais.
 -->
 
+DOI: 10.1039/C8CP02455C
+DOI: 10.1016/j.fluid.2018.07.030
+DOI: 10.1016/j.ijthermalsci.2018.08.033
+DOI: 10.1016/j.fuel.2018.05.063
+DOI: 10.1016/j.matdes.2018.06.002
+DOI: 10.1016/j.fluid.2018.02.019
 DOI: 10.1016/j.jct.2017.08.003
 
