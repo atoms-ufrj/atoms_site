@@ -41,6 +41,11 @@ K4765968P1
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: amaro@eq.ufrj.br
 
+K4327048A3
+## Carla Luciane Manske Camargo
+* Chemical Engineering Department - School of Chemistry - UFRJ
+* E-mail: carlamanske@eq.ufrj.br
+
 <!------------------------------------------------------------------------------------------------->
 @end
 
@@ -48,11 +53,10 @@ K4765968P1
 @header: Research Assistants
 <!------------------------------------------------------------------------------------------------->
 
-K4338076H4
-## Fernando de Azevedo Medeiros
+K4236807P2
+## Amanda Gerhardt de Oliveira Ferreira
 * Chemical Engineering Department - School of Chemistry - UFRJ
-* E-mail: fernando.medeiros01@gmail.com
-
+* E-mail: agerhardt@peq.coppe.ufrj.br
 
 K4238328Y0
 ## Vinicius Menez da Silva
@@ -67,12 +71,17 @@ K4238328Y0
 @header: Postdoctoral Researchers
 <!------------------------------------------------------------------------------------------------->
 
+K4413804P6
+## Gabriel Duarte Barbosa
+* Thesis: **Confined Fluids Modeling**
+* Advisors: Frederico W. Tavares and Leonardo Travalloni
+* E-mail: gdbarbosa@eq.urfj.br
 
-K4327048A3
-## Carla Luciane Manske Camargo
-* Thesis: **Thermodynamic Modeling of Emulsions and Microemulsions**
-* Advisors: Frederico W. Tavares and Márcio Nele
-* E-mail: cmanske@peq.coppe.ufrj.br
+K4216699A9
+## Jéssica Caroline da Silva Linhares Maciel
+* Thesis: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
+* E-mail: jmaciel@peq.coppe.ufrj.br
 
 <!------------------------------------------------------------------------------------------------->
 @end
@@ -111,12 +120,6 @@ K4462773T4
 * Thesis: **Structural, Dynamical and Rheological Characterization of Colloidal Suspensions via Molecular Simulation**
 * Advisors: Frederico W. Tavares and João Manuel Luís Lopez Maia
 * E-mail: fellipe.oliveira.ufc@gmail.com
-
-K4413804P6
-## Gabriel Duarte Barbosa
-* Thesis: **Confined Fluids Modeling**
-* Advisors: Frederico W. Tavares and Leonardo Travalloni
-* E-mail: gdbarbosa@eq.urfj.br
 
 K4361739E1
 ## Ingrid Azevedo de Oliveira
@@ -223,6 +226,12 @@ K4208759D4
 * Advisors: Frederico W. Tavares and Letícia Cotia dos Santos
 * E-mail: samir@peq.coppe.ufrj.br
 
+K4335171A2
+## Thiago José Pinheiro dos Santos
+* Project: **Determination of transport coefficients of CO2 and n-alkanes mixtures under reservoir conditions using Molecular Dynamics**
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
+* E-mail: pinheiro.thiagoj@gmail.com
+
 K4030740P3
 ## Yamara Matos Oliveira
 * Thesis: **Application of the Lattice Boltzmann Method for Porous Media Flows in Critical Situation**
@@ -262,12 +271,6 @@ K8290410Y8
 * Advisor: Charlles R. A. Abreu
 * E-mail: leotg1010@gmail.com
 
-K4335171A2
-## Thiago José Pinheiro dos Santos
-* Project: **Obtaning Hydrocarbon Transport Properties using Molecular Simulation**
-* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
-* E-mail: pinheiro.thiagoj@gmail.com
-
 <!------------------------------------------------------------------------------------------------->
 @end
 
@@ -301,12 +304,6 @@ K8568991H6
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: dsaires@ufrj.br
 
-K4481961P9
-## Dheiver Francisco Santos
-* Project: **Properties of Mixtures Containing Protic Ionic Liquids. A Study of Specific Interactions**
-* Advisors: Silvana Mattedi, Frederico W. Tavares, and Charlles R. A. Abreu
-* E-mail: dheiver.santos@ufba.br
-
 K4338076H4
 ## Fernando de Azevedo Medeiros
 * Thesis: **Thermodynamic Study of Hydrates Formation**
@@ -336,12 +333,6 @@ K4331379J6
 * Thesis: **Determination of Partition Coefficients of Asphaltenes Type Molecules Through Molecular Simulation With SAFT-γ CG Mie Force Field**
 * Advisors: Charlles R. A. Abreu and Papa M. Ndiaye
 * E-mail: iquintelam@ufrj.br
-
-K4216699A9
-## Jéssica Caroline da Silva Linhares Maciel
-* Thesis: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
-* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
-* E-mail: jmaciel@peq.coppe.ufrj.br
 
 K8265433Y5
 ## José Antonio Scilipoti
