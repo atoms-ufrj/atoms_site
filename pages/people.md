@@ -58,11 +58,6 @@ K4236807P2
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: agerhardt@peq.coppe.ufrj.br
 
-K4238328Y0
-## Vinicius Menez da Silva
-* Chemical Engineering Department - School of Chemistry - UFRJ
-* E-mail: viniciusmenez@yahoo.com.br
-
 <!------------------------------------------------------------------------------------------------->
 @end
 
