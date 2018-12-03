@@ -7,6 +7,7 @@
     <tab type="user" url="people.html" visible="yes" title="People"/>
     <tab type="user" url="research.html" visible="yes" title="Research"/>
     <tab type="user" url="publications.html" visible="yes" title="Publications"/>
+    <tab type="user" url="collaborators.html" visible="yes" title="Collaborators"/>
     <tab type="user" url="resources.html" visible="yes" title="Resources"/>
     <tab type="user" url="events.html" visible="yes" title="Events"/>
     <tab type="user" url="opportunities.html" visible="yes" title="Opportunities"/>

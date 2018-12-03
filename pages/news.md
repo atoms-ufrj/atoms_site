@@ -22,3 +22,4 @@ thermodynamic-based equations, this critical reference explains gravity-modified
 to obtain fluid composition at any point of the reservoir from measured data to create a stronger model calibration. The book combines practical
 studies with the importance in modeling more complex phenomena, filling a gap for current and upcoming reservoir engineers to expand on solutions
 and make sense of their reservoir’s output results. 
+
