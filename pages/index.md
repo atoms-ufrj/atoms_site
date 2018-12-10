@@ -26,7 +26,12 @@ Agency for Industrial Research and Innovation ([EMBRAPII]).
 We also thank the supercomputer research centers, Lobo Carneiro (from COPPE) and Santos Dumont
 (from the Ministry of Science, Technology, Innovations and Communications).
 
-<img src="../images/tail.png" width="100%" height="auto">
+@htmlonly
+<iframe style="width:100%;height:600px" src="http://online.anyflip.com/czag/pcuh/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+@endhtmlonly
+
+
+<img src="../images/supporters.png" width="100%" height="auto">
 
 <!-- External links -->
 
