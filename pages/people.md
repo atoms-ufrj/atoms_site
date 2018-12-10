@@ -25,11 +25,6 @@ K4763601J9
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: abreu@eq.ufrj.br
 
-K4766494T6
-## Prof. Heloisa L. Sanches
-* Chemical Engineering Department - School of Chemistry - UFRJ
-* E-mail: heloisa@eq.ufrj.br
-
 K4763426D4
 ## Prof. Papa M. Ndiaye
 * Chemical Engineering Department - School of Chemistry - UFRJ
@@ -70,13 +65,31 @@ K4413804P6
 ## Gabriel Duarte Barbosa
 * Thesis: **Confined Fluids Modeling**
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
-* E-mail: gdbarbosa@eq.urfj.br
+* E-mail: gdbarbosa@eq.ufrj.br
 
 K4216699A9
 ## Jéssica Caroline da Silva Linhares Maciel
 * Thesis: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: jmaciel@peq.coppe.ufrj.br
+
+K8627879P1
+## Khalil Kashefi
+* Thesis: **Dehydration of Natural Gas by Adsorption - Evaluation of Properties and Conditions of Operation**
+* Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
+* E-mail: khalil.kashefi@eq.ufrj.br
+
+K8124300E0
+## Keerti Vardhan Sharma
+* Thesis: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
+* Advisors: Frederico W. Tavares and Robert Straka (in collaboration with this project)
+* E-mail: royalkeerti@hotmail.com
+
+K4257847Z6
+## Troner Assenheimer de Souza
+* Thesis: **Study of the Influence of the Frequency of Electric Fields on Improving the Separation of Water-in-Oil Emulsions**
+* Advisors: Edson Hirokazu Watanabe, Frederico W. Tavares and Márcio Nele de Souza
+* E-mail: tassenheimer@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
 @end
@@ -85,6 +98,12 @@ K4216699A9
 <!------------------------------------------------------------------------------------------------->
 @header: Ph.D. Students
 <!------------------------------------------------------------------------------------------------->
+
+K4794358H6
+## Adriana Teixeira
+* Thesis: **Evaluation of the Agglomeration Process of Gas Hydrates in the Presence of Salts and Surfactants**
+* Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
+* E-mail: adriteix@petrobras.com.br and adriteix@yahoo.com.br
 
 K8323782A7
 ## Ali Khajehesamedini
@@ -124,15 +143,21 @@ K4361739E1
 
 K4404224D3
 ## Iuri Soter Viana Segtovich
-* Thesis: **Statistical Mechanics Modelling of Hydrate Nucleation and Growth Rates**
+* Thesis: **Thermodynamic Modeling of Compressible Hydrates and Calculations of Multiphase Equilibrium Diagrams**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: iurisegtovich@gmail.com
 
-K8124300E0
-## Keerti Vardhan Sharma
-* Thesis: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
-* Advisors: Frederico W. Tavares and Robert Straka (in collaboration with this project)
-* E-mail: royalkeerti@hotmail.com
+K4432903H3
+## José Rodrigues Torraca Neto
+* Thesis: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
+* Advisor: Amaro G. Barreto Jr.
+* E-mail: joseneto@eq.ufrj.br
+
+K8728144A8
+## Lívia Braga Meirelles
+* Thesis: **Phase Equilibria of heavy oil fraction and Carbon Dioxide at High Pressure**
+* Advisors: Erika Christina Ashton N. Chrisman and Papa Matar Ndiaye
+* E-mail: livia@eq.ufrj.br
 
 K4331136Y5
 ## Maria Rosa Rocha Tenório Góes
@@ -143,7 +168,7 @@ K4331136Y5
 K4419572T6
 ## Marlon de Souza Gama
 * Thesis: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
-* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
 * E-mail: marlongama@ufrj.br
 
 K4267685E1
@@ -158,11 +183,23 @@ K4431921D7
 * Advisors: Eduardo R. A. Lima and Frederico W. Tavares
 * E-mail: nathalia.vernin@gmail.com
 
+K4457388H9
+## Rafael Cavalcante dos Santos
+* Thesis: **Development of Mathematical Model for Description of Diffusive Transport Phenomena and Adsorption Equilibrium on Process of Production and Separation of Propionic Acid**
+* Advisor: Amaro Gomes Barreto Jr., Frederico W. Tavares and Nei Pereira Junior
+* E-mail: rafaelcavalcante.santos@hotmail.com
+
 K4384811P8
 ## Rafael Pereira do Carmo
-* Thesis: **Modified SAFT Equation of State for Paraffin and Asphaltene Precipitation**
+* Thesis: **Development of Equation of State for Solid Phases Via Perturbation Theory**
 * Advisor: Frederico W. Tavares
 * E-mail: rcarmo@peq.coppe.ufrj.br
+
+K8569592Z9
+## Reinaldo Calderón Supelano
+* Thesis: **Nonlinear Predictive Control of a Simulated Moving Beg Unit**
+* Advisors: Argimiro R. Secchi and Amaro Gomes Barreto Jr.
+* E-mail: reinaldo@peq.coppe.ufrj.br
 
 K4866719A0
 ## Thales Cainã dos Santos Barbalho
@@ -176,6 +213,12 @@ K4426112D6
 * Advisors: José Carlos Pinto and Charlles R. A. Abreu
 * E-mail: tlemos@peq.coppe.ufrj.br
 
+K8499866E1
+## Vanessa Pimentel Lages
+* Thesis: **Theoretical-Experimental Evaluation of the Use of Magnetic Devices in the Precipitation of Calcium Carbonate in Pipes**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: vanessaplages@hotmail.com
+
 K4238328Y0
 ## Vinicius Menez da Silva
 * Thesis: **Thermodynamic Study of Paraffin Precipitation**
@@ -185,7 +228,7 @@ K4238328Y0
 K4478880A4
 ## Vítor de Morais Sermoud
 * Thesis: **Development of Adsorption Models to Gaseous System**
-* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
 * E-mail: vsermoud@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
@@ -196,6 +239,37 @@ K4478880A4
 <!------------------------------------------------------------------------------------------------->
 @header: Master's Degree Students
 <!------------------------------------------------------------------------------------------------->
+K8758192A5
+## Aluan Andrade Ferreira
+* Thesis: **Thermodynamics of Confined Fluids Using Density Functional Theory**
+* Advisors: Frederico W. Tavares and Gabriel Duarte Barbosa
+* E-mail: aluan@eq.ufrj.br
+
+<!-- 
+K 4498086D5 - Não tem foto no Lattes
+## Bruno Miranda Nogueira
+* Thesis: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
+* Advisors: Papa M. Ndiaye and Frederico W. Tavares
+* E-mail: nogueirab@gmail.com
+-->
+
+K4407408T6
+## Caio Rodrigues Soares
+* Thesis: **Molecular Dynamics Calculation of Hydration Properties in Calcium Carbonate Clusters**
+* Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
+* E-mail: caio_equi@hotmail.com
+
+K4200503D6
+## Felipe Eduardo Braun
+* Thesis: **Modeling and Optimization of Fixed Bed Natural Gas Dehydration Units**
+* Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
+* E-mail: braun.ime@gmail.com
+
+K8081407H5
+## Gerson Francisco da Silva Junior
+* Thesis: **Study of Phase Equilibrium to Predict Scale Deposition of CaCO3**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: gersonsf.junior@gmail.com
 
 K4201727Y3
 ## Hugo Candia Saad
@@ -203,33 +277,45 @@ K4201727Y3
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
 * E-mail: hugo_saad@hotmail.com
 
-K4432903H3
-## José Rodrigues Torraca Neto
-* Thesis: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
-* Advisor: Amaro G. Barreto Jr.
-* E-mail: joseneto@eq.ufrj.br
-
 K8041171E1
 ## Mariana Amorim de Almeida
 * Thesis: **Extension of an Equation of State to the Modeling of Confined Fluids**
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
 * E-mail: almeida@eq.ufrj.br
 
-K4208759D4
-## Samir Silva Abunahman
-* Thesis: **A Computational Tool for Equations of State Parameter Estimation: Phase Equilibria Calculations and Industrial Dehydration Unit Operation Analysis**
-* Advisors: Frederico W. Tavares and Letícia Cotia dos Santos
-* E-mail: samir@peq.coppe.ufrj.br
+K4825453J2
+## Sâmia Nara Santos Vasconcelos
+* Project: **Simulation and Optimization of the Process of Dehydration of Natural Gas by Adsorption**
+* Advisors: Amaro Gomes Barreto Jr. and Argimiro R. Secchi
+* E-mail: nara_samia@hotmail.com
+
+K4245481J2
+## Tetsuo Mineiro Miyakawa
+* Project: **Methodology for Compositional Distribution in Oil Fields With Compositional Grading**
+* Advisors: Frederico W. Tavares and Rogerio Espósito
+* E-mail: tetmm9@gmail.com
 
 K4335171A2
 ## Thiago José Pinheiro dos Santos
-* Project: **Determination of transport coefficients of CO2 and n-alkanes mixtures under reservoir conditions using Molecular Dynamics**
+* Project: **Determination of Transport Coefficients of CO2 and n-alkanes Mixtures Under Reservoir Conditions Using Molecular Dynamics**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: pinheiro.thiagoj@gmail.com
 
+K4492453P5
+## Túlio Alves Freire
+* Project: **PVT Modeling Applied to Confined Fluids**
+* Advisor: Frederico W. Tavares
+* E-mail: tulio-freire@hotmail.com
+
+K8840999A5
+## Vanessa Andrea Mascietti
+* Project: **Solubility of Monoethyleneglycol (MEG) in n-pentane in the Presence of Ethanol/Methanol: Experimental Study and Thermodynamic Modeling**
+* Advisors: Papa Matar Ndiaye and Frederico W. Tavares
+* E-mail: vanessa_mascietti05@hotmail.com
+
 K4030740P3
 ## Yamara Matos Oliveira
-* Thesis: **Application of the Lattice Boltzmann Method for Porous Media Flows in Critical Situation**
+* Thesis: **Calculations of Transport Properties of Confined Fluid Via Molecular Dynamics**
 * Advisors: Charlles R. A. Abreu and Frederico W. Tavares
 * E-mail: yamaramatos@gmail.com
 
@@ -259,6 +345,26 @@ K4300549A9
 * Project: **Application of Multistate Methods to Compute Property Profiles of Deep Eutectic Solvents by Molecular Simulation**
 * Advisor: Charlles R. A. Abreu
 * E-mail: b.c.mquim@gmail.com
+
+<!--
+K 4323172P3 - Não tem foto no Lattes
+## Gabriel Moraes Silva
+* Project: **Renormalization Group Theory applied to Equations of State**
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
+* E-mail: silvagm.br@gmail.com
+-->
+
+K4362066Z2
+## Gabriela Freire de Arruda
+* Project: **Modeling and Simulation of Monoclonal Antibodies for Purification in Ion Exchange Columns**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: gfa.gabriela@gmail.com
+
+K2754085J3
+## Giovanna Mandarino Vieira
+* Project: **Estimation of parameters in crystallization processes**
+* Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
+* E-mail: giomandavieira@gmail.com
 
 K8290410Y8
 ## Leonardo Tourasse Galdino
@@ -301,15 +407,15 @@ K8568991H6
 
 K4338076H4
 ## Fernando de Azevedo Medeiros
-* Thesis: **Thermodynamic Study of Hydrates Formation**
-* Advisor: Frederico W. Tavares
+* Thesis: **Hydrate Enthalpy of Dissociation from Statistical Thermodynamics**
+* Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
 * E-mail: fernando.medeiros01@gmail.com
 
 K4298461A4
 ## Filipe Arantes Furtado
 * Thesis: **Experimental Determination and Non-Equilibrium Molecular Dynamics Simulation of Thermodiffusion Coefficients of Mixtures**
-* Advisors: Frederico W. Tavares, Charlles R. A. Abreu, and Abbas Firoozabadi
-* E-mail: filipe@peq.coppe.ufrj.br
+* Advisors: Frederico W. Tavares, Charlles R. A. Abreu and Abbas Firoozabadi
+* E-mail: ffurtado@ufrrj.br and arantes.filipe@gmail.com
 
 K4348506E6
 ## Guilherme Carneiro Queiroz da Silva
@@ -371,28 +477,22 @@ K4209625U4
 * Advisors: Frederico W. Tavares and Marcio Nele
 * E-mail: rafaelcharin@yahoo.com.br
 
-K8569592Z9
-## Reinaldo Calderón Supelano
-* Thesis: **Phase Equilibria and Thermodynamic Stability in Multiphase Flashes**
-* Advisors: Frederico W. Tavares and Argimiro R. Secchi
-* E-mail: reinaldocalderon.s@gmail.com
-
 K4368519A7
 ## Renata Cazelato Gaioto
 * Thesis: **Kinetic and Thermodynamic Study of Drug Precipitation**
 * Advisor: Frederico W. Tavares
 * E-mail: renatacgaioto@gmail.com
 
+K4208759D4
+## Samir Silva Abunahman
+* Thesis: **A Computational Tool for Equations of State Parameter Estimation: Phase Equilibria Calculations and Industrial Dehydration Unit Operation Analysis**
+* Advisors: Frederico W. Tavares and Letícia Cotia dos Santos
+* E-mail: samir@peq.coppe.ufrj.br and samir.abu@gmail.com
+
 K4451104E6
 ## Tatiana Pitchon Sampaio
 * Thesis: **Bivariate Population Balance Model for Hydrate Formation Considering Mass and Heat Transfer Limitations**
 * Advisors: Frederico W. Tavares and Paulo L. C. Lage
 * E-mail: tpitchon@gmail.com
-
-K4257847Z6
-## Troner Assenheimer de Souza
-* Thesis: **Emulsion Stability in the Presence of External Electric Fields**
-* Advisors: Frederico W. Tavares and Márcio Nele de Souza
-* E-mail: tassenheimer@gmail.com
 
 @end
