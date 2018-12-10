@@ -7,6 +7,7 @@ National Collaborators  {#collaborators}
 * Prof. Filipe Arantes Furtado (UFRRJ)
 * Profa. Heloisa L. Sanches (UFRJ)
 * Prof. Jorge E. S. Ourique (UFF)
+* Prof. Leonardo Travalloni (UFRJ)
 * Prof. Márcio L. Paredes (UERJ) 
 * Prof. Márcio S. Nele (UFRJ) 
 * Dra. Neuman Solange de Resende (UFRJ)

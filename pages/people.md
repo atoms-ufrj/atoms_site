@@ -6,8 +6,8 @@ na barra de endereço do navegador quando se visita o seu currículo lattes. Nun
 nome nesta página sem precedê-lo pelo correspondente código.
 -->
 
-<img src="../images/Foto_Workshop2016.jpg" width="830">
-<center>ATOMS Annual Workshop - December 2016</center>
+<img src="../images/Foto_Churratoms2018_crop.jpg" width="830">
+<!-- <center>ATOMS team, November, 2018</center> -->
 <hr>
 
 <!------------------------------------------------------------------------------------------------->
