@@ -6,4 +6,3 @@ Post-Doctoral Positions
 ----------------------------------------------------------------------------------------------------
 
 There are no open positions at this moment.
-
