@@ -1,7 +1,7 @@
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = "ATOMS"
 PROJECT_BRIEF          = "Applied Thermodynamics and Molecular Simulation"
-PROJECT_LOGO           = images/atoms_logo.jpg
+PROJECT_LOGO           = images/atoms_logo.png
 OUTPUT_DIRECTORY       = 
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
