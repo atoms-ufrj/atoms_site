@@ -2,7 +2,20 @@ Events {#events}
 ======
 
 --------------------------------------------------------------------------------------------------------
-ATOMS Annual Workshop
+VII ATOMS Annual Workshop
+--------------------------------------------------------------------------------------------------------
+
+* __Date__: December 14, 2018<br>
+* __Time__: 8:30 am<br>
+* __Location__: Auditório do PEQ - G122. 
+
+The ATOMS laboratory (Applied Thermodynamics and Molecular Simulation), member of School of Chemistry 
+(EQ-UFRJ) and the Chemical Engineering Program of COPPE (PEQ-COPPE-UFRJ), will hold its annual workshop,
+with the purpose of showing the scientific researches carried out in the Laboratory in 2018 and the new
+projects that will be developed in 2019.
+
+--------------------------------------------------------------------------------------------------------
+VI ATOMS Annual Workshop
 --------------------------------------------------------------------------------------------------------
 
 * __Date__: December 15, 2017<br>
