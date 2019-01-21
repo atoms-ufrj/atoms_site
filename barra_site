@@ -1,0 +1,29 @@
+<div id="barra" style="background:#002b80; height: 40px; padding:10px; font-size: 18px">
+  <ul id="menu-barra" style="list-style:none;">
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px; border-right:3px solid #EDEDED">
+        <a href="https://ufrj.br/" style="font-family:sans,sans-serif; text-decoration:none; color:white;">UFRJ</a>
+    </li>
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px; border-right:3px solid #EDEDED">
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://www.eq.ufrj.br/">School of Chemistry - UFRJ</a>
+    </li>
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px; border-right:3px solid #EDEDED">
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epqb.eq.ufrj.br/">EPQB - UFRJ</a>
+    </li>
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px; border-right:3px solid #EDEDED">
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://www.coppe.ufrj.br/">COPPE - UFRJ</a>
+    </li>
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px; border-right:3px solid #EDEDED">
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://portal.peq.coppe.ufrj.br/">PEQ/COPPE - UFRJ</a>
+    </li>
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px; border-right:3px solid #EDEDED">
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="facebook.com/atoms.ufrj">Facebook</a>
+    </li>
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px; border-right:3px solid #EDEDED">
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="instagram.com/atoms.ufrj">Instagram</a>
+    </li>
+    <li style="display:inline; float:left; padding-right:40px; margin-right:40px #EDEDED">
+       <a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="instagram.com/atoms.ufrj">YouTube</a>
+    </li>
+   </ul>
+</div>
+

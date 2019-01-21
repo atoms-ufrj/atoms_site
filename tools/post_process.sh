@@ -27,3 +27,8 @@ for file in en/*.html; do
   fi
 done
 
+#---------------------------------------------------------------------------------------------------
+# workaround to fix layout of index (by Santos TJP & Segtovich ISV)
+#---------------------------------------------------------------------------------------------------
+
+sed -i "/\b\(class=\"title\">Applied Thermodynamics and Molecular Simulation\)\b/d" en/index.html
