@@ -1,5 +1,5 @@
 span.undefined { color:red; }
-.bibtable {width:100%; margin: 0 auto; clear: both;}
+.bibtable {width:55%; margin: 0 auto; clear: both;}
 .bibchart { width: 100%; height: 100px; margin-bottom: 20px;}
 .clear {clear:both;}
 .year { position: relative; height: 100%; border-bottom: 1px solid black; display: inline-block;}
