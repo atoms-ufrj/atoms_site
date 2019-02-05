@@ -236,9 +236,9 @@ div.ah, span.ah {
 	background-color: black;
 	font-weight: bold;
 	color: #ffffff;
-	margin-bottom: 3px;
-	margin-top: 3px;
-	padding: 0.2em;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding: 0;
 	border: solid thin #333;
 	border-radius: 0.5em;
 	-webkit-border-radius: .5em;
@@ -277,9 +277,10 @@ body {
 }
 
 div.contents {
-	margin-top: 10px;
+	margin-top: 0px;
 	margin-left: 12px;
 	margin-right: 8px;
+	margin-bottom: 0pt;
 }
 
 td.indexkey {
@@ -1226,7 +1227,7 @@ div.toc li {
         font: 10px/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
         margin-top: 5px;
         padding-left: 10px;
-        padding-top: 2px;
+        padding-top: 0px;
 }
 
 div.toc h3 {

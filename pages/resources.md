@@ -1,7 +1,6 @@
 Resources {#resources}
 =========
 
-----------------------------------------------------------------------------------------------------
 Playmol
 ----------------------------------------------------------------------------------------------------
 
@@ -32,4 +31,3 @@ Cluster Computing
 **Gibbs** is the name given of a computer cluster available to all ATOMS members. At this time, it
 possesses 296 Central Processing Units (CPU's) and 16 General-Purpose Graphical Processing Units
 (GP-GPU's), which are mostly used for molecular simulations.
-

@@ -27,3 +27,10 @@ for file in en/*.html; do
   fi
 done
 
+#---------------------------------------------------------------------------------------------------
+# workaround to fix layout of index (by Santos TJP & Segtovich ISV)
+#---------------------------------------------------------------------------------------------------
+
+sed -i "/class=\"headertitle\">/d" en/index.html
+sed -i "/class=\"title\">Applied Thermodynamics and Molecular Simulation/d" en/index.html
+cp ./layout/search.css ./en/search/search.css

@@ -1,7 +1,7 @@
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = "ATOMS"
 PROJECT_BRIEF          = "Applied Thermodynamics and Molecular Simulation"
-PROJECT_LOGO           = images/atoms_logo.jpg
+PROJECT_LOGO           = images/atoms_logo.png
 OUTPUT_DIRECTORY       = 
 CREATE_SUBDIRS         = NO
 ALLOW_UNICODE_NAMES    = NO
@@ -86,9 +86,16 @@ WARN_NO_PARAMDOC       = NO
 WARN_AS_ERROR          = NO
 WARN_FORMAT            = "$file:$line: $text"
 WARN_LOGFILE           =
-INPUT                  = pages/index.md pages/research.md proc/people.md   \
-                         proc/publications.md pages/resources.md pages/events.md \
-                         pages/opportunities.md pages/contact.md pages/news.md
+INPUT                  = pages/index.md \
+                         pages/research.md \
+                         proc/people.md \
+                         proc/publications.md \
+                         pages/resources.md \
+                         pages/collaborators.md \
+                         pages/events.md \
+                         pages/opportunities.md \
+                         pages/contact.md \
+                         pages/news.md
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          =
 RECURSIVE              = NO

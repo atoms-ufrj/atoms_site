@@ -41,7 +41,7 @@ fi
 if [ $# == "0" ] || [ $1 == "publications" ]; then
   function proc_publications() {
     echo -e "Publications {#publications}\n============\n"
-    echo "\htmlonly"
+    echo "@htmlonly"
     echo "<table id=\"pubTable\" class=\"display\"></table>"
     echo "<pre id=\"bibtex\">"
     regex="DOI:\ ([^\ ]*)"
@@ -56,7 +56,7 @@ if [ $# == "0" ] || [ $1 == "publications" ]; then
     echo "    bibtexify(\"#bibtex\", \"pubTable\");"
     echo "  });"
     echo "</script>"
-    echo "\endhtmlonly"
+    echo "@endhtmlonly"
   }
   proc_publications > proc/publications.md
 fi
