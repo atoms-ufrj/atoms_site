@@ -1,11 +1,8 @@
 News {#news}
 ============
 
---------------------------------------------------------------------------------------------------------
 Book: Compositional Grading in Oil and Gas Reservoirs
 --------------------------------------------------------------------------------------------------------
-
-
 
 * __Authors__: Rogerio Oliveira Esposito, Pedro Henrique Rodrigues Alijó, Jose Antonio Scilipoti and Frederico Wanderley Tavares
 * __eBook ISBN__: 9780128124536

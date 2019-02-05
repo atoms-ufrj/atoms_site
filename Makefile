@@ -20,5 +20,7 @@ clean:
 	ls images/K* | grep 'K[0-9]\{7\}[A-Z][0-9].jpg' | xargs rm -f
 
 view:
+	touch pages/index.md
+	make all
 	firefox en/index.html
 

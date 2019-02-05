@@ -1,57 +1,72 @@
-National Collaborators  {#collaborators}
+Collaborators  {#collaborators}
 ===============================================
 
-* Prof. Argimiro Resende Secchi (UFRJ)
-* Prof. Bruno A. C. Horta (IQ-UFRJ)
-* Prof. Eduardo R. A. Lima (UERJ)
-* Prof. Filipe Arantes Furtado (UFRRJ)
-* Profa. Heloisa L. Sanches (UFRJ)
-* Prof. Jorge E. S. Ourique (UFF)
-* Prof. Leonardo Travalloni (UFRJ)
-* Prof. Márcio L. Paredes (UERJ) 
-* Prof. Márcio S. Nele (UFRJ) 
-* Dra. Neuman Solange de Resende (UFRJ)
-* Prof. Paulo L. C. Lage (UFRJ)
-* Prof. Pedro H. R. Alijó (UERJ)
-* Prof. Rafael de Pelegrini Soares (UFRGS)
-* Prof. Thiago M. Cardozo (IQ-UFRJ)
-* Profa. Verônica M. A. Calado (UFRJ)
-* Prof. Vera Maria Martins Salim (UFRJ)
+@htmlonly
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3cs
+s/4/w3.css">
+<body>
 
+<div class="w3-row w3-border:none">
 
-Company Collaborators
-===============================================
+  <div class="w3-container w3-third w3-white">
+      <h2 style="font-size:20px;line-height:1.5"><b>National Collaborators</b></h2>
+       <li style="line-height:2.0"> Prof. Argimiro Resende Secchi (UFRJ)</li>
+       <li style="line-height:2.0"> Prof. Bruno A. C. Horta (IQ-UFRJ)</li>
+       <li style="line-height:2.0"> Prof. Eduardo R. A. Lima (UERJ)</li>
+       <li style="line-height:2.0"> Prof. Filipe Arantes Furtado (UFRRJ)</li>
+       <li style="line-height:2.0"> Profa. Heloisa L. Sanches (UFRJ)</li>
+       <li style="line-height:2.0"> Prof. Jorge E. S. Ourique (UFF)</li>
+       <li style="line-height:2.0"> Prof. Leonardo Travalloni (UFRJ)</li>
+       <li style="line-height:2.0"> Prof. Márcio L. Paredes (UERJ)</li>
+       <li style="line-height:2.0"> Prof. Márcio S. Nele (UFRJ)</li>
+       <li style="line-height:2.0"> Dra. Neuman Solange de Resende (UFRJ)</li>
+       <li style="line-height:2.0"> Prof. Paulo L. C. Lage (UFRJ)</li>
+       <li style="line-height:2.0"> Prof. Pedro H. R. Alijó (UERJ)</li>
+       <li style="line-height:2.0"> Prof. Rafael de Pelegrini Soares (UFRGS)</li>
+       <li style="line-height:2.0"> Prof. Thiago M. Cardozo (IQ-UFRJ)</li>
+       <li style="line-height:2.0"> Profa. Verônica M. A. Calado (UFRJ)</li>
+       <li style="line-height:2.0"> Prof. Vera Maria Martins Salim (UFRJ)</li>
+  </div>
+  
+  <div class="w3-container w3-third w3-white">
+      <h2 style="font-size:20px;"><b>Company Collaborators</b></h2>
+       <li style="line-height:2.0"> MSc. Alexandre Jaime Mello Vieira (Petrobras)</li>
+       <li style="line-height:2.0"> Dr. Cláudio M. Ziglio (Petrobras)</li>
+       <li style="line-height:2.0"> Dr. Emerson Lourenço (Petrobras)</li>
+       <li style="line-height:2.0"> Dr. Felipe Pereira Fleming (Petrobras)</li>
+       <li style="line-height:2.0"> Dr. Flávio B. Campos (Petrobras)</li>
+       <li style="line-height:2.0"> MSc. Guilherme Pimentel (Petrobras)</li>
+       <li style="line-height:2.0"> MSc. Jailton F. do Nascimento (Petrobras)</li>
+       <li style="line-height:2.0"> Dra. Jaqueline Martins de Paulo (Oxiteno)</li>
+       <li style="line-height:2.0"> MSc. Joao R. P. Ciambelli (Petrobras)</li>
+       <li style="line-height:2.0"> Dra. Letícia Cotia dos Santos (Petrobras)</li>
+       <li style="line-height:2.0"> MSc. Leandro Valim (Petrobras)</li>
+       <li style="line-height:2.0"> Dra. Olívia Cueva C. Poltronieri (Oxiteno)</li>
+       <li style="line-height:2.0"> MSc. Ramon de Souza Domingues (Petrobras)</li>
+       <li style="line-height:2.0"> Dr. Rogerio Oliveira Espósito (Petrobras)</li>
+       <li style="line-height:2.0"> Dr. Wilson Mantovani Grava (Petrobras)</li>
+  </div>
+  
+  <div class="w3-container w3-third w3-white">
+      <h2 style="font-size:20px;"><b>International Collaborators</b></h2> 
+       <li style="line-height:2.0"> Prof. Abbas Firoozabadi (RERI and Rice, USA)</li>
+       <li style="line-height:2.0"> Prof. Amadeu Sum (Col. School of Mines, EUA)</li>
+       <li style="line-height:2.0"> Prof. Edward Maginn (Notre Dame, USA)</li>
+       <li style="line-height:2.0"> Prof. Georgios Kontogeorgis (DTU, DK)</li>
+       <li style="line-height:2.0"> Prof. Joao M. Maia (Case, USA)</li>
+       <li style="line-height:2.0"> Prof. John M. Prausnitz (Berkeley, USA)</li>
+       <li style="line-height:2.0"> Dr. Mathias Boström (Linköping, Sweden)</li>
+       <li style="line-height:2.0"> Prof. Marcelo Castier (T&M, Qatar)</li>
+       <li style="line-height:2.0"> Prof. Martin Cismondi (Univ. N. de Córdoba)</li>
+       <li style="line-height:2.0"> Prof. Robert Straka (AGH, Kraków)</li>
+       <li style="line-height:2.0"> Profa. Selva Pereda (PLAPIQUI, Argentina)</li>
+       <li style="line-height:2.0"> Prof. Stanley I. Sandler (Delaware, USA)</li>
+  </div>
+  
+</div>
 
-* MSc. Alexandre Jaime Mello Vieira (Petrobras)
-* Dr. Cláudio M. Ziglio (Petrobras)
-* Dr. Emerson Lourenço (Petrobras)
-* Dr. Felipe Pereira Fleming (Petrobras)
-* Dr. Flávio B. Campos (Petrobras)
-* MSc. Guilherme Pimentel (Petrobras)
-* MSc. Jailton F. do Nascimento (Petrobras)
-* Dra. Jaqueline Martins de Paulo (Oxiteno)
-* MSc. Joao R. P. Ciambelli (Petrobras)
-* Dra. Letícia Cotia dos Santos (Petrobras)
-* MSc. Leandro Valim (Petrobras)
-* Dra. Olívia Cueva C. Poltronieri (Oxiteno)
-* MSc. Ramon de Souza Domingues (Petrobras)
-* Dr. Rogerio Oliveira Espósito (Petrobras)
-* Dr. Wilson Mantovani Grava (Petrobras)
-
-
-International Collaborators
-===============================================
-
-* Prof. Abbas Firoozabadi (RERI and Rice, USA)
-* Prof. Amadeu Sum (Col. School of Mines, EUA)
-* Prof. Edward Maginn (Notre Dame, USA)
-* Prof. Georgios Kontogeorgis (DTU, DK)
-* Prof. Joao M. Maia (Case, USA)
-* Prof. John M. Prausnitz (Berkeley, USA)
-* Dr. Mathias Boström (Linköping, Sweden)
-* Prof. Marcelo Castier (T&M, Qatar)
-* Prof. Martin Cismondi (Univ. N. de Córdoba)
-* Prof. Robert Straka (AGH, Kraków)
-* Profa. Selva Pereda (PLAPIQUI, Argentina)
-* Prof. Stanley I. Sandler (Delaware, USA)
-
+</body>
+</html>       
+@endhtmlonly

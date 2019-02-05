@@ -1,0 +1,1372 @@
+Publications {#publications}
+============
+
+@htmlonly
+<table id="pubTable" class="display"></table>
+<pre id="bibtex">
+@article{da_Silva_2018,
+	doi = {10.1039/c8cp02455c},
+	url = {https://doi.org/10.1039%2Fc8cp02455c},
+	year = 2018,
+	publisher = {Royal Society of Chemistry ({RSC})},
+	volume = {20},
+	number = {34},
+	pages = {21988--21998},
+	author = {Guilherme C. Q. da Silva and Thiago M. Cardozo and Giovanni W. Amarante and Charlles R. A. Abreu and Bruno A. C. Horta},
+	title = {Solvent effects on the decarboxylation of trichloroacetic acid: insights from ab initio molecular dynamics simulations},
+	journal = {Physical Chemistry Chemical Physics}
+}
+@article{Ferreira_2018,
+	doi = {10.1016/j.fluid.2018.07.030},
+	url = {https://doi.org/10.1016%2Fj.fluid.2018.07.030},
+	year = 2018,
+	month = {nov},
+	publisher = {Elsevier {BV}},
+	volume = {476},
+	pages = {186--192},
+	author = {Marcela Cravo Ferreira and Larissa C.B.A. Bessa and Charlles R.A. Abreu and Antonio J.A. Meirelles and Eduardo Augusto Caldas Batista},
+	title = {Liquid-liquid equilibrium of systems containing triolein~$\mathplus$ (fatty acid/ partial acylglycerols/ester)~$\mathplus$ ethanol: Experimental data and {UNIFAC} modeling},
+	journal = {Fluid Phase Equilibria}
+}
+@article{Sharma_2018,
+	doi = {10.1016/j.ijthermalsci.2018.08.033},
+	url = {https://doi.org/10.1016%2Fj.ijthermalsci.2018.08.033},
+	year = 2018,
+	month = {dec},
+	publisher = {Elsevier {BV}},
+	volume = {134},
+	pages = {552--564},
+	author = {Keerti Vardhan Sharma and Robert Straka and Frederico Wanderley Tavares},
+	title = {Natural convection heat transfer modeling by the cascaded thermal lattice Boltzmann method},
+	journal = {International Journal of Thermal Sciences}
+}
+@article{do_Carmo_2018,
+	doi = {10.1016/j.fuel.2018.05.063},
+	url = {https://doi.org/10.1016%2Fj.fuel.2018.05.063},
+	year = 2018,
+	month = {oct},
+	publisher = {Elsevier {BV}},
+	volume = {230},
+	pages = {266--273},
+	author = {Rafael P. do Carmo and Vinicius M. da Silva and Felipe P. Fleming and Jean-Luc Daridon and J{\'{e}}r{\^{o}}me Pauly and Frederico W. Tavares},
+	title = {Paraffin solubility curves of diesel fuels from thermodynamic model adjusted through experimental {DSC} thermograms},
+	journal = {Fuel}
+}
+@article{Sharma_2018,
+	doi = {10.1016/j.matdes.2018.06.002},
+	url = {https://doi.org/10.1016%2Fj.matdes.2018.06.002},
+	year = 2018,
+	month = {oct},
+	publisher = {Elsevier {BV}},
+	volume = {155},
+	pages = {307--316},
+	author = {Keerti Vardhan Sharma and Olga M.O. de Araujo and Jo{\~{a}}o V. Nicolini and Robert Straka and Helen C. Ferraz and Ricardo T. Lopes and Frederico Wanderley Tavares},
+	title = {Laser-induced alteration of microstructural and microscopic transport properties in porous materials: Experiment, modeling and analysis},
+	journal = {Materials {\&} Design}
+}
+@article{Cismondi_2018,
+	doi = {10.1016/j.fluid.2018.02.019},
+	url = {https://doi.org/10.1016%2Fj.fluid.2018.02.019},
+	year = 2018,
+	month = {may},
+	publisher = {Elsevier {BV}},
+	volume = {464},
+	pages = {32--39},
+	author = {Martin Cismondi and Papa Matar Ndiaye and Frederico W. Tavares},
+	title = {A new simple and efficient flash algorithm for T-v specifications},
+	journal = {Fluid Phase Equilibria}
+}
+@article{de_Oliveira_2018,
+	doi = {10.1016/j.jct.2017.08.003},
+	url = {https://doi.org/10.1016%2Fj.jct.2017.08.003},
+	year = 2018,
+	month = {feb},
+	publisher = {Elsevier {BV}},
+	volume = {117},
+	pages = {60--67},
+	author = {Ingrid Azevedo de Oliveira and Iuri Soter Viana Segtovich and Amaro Gomes Barreto Jr. and Frederico Wanderley Tavares},
+	title = {Accurate thermodynamic description of vapor{\textendash}liquid and solid{\textendash}liquid equilibria of {THF}, water and gas hydrates with a unique set of parameters},
+	journal = {The Journal of Chemical Thermodynamics}
+}
+@article{Straka_2018,
+	doi = {10.1088/1742-6596/1101/1/012040},
+	url = {https://doi.org/10.1088%2F1742-6596%2F1101%2F1%2F012040},
+	year = 2018,
+	month = {oct},
+	publisher = {{IOP} Publishing},
+	volume = {1101},
+	pages = {012040},
+	author = {R Straka and K V Sharma and D Svyetlichnyy and F W Tavares},
+	title = {Cascaded Lattice Boltzmann Method application in forced and natural convection},
+	journal = {Journal of Physics: Conference Series}
+}
+@article{Sharma_2018,
+	doi = {10.1016/j.mtcomm.2018.09.012},
+	url = {https://doi.org/10.1016%2Fj.mtcomm.2018.09.012},
+	year = 2018,
+	month = {dec},
+	publisher = {Elsevier {BV}},
+	volume = {17},
+	pages = {332--340},
+	author = {Keerti Vardhan Sharma and Jo{\~{a}}o V. Nicolini and Olga M.O. de Araujo and Robert Straka and Helen C. Ferraz and Ricardo T. Lopes and Frederico Wanderley Tavares},
+	title = {Laser-induced wettability alteration in limestone rocks},
+	journal = {Materials Today Communications}
+}
+@article{de_Ara_jo_2018,
+	doi = {10.1088/1748-0221/13/10/c10003},
+	url = {https://doi.org/10.1088%2F1748-0221%2F13%2F10%2Fc10003},
+	year = 2018,
+	month = {oct},
+	publisher = {{IOP} Publishing},
+	volume = {13},
+	number = {10},
+	pages = {C10003--C10003},
+	author = {O.M.O. de Ara{\'{u}}jo and K.V. Sharma and A.S. Machado and T.M.P. Santos and C.G. Ferreira and R. Straka and F.W. Tavares and R.T. Lopes},
+	title = {Representative elementary volume in limestone sample},
+	journal = {Journal of Instrumentation}
+}
+@article{Barbosa_2019,
+	doi = {10.1016/j.fluid.2018.09.019},
+	url = {https://doi.org/10.1016%2Fj.fluid.2018.09.019},
+	year = 2019,
+	month = {jan},
+	publisher = {Elsevier {BV}},
+	volume = {479},
+	pages = {99--105},
+	author = {Nathalia S.V. Barbosa and Eduardo R.A. Lima and Frederico W. Tavares},
+	title = {Wettability of rock, oil and brine system based on density functional theory},
+	journal = {Fluid Phase Equilibria}
+}
+
+@article{Bessa_2016,
+	title = {A new {UNIFAC} parameterization for the prediction of liquid-liquid equilibrium of biodiesel systems},
+	volume = {425},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S037838121630245X},
+	doi = {10.1016/j.fluid.2016.05.020},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Bessa, Larissa C.B.A. and Ferreira, Marcela C. and Abreu, Charlles R.A. and Batista, Eduardo A.C. and Meirelles, Antonio J.A.},
+	month = oct,
+	year = {2016},
+	pages = {98--107}
+}
+
+@article{Costa_2016,
+	title = {Equation of state based on the hole-lattice theory and surface-charge density ({COSMO}): {Part} {A} - {Pure} compounds},
+	volume = {409},
+	issn = {03783812},
+	shorttitle = {Equation of state based on the hole-lattice theory and surface-charge density ({COSMO})},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381215302156},
+	doi = {10.1016/j.fluid.2015.11.010},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Costa, Cau{\^e} T.O.G. and Tavares, Frederico W. and Secchi, Argimiro R.},
+	month = feb,
+	year = {2016},
+	pages = {472--481}
+}
+
+@article{Costa_2016_2,
+	title = {Equation of state based on the hole-lattice theory and surface-charge density ({COSMO}): {Part} {B} - {Vapor}-liquid equilibrium for mixtures},
+	volume = {419},
+	issn = {03783812},
+	shorttitle = {Equation of state based on the hole-lattice theory and surface-charge density ({COSMO})},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381216301170},
+	doi = {10.1016/j.fluid.2016.03.005},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Costa, Cau{\^e} T.O.G. and Tavares, Frederico W. and Secchi, Argimiro R.},
+	month = jul,
+	year = {2016},
+	pages = {1--10}
+}
+
+@article{Alijo_2012,
+	title = {Double layer interaction between charged parallel plates using a modified {Poisson}-{Boltzmann} equation to include size effects and ion specificity},
+	volume = {412},
+	issn = {09277757},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0927775712004773},
+	doi = {10.1016/j.colsurfa.2012.07.008},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Colloids and Surfaces A: Physicochemical and Engineering Aspects},
+	author = {Alij{\'o}, P.H.R. and Tavares, F.W. and Jr., E.C. Biscaia},
+	month = oct,
+	year = {2012},
+	pages = {29--35}
+}
+
+@article{Segtovich_2016,
+	title = {Simultaneous multiphase flash and stability analysis calculations including hydrates},
+	volume = {413},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381215301898},
+	doi = {10.1016/j.fluid.2015.10.030},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Segtovich, Iuri Soter Viana and Barreto, Amaro Gomes and Tavares, Frederico Wanderley},
+	month = apr,
+	year = {2016},
+	pages = {196--208}
+}
+
+@article{Segtovich_2016_2,
+	title = {Phase diagrams for hydrates beyond incipient condition - {Complex} behavior in methane/propane and carbon dioxide/iso-butane hydrates},
+	volume = {426},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381216300528},
+	doi = {10.1016/j.fluid.2016.02.002},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Segtovich, Iuri Soter Viana and Barreto Jr., Amaro Gomes and Tavares, Frederico Wanderley},
+	month = oct,
+	year = {2016},
+	pages = {75--82}
+}
+
+@article{Barbosa_2015,
+	title = {Membrane {Potential} and {Ion} {Partitioning} in an {Erythrocyte} {Using} the {Poisson}-{Boltzmann} {Equation}},
+	volume = {119},
+	issn = {1520-6106, 1520-5207},
+	url = {http://pubs.acs.org/doi/10.1021/acs.jpcb.5b02215},
+	doi = {10.1021/acs.jpcb.5b02215},
+	language = {en},
+	number = {21},
+	urldate = {2018-05-22},
+	journal = {The Journal of Physical Chemistry B},
+	author = {Barbosa, Nathalia S. V. and Lima, Eduardo R. A. and Bostr{\"o}m, Mathias and Tavares, Frederico W.},
+	month = may,
+	year = {2015},
+	pages = {6379--6388}
+}
+
+@article{Barbosa_2015_2,
+	title = {The electrostatic behavior of the bacterial cell wall using a smoothing function to describe the charge-regulated volume charge density profile},
+	volume = {134},
+	issn = {09277765},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0927776515300345},
+	doi = {10.1016/j.colsurfb.2015.06.066},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Colloids and Surfaces B: Biointerfaces},
+	author = {Barbosa, Nathalia S.V. and Lima, Eduardo R.A. and Tavares, Frederico W.},
+	month = oct,
+	year = {2015},
+	pages = {447--452}
+}
+
+@article{Furtado_2015,
+	title = {A low-disturbance nonequilibrium molecular dynamics algorithm applied to the determination of thermal conductivities},
+	volume = {61},
+	issn = {00011541},
+	url = {http://doi.wiley.com/10.1002/aic.14803},
+	doi = {10.1002/aic.14803},
+	language = {en},
+	number = {9},
+	urldate = {2018-05-22},
+	journal = {AIChE Journal},
+	author = {Furtado, Filipe A. and Abreu, Charlles R. A. and Tavares, Frederico W.},
+	month = sep,
+	year = {2015},
+	pages = {2881--2890}
+}
+
+@article{Furtado_2015_2,
+	title = {Non-{Equilibrium} {Molecular} {Dynamics} {Used} to {Obtain} {Soret} {Coefficients} of {Binary} {Hydrocarbon} {Mixtures}},
+	volume = {32},
+	issn = {0104-6632},
+	url = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-66322015000300007&lng=en&tlng=en},
+	doi = {10.1590/0104-6632.20150323s00003445},
+	number = {3},
+	urldate = {2018-05-22},
+	journal = {Brazilian Journal of Chemical Engineering},
+	author = {Furtado, F. A. and Silveira, A. J. and Abreu, C. R. A. and Tavares, F. W. and {Universidade Federal do Rio de Janeiro,  Brazil} and {Universidade Federal do Rio de Janeiro,  Brazil} and {Universidad Nacional del Sur,  Argentina}},
+	month = sep,
+	year = {2015},
+	pages = {683--698}
+}
+
+@article{Aimoli_2014,
+	title = {Force field comparison and thermodynamic property calculation of supercritical {CO}2 and {CH}4 using molecular dynamics simulations},
+	volume = {368},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381214000727},
+	doi = {10.1016/j.fluid.2014.02.001},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Aimoli, Cassiano G. and Maginn, Edward J. and Abreu, Charlles R.A.},
+	month = apr,
+	year = {2014},
+	pages = {80--90}
+}
+
+@article{Aimoli_2014_2,
+	title = {Thermodynamic {Properties} of {Supercritical} {Mixtures} of {Carbon} {Dioxide} and {Methane}: {A} {Molecular} {Simulation} {Study}},
+	volume = {59},
+	issn = {0021-9568, 1520-5134},
+	shorttitle = {Thermodynamic {Properties} of {Supercritical} {Mixtures} of {Carbon} {Dioxide} and {Methane}},
+	url = {http://pubs.acs.org/doi/10.1021/je500120v},
+	doi = {10.1021/je500120v},
+	language = {en},
+	number = {10},
+	urldate = {2018-05-22},
+	journal = {Journal of Chemical \& Engineering Data},
+	author = {Aimoli, Cassiano G. and Maginn, Edward J. and Abreu, Charlles R. A.},
+	month = oct,
+	year = {2014},
+	pages = {3041--3054}
+}
+
+@article{Aimoli_2014_3,
+	title = {Transport properties of carbon dioxide and methane from molecular dynamics simulations},
+	volume = {141},
+	issn = {0021-9606, 1089-7690},
+	url = {http://aip.scitation.org/doi/10.1063/1.4896538},
+	doi = {10.1063/1.4896538},
+	language = {en},
+	number = {13},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Physics},
+	author = {Aimoli, C. G. and Maginn, E. J. and Abreu, C. R. A.},
+	month = oct,
+	year = {2014},
+	pages = {134101}
+}
+
+@article{Hirata_2013,
+	title = {Liquid-liquid equilibrium of fatty systems: {A} new approach for adjusting {UNIFAC} interaction parameters},
+	volume = {360},
+	issn = {03783812},
+	shorttitle = {Liquid-liquid equilibrium of fatty systems},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381213005773},
+	doi = {10.1016/j.fluid.2013.10.004},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Hirata, Gl{\'a}ucia F. and Abreu, Charlles R.A. and Bessa, Larissa C.B.A. and Ferreira, Marcela C. and Batista, Eduardo A.C. and Meirelles, Antonio J.A.},
+	month = dec,
+	year = {2013},
+	pages = {379--391}
+}
+
+@article{Alijo_2014,
+	title = {Steric effects on ion dynamics near charged electrodes},
+	volume = {362},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381213005724},
+	doi = {10.1016/j.fluid.2013.09.065},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Alij{\'o}, P.H.R. and Tavares, F.W. and Biscaia, E.C. and Secchi, A.R.},
+	month = jan,
+	year = {2014},
+	pages = {177--186}
+}
+
+@article{Travalloni_2014,
+	title = {Phase equilibrium of fluids confined in porous media from an extended {Peng}-{Robinson} equation of state},
+	volume = {362},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381213006420},
+	doi = {10.1016/j.fluid.2013.10.049},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Travalloni, Leonardo and Castier, Marcelo and Tavares, Frederico W.},
+	month = jan,
+	year = {2014},
+	pages = {335--341}
+}
+
+@article{Camargo_2014,
+	title = {Investigation of adsorption-enhanced reaction process of mercury removal from simulated natural gas by mathematical modeling},
+	volume = {129},
+	issn = {00162361},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0016236114002981},
+	doi = {10.1016/j.fuel.2014.03.048},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fuel},
+	author = {Camargo, Carla Luciane Manske and de Resende, Neuman Solange and de Oliveira, Amanda Gerhardt and Salim, Vera Maria Martins and Tavares, Frederico Wanderley},
+	month = aug,
+	year = {2014},
+	pages = {129--137}
+}
+
+@article{Romanielo_2015,
+	title = {A modified multi-site occupancy model: evaluation of azeotropelike behavior in adsorption},
+	volume = {21},
+	issn = {0929-5607, 1572-8757},
+	shorttitle = {A modified multi-site occupancy model},
+	url = {http://link.springer.com/10.1007/s10450-014-9644-6},
+	doi = {10.1007/s10450-014-9644-6},
+	language = {en},
+	number = {1-2},
+	urldate = {2018-05-22},
+	journal = {Adsorption},
+	author = {Romanielo, L. L. and Arvelos, S. and Tavares, F. W. and Rajagopal, K.},
+	month = feb,
+	year = {2015},
+	pages = {3--16}
+}
+
+@article{Alijo_2015,
+	title = {Effects of electrostatic correlations on ion dynamics in alternating current voltages},
+	volume = {152},
+	issn = {00134686},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0013468614023287},
+	doi = {10.1016/j.electacta.2014.11.109},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Electrochimica Acta},
+	author = {Alij{\'o}, Pedro H.R. and Tavares, Frederico W. and Biscaia Jr., Evaristo C. and Secchi, Argimiro R.},
+	month = jan,
+	year = {2015},
+	pages = {84--92}
+}
+
+@article{Camargo_2015,
+	title = {Modelling of {Hg}0 {Removal} from {Gaseous} {Streams} and its {Fixation} in {Hydroxyapatite}-{Based} {Adsorbents} {Modified} with {Copper} {Sulphide}},
+	volume = {33},
+	issn = {0263-6174, 2048-4038},
+	url = {http://journals.sagepub.com/doi/10.1260/0263-6174.33.2.175},
+	doi = {10.1260/0263-6174.33.2.175},
+	language = {en},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {Adsorption Science \& Technology},
+	author = {Camargo, C.L.M. and Oliveira, A.G. and Resende, N.S. and Biscaia, E.C. and Secchi, A.R. and Tavares, F.W. and Salim, V.M.M.},
+	month = feb,
+	year = {2015},
+	pages = {175--190}
+}
+
+@article{Santos_2015,
+	title = {Steady {State} and {Pseudo}-{Transient} {Electric} {Potential} {Using} the {Poisson}-{Boltzmann} {Equation}},
+	volume = {32},
+	issn = {0104-6632},
+	url = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-66322015000100293&lng=en&tlng=en},
+	doi = {10.1590/0104-6632.20150321s00001653},
+	number = {1},
+	urldate = {2018-05-22},
+	journal = {Brazilian Journal of Chemical Engineering},
+	author = {Santos, L. C. dos and Tavares, F. W. and Secchi, A. R. and Biscaia Jr., E. C. and Ah{\'o}n, V. R. R.},
+	month = mar,
+	year = {2015},
+	pages = {293--302}
+}
+
+@article{Lange_2016,
+	title = {Molecular {Dynamic} {Simulation} of {Oxaliplatin} {Diffusion} in {Poly}(lactic acid- co -glycolic acid). {Part} {A}: {Parameterization} and {Validation} of the {Force}-{Field} {CVFF}: {Molecular} {Dynamic} {Simulation} of {Oxaliplatin} {Diffusion}},
+	volume = {25},
+	issn = {10221344},
+	shorttitle = {Molecular {Dynamic} {Simulation} of {Oxaliplatin} {Diffusion} in {Poly}(lactic acid- co -glycolic acid). {Part} {A}},
+	url = {http://doi.wiley.com/10.1002/mats.201500049},
+	doi = {10.1002/mats.201500049},
+	language = {en},
+	number = {1},
+	urldate = {2018-05-22},
+	journal = {Macromolecular Theory and Simulations},
+	author = {Lange, Jurgen and de Souza, Fernando Gomes and Nele, Marcio and Tavares, Frederico Wanderley and Segtovich, Iuri Soter Viana and da Silva, Guilherme Carnerio Queiroz and Pinto, Jos{\'e} Carlos},
+	month = jan,
+	year = {2016},
+	pages = {45--62}
+}
+
+@article{Charin_2016,
+	title = {Investigation of the {PIT} emulsification mechanism by {NIR} and conductometry},
+	volume = {506},
+	issn = {09277757},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0927775716305386},
+	doi = {10.1016/j.colsurfa.2016.07.019},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Colloids and Surfaces A: Physicochemical and Engineering Aspects},
+	author = {Charin, R.M. and Farias, A.C. and Tavares, F.W. and Nele, M.},
+	month = oct,
+	year = {2016},
+	pages = {566--575}
+}
+
+@article{Barbosa_2016,
+	title = {Extending an equation of state to confined fluids with basis on molecular simulations},
+	volume = {153},
+	issn = {00092509},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0009250916304080},
+	doi = {10.1016/j.ces.2016.07.033},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Chemical Engineering Science},
+	author = {Barbosa, Gabriel D. and Travalloni, Leonardo and Castier, Marcelo and Tavares, Frederico W.},
+	month = oct,
+	year = {2016},
+	pages = {212--220}
+}
+
+@article{Almeida_2017,
+	title = {Stability studies of high-stable water-in-oil model emulsions},
+	volume = {38},
+	issn = {0193-2691, 1532-2351},
+	url = {https://www.tandfonline.com/doi/full/10.1080/01932691.2016.1144195},
+	doi = {10.1080/01932691.2016.1144195},
+	language = {en},
+	number = {1},
+	urldate = {2018-05-22},
+	journal = {Journal of Dispersion Science and Technology},
+	author = {Almeida, M. L. and Charin, R. M. and Nele, M. and Tavares, F. W.},
+	month = jan,
+	year = {2017},
+	pages = {82--88}
+}
+
+@article{Dos_santos_2015,
+	title = {Modeling {Water} {Saturation} {Points} in {Natural} {Gas} {Streams} {Containing} {CO}2 and {H}2 {S} - {Comparisons} with {Different} {Equations} of {State}},
+	volume = {54},
+	issn = {0888-5885, 1520-5045},
+	url = {http://pubs.acs.org/doi/10.1021/ie504224x},
+	doi = {10.1021/ie504224x},
+	language = {en},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {Industrial \& Engineering Chemistry Research},
+	author = {dos Santos, Let{\'i}cia C. and Abunahman, Samir S. and Tavares, Frederico W. and Ah{\'o}n, Victor R. R. and Kontogeorgis, Georgios M.},
+	month = jan,
+	year = {2015},
+	pages = {743--757}
+}
+
+@article{Charin_2015,
+	title = {Influence of {Commercial} {Anti}-agglomerants and {Ammonium} {Quaternary} {Compounds} on the {Stability} of {Waxy} {Crude} {Oil} {Emulsion}},
+	volume = {29},
+	issn = {0887-0624, 1520-5029},
+	url = {http://pubs.acs.org/doi/10.1021/ef502815x},
+	doi = {10.1021/ef502815x},
+	language = {en},
+	number = {4},
+	urldate = {2018-05-22},
+	journal = {Energy \& Fuels},
+	author = {Charin, R. M. and Salathe, G. and Nele, M. and Tavares, F. W.},
+	month = apr,
+	year = {2015},
+	pages = {2211--2218}
+}
+
+@article{Santos_2015_2,
+	title = {Modeling {MEA} with the {CPA} equation of state: {A} parameter estimation study adding local search to {PSO} algorithm},
+	volume = {400},
+	issn = {03783812},
+	shorttitle = {Modeling {MEA} with the {CPA} equation of state},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381215002496},
+	doi = {10.1016/j.fluid.2015.05.004},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Santos, Let{\'i}cia Cotia dos and Tavares, Frederico Wanderley and Ah{\'o}n, Victor Rolando Ruiz and Kontogeorgis, Georgios M.},
+	month = aug,
+	year = {2015},
+	pages = {76--86}
+}
+
+@article{Dos_santos_2015_2,
+	title = {Cubic {Plus} {Association} {Equation} of {State} for {Flow} {Assurance} {Projects}},
+	volume = {54},
+	issn = {0888-5885, 1520-5045},
+	url = {http://pubs.acs.org/doi/10.1021/acs.iecr.5b01410},
+	doi = {10.1021/acs.iecr.5b01410},
+	language = {en},
+	number = {26},
+	urldate = {2018-05-22},
+	journal = {Industrial \& Engineering Chemistry Research},
+	author = {dos Santos, Let{\'i}cia Cotia and Abunahman, Samir Silva and Tavares, Frederico Wanderley and Ruiz Ah{\'o}n, Victor Rolando and Kontogeorgis, Georgios M.},
+	month = jul,
+	year = {2015},
+	pages = {6812--6824}
+}
+
+@article{Sant_anna_2016,
+	title = {Methane/nitrogen separation through pressure swing adsorption process from nitrogen-rich streams},
+	volume = {103},
+	issn = {02552701},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0255270115301379},
+	doi = {10.1016/j.cep.2015.11.002},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Chemical Engineering and Processing: Process Intensification},
+	author = {Sant Anna, Hermes R. and Barreto, Amaro G. and Tavares, Frederico W. and do Nascimento, Ja{\'i}lton F.},
+	month = may,
+	year = {2016},
+	pages = {70--79}
+}
+
+@article{Charin_2013,
+	title = {Transitional {Phase} {Inversion} of {Emulsions} {Monitored} by in {Situ} {Near}-{Infrared} {Spectroscopy}},
+	volume = {29},
+	issn = {0743-7463, 1520-5827},
+	url = {http://pubs.acs.org/doi/10.1021/la4007263},
+	doi = {10.1021/la4007263},
+	language = {en},
+	number = {20},
+	urldate = {2018-05-22},
+	journal = {Langmuir},
+	author = {Charin, R. M. and Nele, M. and Tavares, F. W.},
+	month = may,
+	year = {2013},
+	pages = {5995--6003}
+}
+
+@article{Silva_2013,
+	title = {Thermodynamic {Stability} of {Water}-in-{Oil} {Emulsions}},
+	volume = {7},
+	issn = {19820593},
+	url = {http://www.portalabpg.org.br/bjpg/index.php/bjpg/article/view/261/203},
+	doi = {10.5419/bjpg2013-0001},
+	number = {1},
+	urldate = {2018-05-22},
+	journal = {Brazilian Journal of Petroleum and Gas},
+	author = {Silva, F. L. M. C. and Tavares, F. W. and Cardoso, M. J. E. M.},
+	month = apr,
+	year = {2013},
+	pages = {1--13}
+}
+
+@article{Zuber_2013,
+	title = {Thermodynamic {Properties} of 1:1 {Salt} {Aqueous} {Solutions} with the {Electrolattice} {Equation} of {State}},
+	volume = {68},
+	issn = {1294-4475, 1953-8189},
+	shorttitle = {Thermodynamic {Properties} of 1},
+	url = {http://ogst.ifpenergiesnouvelles.fr/10.2516/ogst/2012088},
+	doi = {10.2516/ogst/2012088},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {Oil \& Gas Science and Technology - Revue d'IFP Energies nouvelles},
+	author = {Zuber, A. and Checoni, R.F. and Mathew, R. and Santos, J.P.L. and Tavares, F.W. and Castier, M.},
+	month = mar,
+	year = {2013},
+	pages = {255--270}
+}
+
+@article{Pagano_2011,
+	title = {Parameter estimation of kinetic cure using {DSC} non-isothermal data},
+	volume = {103},
+	issn = {1388-6150, 1572-8943},
+	url = {http://link.springer.com/10.1007/s10973-010-0984-5},
+	doi = {10.1007/s10973-010-0984-5},
+	language = {en},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {Journal of Thermal Analysis and Calorimetry},
+	author = {Pagano, Rog{\'e}rio L. and Calado, Ver{\^o}nica M. A. and Tavares, Frederico W. and Biscaia, Evaristo C.},
+	month = feb,
+	year = {2011},
+	pages = {495--499}
+}
+
+@article{Lima_2011,
+	title = {Attractive double-layer forces between neutral hydrophobic and neutral hydrophilic surfaces},
+	volume = {84},
+	issn = {1539-3755, 1550-2376},
+	url = {https://link.aps.org/doi/10.1103/PhysRevE.84.061903},
+	doi = {10.1103/PhysRevE.84.061903},
+	language = {en},
+	number = {6},
+	urldate = {2018-05-22},
+	journal = {Physical Review E},
+	author = {Lima, Eduardo R. A. and Bostr{\"o}m, Mathias and Schwierz, Nadine and Sernelius, Bo E. and Tavares, Frederico W.},
+	month = dec,
+	year = {2011}
+}
+
+@article{Santos_2011,
+	title = {Vapor-{Liquid} {Equilibrium} {Calculations} of {Aqueous} and {Nonaqueous} {Binary} {Systems} {Using} the {Mattedi}-{Tavares}-{Castier} {Equation} of {State}},
+	volume = {50},
+	issn = {0888-5885, 1520-5045},
+	url = {http://pubs.acs.org/doi/abs/10.1021/ie100791f},
+	doi = {10.1021/ie100791f},
+	language = {en},
+	number = {1},
+	urldate = {2018-05-22},
+	journal = {Industrial \& Engineering Chemistry Research},
+	author = {Santos, Jos{\'e} P. L. and Tavares, Frederico W. and Castier, Marcelo},
+	month = jan,
+	year = {2011},
+	pages = {102--110}
+}
+
+@article{Giufrida_2011,
+	title = {High-{Pressure} {Experimental} {Data} of {CO}2 + {Mitotane} and {CO}2 + {Ethanol} + {Mitotane} {Mixtures}},
+	volume = {56},
+	issn = {0021-9568, 1520-5134},
+	url = {http://pubs.acs.org/doi/abs/10.1021/je101233k},
+	doi = {10.1021/je101233k},
+	language = {en},
+	number = {12},
+	urldate = {2018-05-22},
+	journal = {Journal of Chemical \& Engineering Data},
+	author = {Giufrida, W. M. and Rodriguez-Reartes, S. B. and Alonso, C. G. and Zabaloy, M. S. and Cabral, V. F. and Tavares, F. W. and Cardozo-Filho, L.},
+	month = dec,
+	year = {2011},
+	pages = {4333--4341}
+}
+
+@article{Travalloni_2010,
+	title = {Thermodynamic modeling of confined fluids using an extension of the generalized van der {Waals} theory},
+	volume = {65},
+	issn = {00092509},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0009250910000618},
+	doi = {10.1016/j.ces.2010.01.032},
+	language = {en},
+	number = {10},
+	urldate = {2018-05-22},
+	journal = {Chemical Engineering Science},
+	author = {Travalloni, Leonardo and Castier, Marcelo and Tavares, Frederico W. and Sandler, Stanley I.},
+	month = may,
+	year = {2010},
+	pages = {3088--3099}
+}
+
+@article{Favareto_2010,
+	title = {High-pressure phase diagram of the drug mitotane in compressed and/or supercritical {CO}2},
+	volume = {42},
+	issn = {00219614},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021961409002341},
+	doi = {10.1016/j.jct.2009.08.017},
+	language = {en},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Favareto, Rog{\'e}rio and Pereira, Jos{\'e} R.D. and Santana, Cesar C. and Madureira, Ed H. and Cabral, Vladimir F. and Tavares, Frederico W. and Cardozo-Filho, L{\'u}cio},
+	month = feb,
+	year = {2010},
+	pages = {286--290}
+}
+
+@article{Tavares_2010,
+	title = {Ion-specific thermodynamic properties of colloids and proteins},
+	volume = {296},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381210001068},
+	doi = {10.1016/j.fluid.2010.02.031},
+	language = {en},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Tavares, Frederico W. and Bostr{\"o}m, Mathias and Lima, Eduardo R.A. and Biscaia, Evaristo C.},
+	month = sep,
+	year = {2010},
+	pages = {99--105}
+}
+
+@article{Santos_2010,
+	title = {Vapor-liquid equilibrium calculations for refrigerant mixtures with the {Mattedi}-{Tavares}-{Castier} {EOS}},
+	volume = {296},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381210001299},
+	doi = {10.1016/j.fluid.2010.03.002},
+	language = {en},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Santos, J.P.L. and Tavares, F.W. and Castier, M.},
+	month = sep,
+	year = {2010},
+	pages = {133--139}
+}
+
+@article{Lima_2010,
+	title = {Ion-specific thermodynamical properties of aqueous proteins},
+	volume = {82},
+	issn = {0001-3765},
+	url = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0001-37652010000100010&lng=en&tlng=en},
+	doi = {10.1590/S0001-37652010000100010},
+	number = {1},
+	urldate = {2018-05-22},
+	journal = {Anais da Academia Brasileira de Ci{\^e}ncias},
+	author = {Lima, Eduardo R.A. and Biscaia Jr., Evaristo C. and Bostr{\"o}m, Mathias and Tavares, Frederico W.},
+	month = mar,
+	year = {2010},
+	pages = {109--126}
+}
+
+@article{Figueiredo_2015,
+	title = {Crystal growth of {FeCO}3 in mixed monoethylene glycol and water solvent: {Crystal} growth of {FeCO}3 in mixed monoethylene glycol and water solvent},
+	volume = {50},
+	issn = {02321300},
+	shorttitle = {Crystal growth of {FeCO}3 in mixed monoethylene glycol and water solvent},
+	url = {http://doi.wiley.com/10.1002/crat.201400420},
+	doi = {10.1002/crat.201400420},
+	language = {en},
+	number = {5},
+	urldate = {2018-05-22},
+	journal = {Crystal Research and Technology},
+	author = {Figueiredo, Camila M. Senna and Junior, Amaro G. Barreto and Flaten, Ellen Marie and Beck, Ralf and Seiersten, Marion},
+	month = may,
+	year = {2015},
+	pages = {354--361}
+}
+
+@article{Escorsim_2015,
+	title = {Assessment of biodiesel purification using {CO}2 at high pressures},
+	volume = {96},
+	issn = {08968446},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0896844614002460},
+	doi = {10.1016/j.supflu.2014.08.013},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Supercritical Fluids},
+	author = {Escorsim, Alexis M. and Cordeiro, Claudiney S. and Ramos, Luiz. P. and Ndiaye, Papa M. and Kanda, Luis R.S. and Corazza, Marcos L.},
+	month = jan,
+	year = {2015},
+	pages = {68--76}
+}
+
+@article{Dalmolin_2014,
+	title = {Phase behaviour and thermodynamic modelling for the system (grape seed oil+carbon dioxide+ethanol) at high pressures},
+	volume = {68},
+	issn = {00219614},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021961413003169},
+	doi = {10.1016/j.jct.2013.09.002},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Dalmolin, Irede and Rigo, Aline A. and Corazza, Marcos L. and Ndiaye, Papa M. and Meireles, M. Angela A. and Batista, Eduardo A.C. and Oliveira, J. Vladimir},
+	month = jan,
+	year = {2014},
+	pages = {71--74}
+}
+
+@article{Pereira_2014,
+	title = {High pressure phase equilibrium measurements for binary systems {CO}2+1-pentanol and {CO}2+1-hexanol},
+	volume = {88},
+	issn = {08968446},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0896844614000060},
+	doi = {10.1016/j.supflu.2014.01.005},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Supercritical Fluids},
+	author = {Pereira, Larissa and Santos, Priscilla Gaschi dos and Scheer, Agnes P. and Ndiaye, Papa M. and Corazza, Marcos L.},
+	month = apr,
+	year = {2014},
+	pages = {38--45}
+}
+
+@article{Gaschi_2013,
+	title = {Phase equilibrium measurements and thermodynamic modelling for the system ({CO}2+ethyl palmitate+ethanol) at high pressures},
+	volume = {57},
+	issn = {00219614},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021961412003266},
+	doi = {10.1016/j.jct.2012.08.012},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Gaschi, Priscilla S. and Mafra, Marcos R. and Ndiaye, Papa M. and Corazza, Marcos L.},
+	month = feb,
+	year = {2013},
+	pages = {14--21}
+}
+
+@article{Mesomo_2013,
+	title = {Supercritical {CO}2 extracts and essential oil of ginger ({Zingiber} officinale {R}.): {Chemical} composition and antibacterial activity},
+	volume = {80},
+	issn = {08968446},
+	shorttitle = {Supercritical {CO}2 extracts and essential oil of ginger ({Zingiber} officinale {R}.)},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0896844613001290},
+	doi = {10.1016/j.supflu.2013.03.031},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Supercritical Fluids},
+	author = {Mesomo, Michele C. and Corazza, Marcos L. and Ndiaye, Papa M. and Dalla Santa, Osmar R. and Cardozo, L{\'u}cio and Scheer, Agnes de Paula},
+	month = aug,
+	year = {2013},
+	pages = {44--49}
+}
+
+@article{Pinto_2012,
+	title = {Phase equilibrium data and thermodynamic modeling of the system ({CO}2+biodiesel+methanol) at high pressures},
+	volume = {44},
+	issn = {00219614},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021961411002631},
+	doi = {10.1016/j.jct.2011.07.019},
+	language = {en},
+	number = {1},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Pinto, Leandro F. and da Silva, Diogo Italo Segalen and Rosa da Silva, Fabiano and Ramos, Luiz P. and Ndiaye, Papa M. and Corazza, Marcos L.},
+	month = jan,
+	year = {2012},
+	pages = {57--65}
+}
+
+@article{Mesomo_2012,
+	title = {Ginger ({Zingiber} officinale {R}.) extracts obtained using supercritical {CO}2 and compressed propane: {Kinetics} and antioxidant activity evaluation},
+	volume = {71},
+	issn = {08968446},
+	shorttitle = {Ginger ({Zingiber} officinale {R}.) extracts obtained using supercritical {CO}2 and compressed propane},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0896844612002550},
+	doi = {10.1016/j.supflu.2012.08.001},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Supercritical Fluids},
+	author = {Mesomo, Michele C. and Scheer, Agnes de Paula and Perez, Elisa and Ndiaye, Papa M. and Corazza, Marcos L.},
+	month = nov,
+	year = {2012},
+	pages = {102--109}
+}
+
+@article{Araujo_2012,
+	title = {Phase behavior measurement for the system {CO}2+glycerol+ethanol at high pressures},
+	volume = {62},
+	issn = {08968446},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0896844611004827},
+	doi = {10.1016/j.supflu.2011.11.012},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Supercritical Fluids},
+	author = {Ara{\'u}jo, Odilon A.S. and Ndiaye, Papa M. and Ramos, Luiz P. and Corazza, Marcos L.},
+	month = feb,
+	year = {2012},
+	pages = {41--46}
+}
+
+@article{Araujo_2012_2,
+	title = {Phase behaviour measurements for the system (carbon dioxide+biodiesel+ethanol) at high pressures},
+	volume = {47},
+	issn = {00219614},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021961411004174},
+	doi = {10.1016/j.jct.2011.11.029},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Ara{\'u}jo, Odilon A.S. and Silva, Fabiano R. and Ramos, Luiz P. and Lenzi, Marcelo K. and Ndiaye, Papa M. and Corazza, Marcos L.},
+	month = apr,
+	year = {2012},
+	pages = {412--419}
+}
+
+@article{Hamerski_2012,
+	title = {Assessment of variables effects on sugar cane juice clarification by carbonation process: {Sugar} cane juice clarification by carbonation},
+	volume = {47},
+	issn = {09505423},
+	shorttitle = {Assessment of variables effects on sugar cane juice clarification by carbonation process},
+	url = {http://doi.wiley.com/10.1111/j.1365-2621.2011.02857.x},
+	doi = {10.1111/j.1365-2621.2011.02857.x},
+	language = {en},
+	number = {2},
+	urldate = {2018-05-22},
+	journal = {International Journal of Food Science \& Technology},
+	author = {Hamerski, Fabiane and da Silva, V{\'i}tor R. and Corazza, Marcos L. and Ndiaye, Papa M. and de Aquino, Arislete D.},
+	month = feb,
+	year = {2012},
+	pages = {422--428}
+}
+
+@article{Ferreira_2011,
+	title = {Phase behavior of ({CO}2+methanol+lauric acid) system},
+	volume = {43},
+	issn = {00219614},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021961411000620},
+	doi = {10.1016/j.jct.2011.02.017},
+	language = {en},
+	number = {7},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Ferreira, Franciele M. and Ramos, Luiz P. and Ndiaye, Papa M. and Corazza, Marcos L.},
+	month = jul,
+	year = {2011},
+	pages = {1074--1082}
+}
+
+@article{Pinto_2011,
+	title = {Phase equilibrium data of the system {CO}2+glycerol+methanol at high pressures},
+	volume = {59},
+	issn = {08968446},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S089684461100310X},
+	doi = {10.1016/j.supflu.2011.08.002},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Supercritical Fluids},
+	author = {Pinto, Leandro F. and Ndiaye, Papa M. and Ramos, Luiz P. and Corazza, Marcos L.},
+	month = nov,
+	year = {2011},
+	pages = {1--7}
+}
+
+@article{Charin_2011,
+	title = {Phase equilibrium data and thermodynamic modelling of the system (propane+{DMF}+methanol) at high pressures},
+	volume = {43},
+	issn = {00219614},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021961410003253},
+	doi = {10.1016/j.jct.2010.10.014},
+	language = {en},
+	number = {3},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Charin, Rafael M. and Corazza, Marcos L. and Ndiaye, Papa M. and Rigo, Aline A. and Mazutti, Marcio A. and Vladimir Oliveira, J.},
+	month = mar,
+	year = {2011},
+	pages = {413--419}
+}
+
+@article{Medeiros_2016,
+	title = {Alternative {EoS}-based model for predicting water content, metastable phases and hydrate formation in natural gas systems},
+	volume = {36},
+	issn = {18755100},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S187551001630796X},
+	doi = {10.1016/j.jngse.2016.10.058},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Journal of Natural Gas Science and Engineering},
+	author = {Medeiros, Fernando de Azevedo and Shiguematsu, Fabiana Mari and Campos, Flavio Barbosa and Segtovich, Iuri Soter Viana and Ourique, Jorge Eduardo da Silva and Barreto, Amaro Gomes and Tavares, Frederico Wanderley},
+	month = nov,
+	year = {2016},
+	pages = {550--562}
+}
+
+@article{Sampaio_2017,
+	title = {Non-isothermal population balance model of the formation and dissociation of gas hydrates},
+	volume = {163},
+	issn = {00092509},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0009250916306649},
+	doi = {10.1016/j.ces.2016.12.012},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Chemical Engineering Science},
+	author = {Sampaio, Tatiana P. and Tavares, Frederico W. and Lage, Paulo L.C.},
+	month = may,
+	year = {2017},
+	pages = {234--254}
+}
+
+@article{Santos_2016,
+	title = {Molecular {Thermodynamics} of {Micellization}: {Micelle} {Size} {Distributions} and {Geometry} {Transitions}},
+	volume = {33},
+	issn = {0104-6632},
+	shorttitle = {{MOLECULAR} {THERMODYNAMICS} {OF} {MICELLIZATION}},
+	url = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-66322016000300515&lng=en&tlng=en},
+	doi = {10.1590/0104-6632.20160333s20150129},
+	number = {3},
+	urldate = {2018-05-22},
+	journal = {Brazilian Journal of Chemical Engineering},
+	author = {Santos, M. S. and Tavares, F. W. and Biscaia Jr, E. C.},
+	month = sep,
+	year = {2016},
+	pages = {515--523}
+}
+
+@article{Da_silva_2017,
+	title = {Paraffin solubility and calorimetric data calculation using {Peng}-{Robinson} {EoS} and modified {UNIQUAC} models},
+	volume = {156},
+	issn = {09204105},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0920410516312232},
+	doi = {10.1016/j.petrol.2017.06.064},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Journal of Petroleum Science and Engineering},
+	author = {da Silva, Vinicius M. and do Carmo, Rafael P. and Fleming, Felipe P. and Daridon, Jean-Luc and Pauly, J{\'e}r{\^o}me and Tavares, F.W.},
+	month = jul,
+	year = {2017},
+	pages = {945--957}
+}
+
+@article{Sant_anna_2017,
+	title = {Machine learning model and optimization of a {PSA} unit for methane-nitrogen separation},
+	volume = {104},
+	issn = {00981354},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0098135417302053},
+	doi = {10.1016/j.compchemeng.2017.05.006},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Computers \& Chemical Engineering},
+	author = {Sant Anna, Hermes R. and Barreto, Amaro G. and Tavares, Frederico W. and de Souza, Maur{\'i}cio B.},
+	month = sep,
+	year = {2017},
+	pages = {377--391}
+}
+
+@article{Assenheimer_2017,
+	title = {Evaluation of {Microwave} and {Conventional} {Heating} for {Electrostatic} {Treatment} of a {Water}-in-{Oil} {Model} {Emulsion} in a {Pilot} {Plant}},
+	volume = {31},
+	issn = {0887-0624, 1520-5029},
+	url = {http://pubs.acs.org/doi/10.1021/acs.energyfuels.7b00275},
+	doi = {10.1021/acs.energyfuels.7b00275},
+	language = {en},
+	number = {6},
+	urldate = {2018-05-22},
+	journal = {Energy \& Fuels},
+	author = {Assenheimer, Troner and Barros, Alessandro and Kashefi, Khalil and Pinto, Jos{\'e} Carlos and Tavares, Frederico Wanderley and Nele, M{\'a}rcio},
+	month = jun,
+	year = {2017},
+	pages = {6587--6597}
+}
+
+@article{Barbosa_2017,
+	title = {Development of an {AMBER}-compatible transferable force field for poly(ethylene glycol) ethers (glymes)},
+	volume = {23},
+	issn = {1610-2940, 0948-5023},
+	url = {http://link.springer.com/10.1007/s00894-017-3355-3},
+	doi = {10.1007/s00894-017-3355-3},
+	language = {en},
+	number = {6},
+	urldate = {2018-05-22},
+	journal = {Journal of Molecular Modeling},
+	author = {Barbosa, Nathalia S. V. and Zhang, Yong and Lima, Eduardo R. A. and Tavares, Frederico W. and Maginn, Edward J.},
+	month = jun,
+	year = {2017}
+}
+
+@article{Sharma_2017,
+	title = {New {Cascaded} {Thermal} {Lattice} {Boltzmann} {Method} for simulations of advection-diffusion and convective heat transfer},
+	volume = {118},
+	issn = {12900729},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S1290072917301023},
+	doi = {10.1016/j.ijthermalsci.2017.04.020},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {International Journal of Thermal Sciences},
+	author = {Sharma, Keerti Vardhan and Straka, Robert and Tavares, Frederico Wanderley},
+	month = aug,
+	year = {2017},
+	pages = {259--277}
+}
+
+@article{Charin_2017,
+	title = {Crude {Oil} {Electrical} {Conductivity} {Measurements} at {High} {Temperatures}: {Introduction} of {Apparatus} and {Methodology}},
+	volume = {31},
+	issn = {0887-0624, 1520-5029},
+	shorttitle = {Crude {Oil} {Electrical} {Conductivity} {Measurements} at {High} {Temperatures}},
+	url = {http://pubs.acs.org/doi/10.1021/acs.energyfuels.6b03237},
+	doi = {10.1021/acs.energyfuels.6b03237},
+	language = {en},
+	number = {4},
+	urldate = {2018-05-22},
+	journal = {Energy \& Fuels},
+	author = {Charin, Rafael Mengotti and Chaves, Gabriela Muniz Telo and Kashefi, Khalil and Alves, Robson Pereira and Tavares, Frederico Wanderley and Nele, M{\'a}rcio},
+	month = apr,
+	year = {2017},
+	pages = {3669--3674}
+}
+
+@article{Silva_2016,
+	title = {Evaluation of the use of adsorbent materials in the removal of nitrogen compounds from gas oil as a pre-treatment for feeds for fluid catalytic cracking units},
+	volume = {94},
+	issn = {00084034},
+	url = {http://doi.wiley.com/10.1002/cjce.22558},
+	doi = {10.1002/cjce.22558},
+	language = {en},
+	number = {10},
+	urldate = {2018-05-22},
+	journal = {The Canadian Journal of Chemical Engineering},
+	author = {Silva, Carlos F. P. M. and Davila, Luiz A. and Junior, Amaro G. B. and Figueiredo, Marcos A. G. and Souza, Wallace C. and Albuquerque, Flavio C.},
+	month = oct,
+	year = {2016},
+	pages = {1891--1900}
+}
+
+@article{Andrade_neto_2016,
+	title = {Nonlinear model predictive control applied to the separation of praziquantel in simulated moving bed chromatography},
+	volume = {1470},
+	issn = {00219673},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021967316313085},
+	doi = {10.1016/j.chroma.2016.09.070},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Journal of Chromatography A},
+	author = {Andrade Neto, A.S. and Secchi, A.R. and Souza, M.B. and Barreto, A.G.},
+	month = oct,
+	year = {2016},
+	pages = {42--49}
+}
+
+@article{Silveira_2017,
+	title = {Molecular dynamics with rigid bodies: {Alternative} formulation and assessment of its limitations when employed to simulate liquid water},
+	volume = {147},
+	issn = {0021-9606, 1089-7690},
+	shorttitle = {Molecular dynamics with rigid bodies},
+	url = {http://aip.scitation.org/doi/10.1063/1.5003636},
+	doi = {10.1063/1.5003636},
+	language = {en},
+	number = {12},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Physics},
+	author = {Silveira, Ana J. and Abreu, Charlles R. A.},
+	month = sep,
+	year = {2017},
+	pages = {124104}
+}
+
+@article{Braga_2017,
+	title = {Phase {Behavior} {Data} of ({CO}2 + {Toluene} + {Phenanthrene}) and ({CO}2 + ({Methanol} + {Phenanthrene}) {Systems} at {High} {Pressure}},
+	volume = {62},
+	issn = {0021-9568, 1520-5134},
+	url = {http://pubs.acs.org/doi/10.1021/acs.jced.7b00126},
+	doi = {10.1021/acs.jced.7b00126},
+	language = {en},
+	number = {9},
+	urldate = {2018-05-22},
+	journal = {Journal of Chemical \& Engineering Data},
+	author = {Braga, Arthur J. O. and do Carmo, Rafael P. and Ndiaye, Papa M. and Tavares, Frederico W.},
+	month = sep,
+	year = {2017},
+	pages = {2812--2818}
+}
+
+@article{Beatriz_bottini_2014,
+	title = {Preface},
+	volume = {362},
+	issn = {03783812},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381213007310},
+	doi = {10.1016/S0378-3812(13)00731-0},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {Beatriz Bottini, Susana and Tavares, Frederico},
+	month = jan,
+	year = {2014},
+	pages = {iv--v}
+}
+
+@book{Esposito_2017,
+	title = {Compositional {Grading} in {Oil} and {Gas} {Reservoirs}},
+	url = {https://doi.org/10.1016%2Fb978-0-12-812452-9.00009-5},
+	publisher = {Elsevier},
+	author = {Esp{\'o}sito, Rog{\'e}rio Oliveira and Alij{\'o}, Pedro Henrique Rodrigues and Scilipoti, Jos{\'e} Antonio and Tavares, Frederico Wanderley},
+	year = {2017},
+	note = {DOI: 10.1016/b978-0-12-812452-9.00009-5}
+}
+
+@article{Medeiros_2018,
+	title = {Heat of dissociation from {Statistical} {Thermodynamics}: {Using} calorimetric data to estimate gas hydrate parameters},
+	volume = {117},
+	issn = {00219614},
+	shorttitle = {Heat of dissociation from {Statistical} {Thermodynamics}},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S002196141730277X},
+	doi = {10.1016/j.jct.2017.08.005},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Chemical Thermodynamics},
+	author = {Medeiros, Fernando de Azevedo and Segtovich, Iuri Soter Viana and Barreto, Amaro Gomes and Tavares, Frederico Wanderley},
+	month = feb,
+	year = {2018},
+	pages = {164--179}
+}
+
+@article{Gama_2018,
+	title = {A modified {Poisson}-{Boltzmann} equation applied to protein adsorption},
+	volume = {1531},
+	issn = {00219673},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0021967317316709},
+	doi = {10.1016/j.chroma.2017.11.022},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Journal of Chromatography A},
+	author = {Gama, Marlon de Souza and Santos, Mirella Sim{\~o}es and Lima, Eduardo Rocha de Almeida and Tavares, Frederico Wanderley and Barreto, Amaro Gomes Barreto},
+	month = jan,
+	year = {2018},
+	pages = {74--82}
+}
+
+@article{De_oliveira_honse_2018,
+	title = {Emulsion phase inversion of model and crude oil systems detected by near-infrared spectroscopy and principal component analysis},
+	volume = {538},
+	issn = {09277757},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0927775717310348},
+	doi = {10.1016/j.colsurfa.2017.11.028},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Colloids and Surfaces A: Physicochemical and Engineering Aspects},
+	author = {de Oliveira Honse, Siller and Kashefi, Khalil and Charin, Rafael Mengotti and Tavares, Frederico Wanderley and Pinto, Jos{\'e} Carlos and Nele, M{\'a}rcio},
+	month = feb,
+	year = {2018},
+	pages = {565--573}
+}
+
+@article{Nichele_2018,
+	title = {Accurate non-asymptotic thermodynamic properties of near-critical {N} 2 and {O} 2 computed from molecular dynamics simulations},
+	volume = {135},
+	issn = {08968446},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0896844617308367},
+	doi = {10.1016/j.supflu.2018.01.011},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {The Journal of Supercritical Fluids},
+	author = {Nichele, Jakler and Abreu, Charlles R.A. and Alves, Leonardo S. de B. and Borges, Itamar},
+	month = may,
+	year = {2018},
+	pages = {225--233}
+}
+
+@article{Da_silva_2018,
+	title = {High pressure phase equilibria of carbon dioxide + n-alkanes mixtures: {Experimental} data and modeling},
+	volume = {463},
+	issn = {03783812},
+	shorttitle = {High pressure phase equilibria of carbon dioxide + n-alkanes mixtures},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0378381218300372},
+	doi = {10.1016/j.fluid.2018.01.029},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fluid Phase Equilibria},
+	author = {da Silva, Vinicius M. and do Carmo, Rafael P. and Fleming, Felipe P. and Daridon, Jean-Luc and Pauly, J{\'e}r{\^o}me and Tavares, F.W.},
+	month = may,
+	year = {2018},
+	pages = {114--120}
+}
+
+@article{Barbosa_2018,
+	title = {Cubic equations of state extended to confined fluids: {New} mixing rules and extension to spherical pores},
+	volume = {184},
+	issn = {00092509},
+	shorttitle = {Cubic equations of state extended to confined fluids},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0009250918301817},
+	doi = {10.1016/j.ces.2018.03.047},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Chemical Engineering Science},
+	author = {Barbosa, Gabriel D. and D'Lima, Michelle L. and Daghash, Shaden M.H. and Castier, Marcelo and Tavares, Frederico W. and Travalloni, Leonardo},
+	month = jul,
+	year = {2018},
+	pages = {52--61}
+}
+
+@article{Camargo_2018,
+	title = {Phenomenological modeling for elemental mercury capture on hydroxyapatite-based adsorbents: {An} experimental validation},
+	volume = {225},
+	issn = {00162361},
+	shorttitle = {Phenomenological modeling for elemental mercury capture on hydroxyapatite-based adsorbents},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0016236118305957},
+	doi = {10.1016/j.fuel.2018.03.177},
+	language = {en},
+	urldate = {2018-05-22},
+	journal = {Fuel},
+	author = {Camargo, Carla Luciane Manske and Salim, Vera Maria Martins and Tavares, Frederico Wanderley and Resende, Neuman Solange de},
+	month = aug,
+	year = {2018},
+	pages = {509--518}
+}
+
+@article{Camargo_2018,
+	doi = {10.1016/j.fluid.2017.11.007},
+	url = {https://doi.org/10.1016%2Fj.fluid.2017.11.007},
+	year = 2018,
+	month = {aug},
+	publisher = {Elsevier {BV}},
+	volume = {470},
+	pages = {60--67},
+	author = {Carla L.M. Camargo and Neuman S. Resende and Carlos A.C. Perez and Charlles R.A. Abreu and Vera M.M. Salim and Frederico W. Tavares},
+	title = {Molecular dynamics simulation and experimental validation by X-ray data of hydroxyapatite crystalline structures},
+	journal = {Fluid Phase Equilibria}
+}
+</pre>
+<script type="text/javascript" src="bib-list.js"></script>
+<script type="text/javascript">
+  (document).ready(function() {
+    bibtexify("#bibtex", "pubTable");
+  });
+</script>
+@endhtmlonly
