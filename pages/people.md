@@ -61,11 +61,13 @@ K4236807P2
 @header: Postdoctoral Researchers
 <!------------------------------------------------------------------------------------------------->
 
+<!--
 K4413804P6
 ## Gabriel Duarte Barbosa
 * Thesis: **Confined Fluids Modeling**
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
 * E-mail: gdbarbosa@eq.ufrj.br
+-->
 
 K4404224D3
 ## Iuri Soter Viana Segtovich
@@ -233,11 +235,13 @@ K8758192A5
 * Advisors: Frederico W. Tavares and Gabriel Duarte Barbosa
 * E-mail: aluan@eq.ufrj.br
 
+<!--
 K4498086D5
 ## Bruno Miranda Nogueira
 * Thesis: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
 * E-mail: nogueirab@gmail.com
+-->
 
 K4407408T6
 ## Caio Rodrigues Soares
@@ -281,11 +285,13 @@ K4245481J2
 * Advisors: Frederico W. Tavares and Rogerio Espósito
 * E-mail: tetmm9@gmail.com
 
+<!--
 Ksemfoto
 ## Thamiris Dias 
 * Project: **Dehydration of natural gas**
 * Advisor: Papa M. Ndiaye
 * E-mail: thamiris.dmascarenhas@gmail.com
+-->
 
 K4335171A2
 ## Thiago José Pinheiro dos Santos
@@ -326,11 +332,13 @@ K8073148E6
 @header: Undergraduate Students
 <!------------------------------------------------------------------------------------------------->
 
+<!--
 Ksemfoto
 ## Alicia Rocha de Souza
 * Project: **Parameter estimation for thermodynamic models**
 * Advisor:  Papa M. Ndiaye and Iuri S. V. Segtovich
 * E-mail: aliciarocha@poli.ufrj.br
+-->
 
 K8694587J3
 ## Arthur Mussi Luz
@@ -344,11 +352,13 @@ K4300549A9
 * Advisor: Charlles R. A. Abreu
 * E-mail: b.c.mquim@gmail.com
 
+<!--
 K4323172P3
 ## Gabriel Moraes Silva
 * Project: **Renormalization Group Theory applied to Equations of State**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: silvagm.br@gmail.com
+-->
 
 K4362066Z2
 ## Gabriela Freire de Arruda
@@ -503,10 +513,12 @@ K4451104E6
 * Advisors: Frederico W. Tavares and Paulo L. C. Lage
 * E-mail: tpitchon@gmail.com
 
+<!--
 Ksemfoto
 ## Victor Virgens de França
 * Master Dissertation: **Modeling an industrial DEA unit with the CPA EOS: A parameter estimation study and data analytics**
 * Advisors: Frederico W. Tavares and Leticia C. dos Santos
 * E-mail: vfranca@peq.coppe.ufrj.br
+-->
 
 @end
