@@ -79,7 +79,7 @@ K4216699A9
 ## Jéssica Caroline da Silva Linhares Maciel
 * Thesis: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
-* E-mail: jmaciel@peq.coppe.ufrj.br
+* E-mail: jessicaclinhares@gmail.com
 
 K8627879P1
 ## Khalil Kashefi
@@ -360,11 +360,13 @@ K4323172P3
 * E-mail: silvagm.br@gmail.com
 -->
 
+<!--
 K4362066Z2
 ## Gabriela Freire de Arruda
 * Project: **Modeling and Simulation of Monoclonal Antibodies for Purification in Ion Exchange Columns**
 * Advisor: Amaro Gomes Barreto Jr.
 * E-mail: gfa.gabriela@gmail.com
+-->
 
 K2754085J3
 ## Giovanna Mandarino Vieira
