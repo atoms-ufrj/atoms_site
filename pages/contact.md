@@ -10,8 +10,6 @@ s/4/w3.css">
 
 <div class="w3-row w3-border:none">
 
-
-
   <div class="w3-container w3-third w3-white">
       <h2 style="font-size:20px;"><b>Administrative email address</b></h2>
        <p>E-mail: atoms@eq.ufrj.br</p>
