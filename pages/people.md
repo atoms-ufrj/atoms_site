@@ -164,6 +164,12 @@ K4331136Y5
 * Advisors: Frederico W. Tavares and Argimiro R. Secchi
 * E-mail: mgoes@peq.coppe.ufrj.br
 
+K8041171E1
+## Mariana Amorim de Almeida
+* Thesis: **Extension of an Equation of State to the Modeling of Confined Fluids**
+* Advisors: Frederico W. Tavares and Leonardo Travalloni
+* E-mail: almeida@eq.ufrj.br
+
 K4419572T6
 ## Marlon de Souza Gama
 * Thesis: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
@@ -259,23 +265,11 @@ K8081407H5
 * Advisor: Amaro Gomes Barreto Jr.
 * E-mail: gersonsf.junior@gmail.com
 
-K4201727Y3
-## Hugo Candia Saad
-* Thesis: **Thermodynamic Properties of CO2 in Mixtures of Natural Gas and Water**
-* Advisors: Papa M. Ndiaye and Frederico W. Tavares
-* E-mail: hugo_saad@hotmail.com
-
 K8290410Y8
 ## Leonardo Tourasse Galdino
 * Project: **Simulation of multiphase hydrate equilibria involving natural gas hydrates and electrolyte solutions**
 * Advisor: Frederico W. Tavares and Iuri S. V. Segtovich
 * E-mail: leotg1010@gmail.com
-
-K8041171E1
-## Mariana Amorim de Almeida
-* Thesis: **Extension of an Equation of State to the Modeling of Confined Fluids**
-* Advisors: Frederico W. Tavares and Leonardo Travalloni
-* E-mail: almeida@eq.ufrj.br
 
 K4245481J2
 ## Tetsuo Mineiro Miyakawa
@@ -435,6 +429,12 @@ K4428226U6
 * Master Dissertation: **Numerical Simulation of N2 and CH4 Separation Through Adsorption in Silicalite**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: hermes@eq.ufrj.br
+
+K4201727Y3
+## Hugo Candia Saad
+* Thesis: **Thermodynamic Properties of CO2 in Mixtures of Natural Gas and Water**
+* Advisors: Papa M. Ndiaye and Frederico W. Tavares
+* E-mail: hugo_saad@hotmail.com
 
 K4331379J6
 ## Isabela Quintela Matos
