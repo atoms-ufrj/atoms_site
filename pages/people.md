@@ -7,7 +7,6 @@ nome nesta página sem precedê-lo pelo correspondente código.
 -->
 
 <img src="../images/Foto_Churratoms2018_crop.jpg" width="830">
-<!-- <center>ATOMS team, November, 2018</center> -->
 <hr>
 
 <!------------------------------------------------------------------------------------------------->
@@ -61,18 +60,16 @@ K4236807P2
 @header: Postdoctoral Researchers
 <!------------------------------------------------------------------------------------------------->
 
-<!--
 K4413804P6
 ## Gabriel Duarte Barbosa
 * Thesis: **Confined Fluids Modeling**
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
 * E-mail: gdbarbosa@eq.ufrj.br
--->
 
 K4404224D3
 ## Iuri Soter Viana Segtovich
 * Thesis: **Thermodynamic Modeling of Compressible Natural Gas Hydrates**
-* Advisors: Frederico W. Tavares
+* Advisor: Frederico W. Tavares
 * E-mail: iurisegtovich@gmail.com
 
 K4216699A9
@@ -237,6 +234,7 @@ K8758192A5
 
 <!--
 K4498086D5
+sem foto
 ## Bruno Miranda Nogueira
 * Thesis: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
@@ -285,13 +283,11 @@ K4245481J2
 * Advisors: Frederico W. Tavares and Rogerio Espósito
 * E-mail: tetmm9@gmail.com
 
-<!--
-Ksemfoto
+K2721814H4
 ## Thamiris Dias 
 * Project: **Dehydration of natural gas**
 * Advisor: Papa M. Ndiaye
 * E-mail: thamiris.dmascarenhas@gmail.com
--->
 
 K4335171A2
 ## Thiago José Pinheiro dos Santos
@@ -333,7 +329,8 @@ K8073148E6
 <!------------------------------------------------------------------------------------------------->
 
 <!--
-Ksemfoto
+K
+sem lattes
 ## Alicia Rocha de Souza
 * Project: **Parameter estimation for thermodynamic models**
 * Advisor:  Papa M. Ndiaye and Iuri S. V. Segtovich
@@ -354,6 +351,7 @@ K4300549A9
 
 <!--
 K4323172P3
+sem foto
 ## Gabriel Moraes Silva
 * Project: **Renormalization Group Theory applied to Equations of State**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
@@ -362,6 +360,7 @@ K4323172P3
 
 <!--
 K4362066Z2
+
 ## Gabriela Freire de Arruda
 * Project: **Modeling and Simulation of Monoclonal Antibodies for Purification in Ion Exchange Columns**
 * Advisor: Amaro Gomes Barreto Jr.
@@ -516,7 +515,8 @@ K4451104E6
 * E-mail: tpitchon@gmail.com
 
 <!--
-Ksemfoto
+K
+sem foto
 ## Victor Virgens de França
 * Master Dissertation: **Modeling an industrial DEA unit with the CPA EOS: A parameter estimation study and data analytics**
 * Advisors: Frederico W. Tavares and Leticia C. dos Santos
