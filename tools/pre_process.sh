@@ -30,9 +30,12 @@ if [ $# == "0" ] || [ $1 == "people" ]; then
   post="<\/td><td>\n\@endhtmlonly"
   sed -r -e "s/\@header:(.*)/$before\1$after/g" \
     -e "s/\@end/<\/td><\/tr><\/table>\n<hr>\n/g" \
+    -e "s/(Ksemfoto)/$pre<a href=\"$link\1\" $attr><img src=\"..\/images\/Ksemfoto.jpg\"><\/a>$post/g" \
     -e "s/($code)/$pre<a href=\"$link\1\" $attr><img src=\"..\/images\/\1.jpg\"><\/a>$post/g" \
   pages/people.md > proc/people.md
 fi
+
+
 
 
 #---------------------------------------------------------------------------------------------------
