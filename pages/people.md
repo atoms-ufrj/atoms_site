@@ -352,6 +352,12 @@ sem foto
 * E-mail: silvagm.br@gmail.com
 -->
 
+K4362066Z2
+## Gabriela Freire de Arruda
+* Project: **Modeling and Simulation of Monoclonal Antibodies for Purification in Ion Exchange Columns**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: gfa.gabriela@gmail.com
+
 K2754085J3
 ## Giovanna Mandarino Vieira
 * Project: **Estimation of parameters in crystallization processes**
