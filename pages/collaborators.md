@@ -1,6 +1,10 @@
 Collaborators  {#collaborators}
 ===============================================
 
+<!--
+https://www.google.com/maps/d/u/0/edit?hl=pt-BR&hl=pt-BR&mid=1oVpJsDXktty6LB3STNCQ0WgNOaFws0Pc&ll=-27.751497155848995%2C-53.143950016961924&z=6
+-->
+
 @htmlonly
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,4 +73,8 @@ s/4/w3.css">
 
 </body>
 </html>
+@endhtmlonly
+
+@htmlonly
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1oVpJsDXktty6LB3STNCQ0WgNOaFws0Pc" width="640" height="480"></iframe>
 @endhtmlonly
