@@ -65,5 +65,5 @@ A fortran package code and build recipes for accompanying your course on paramet
 
 Interactive courseware content on statistical thermodynamics and molecular simulations using scientific python
 
-> https://github.com/pinheirothiagoj/stms
+> https://github.com/pinheirothiagoj/Simulatoms
 
