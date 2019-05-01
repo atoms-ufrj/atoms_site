@@ -36,11 +36,7 @@ possesses 296 Central Processing Units (CPU's) and 16 General-Purpose Graphical 
 
 ## HPF
 
-First generation of the HPF equilibrium cell. It is used to observe phase transitions.
-
-## Photochemical Reactor
-
-Reactor used for photoreduction of aromatic molecules.
+The High Pressure Fluid equilibrium cell. It is used to observe phase transitions at pressure conditions up to 1000 bar.
 
 ---
 # Teaching & Education
@@ -65,5 +61,5 @@ A fortran package code and build recipes for accompanying your course on paramet
 
 Interactive courseware content on statistical thermodynamics and molecular simulations using scientific python
 
-> https://github.com/pinheirothiagoj/Simulatoms
+> https://pinheirothiagoj.github.io/Simulatoms
 

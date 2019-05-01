@@ -76,5 +76,5 @@ s/4/w3.css">
 @endhtmlonly
 
 @htmlonly
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1oVpJsDXktty6LB3STNCQ0WgNOaFws0Pc" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1V0sP90zKcKUExZ783Ge_v39u5gC0NM2Q" width="640" height="480"></iframe>
 @endhtmlonly
