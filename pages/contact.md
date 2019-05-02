@@ -78,7 +78,7 @@ s/4/w3.css">
 
   <div class="w3-container w3-half w3-white">
     Internal Technology center orientation map
-    <img align="center" src="../images/mapa_atoms.png" width="100%">
+    <img align="center" src="../images/mapa_CT.png" width="100%">
   </div>
 
 </div>
