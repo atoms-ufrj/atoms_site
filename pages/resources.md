@@ -34,9 +34,13 @@ for Molecular Dynamics and Monte Carlo simulations.
 possesses 296 Central Processing Units (CPU's) and 16 General-Purpose Graphical Processing Units
 (GP-GPU's), which are mostly used for molecular simulations.
 
+<img src="../images/cluster.png" alt="" height="200">
+
 ## HPF
 
 The High Pressure Fluid equilibrium cell. It is used to observe phase transitions at pressure conditions up to 1000 bar.
+
+<img src="../images/hpf.png" alt="" height="200">
 
 ---
 # Teaching & Education
@@ -47,7 +51,7 @@ Interactive courseware content on applied thermodynamics using scientific python
 
 > https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/
 
-Supporting material for our Thermodynamics course
+Supporting material for undergraduate Thermodynamics
 
 > https://iurisegtovich.github.io/EQE359_Termodinamica_I/
 
@@ -56,10 +60,4 @@ Supporting material for our Thermodynamics course
 A fortran package code and build recipes for accompanying your course on parameter estimation for non-linear models
 
 > https://iurisegtovich.github.io/estimation
-
-## Statistical thermodynamics and molecular simulation
-
-Interactive courseware content on statistical thermodynamics and molecular simulations using scientific python
-
-> https://pinheirothiagoj.github.io/Simulatoms
 
