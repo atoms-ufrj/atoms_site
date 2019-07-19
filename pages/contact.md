@@ -72,13 +72,15 @@ s/4/w3.css">
 <div class="w3-row w3-border:none" style="width:98%;margin:auto">
 
   <div class="w3-container w3-half w3-white">
-    <img align="center" src="../images/ufrj_ct.jpg" width="100%">
+    Interactive map for access points and parking lots for route calculations
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1agRyKmDNRED6hjSCKb9Fos4-apLnIBRl" width="100%" height="480"></iframe>
   </div>
-  
+
   <div class="w3-container w3-half w3-white">
-    <img align="center" src="../images/mapa_atoms.png" width="100%">
+    Internal Technology center orientation map
+    <img align="center" src="../images/mapa_CT.png" width="100%">
   </div>
-   
+
 </div>
 
 </body>

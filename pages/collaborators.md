@@ -1,6 +1,10 @@
 Collaborators  {#collaborators}
 ===============================================
 
+<!--
+https://www.google.com/maps/d/u/0/edit?hl=pt-BR&hl=pt-BR&mid=1oVpJsDXktty6LB3STNCQ0WgNOaFws0Pc&ll=-27.751497155848995%2C-53.143950016961924&z=6
+-->
+
 @htmlonly
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -51,16 +55,16 @@ s/4/w3.css">
   
   <div class="w3-container w3-third w3-white">
       <h2 style="font-size:20px;"><b>International Collaborators</b></h2> 
-       <li style="line-height:2.0"> Prof. Abbas Firoozabadi (RERI and Rice, USA)</li>
-       <li style="line-height:2.0"> Prof. Amadeu Sum (Col. School of Mines, EUA)</li>
+       <li style="line-height:2.0"> Prof. Abbas Firoozabadi (RERI, USA)</li>
+       <li style="line-height:2.0"> Prof. Amadeu Sum (Colorado School of Mines, USA)</li>
        <li style="line-height:2.0"> Prof. Edward Maginn (Notre Dame, USA)</li>
-       <li style="line-height:2.0"> Prof. Georgios Kontogeorgis (DTU, DK)</li>
-       <li style="line-height:2.0"> Prof. Joao M. Maia (Case, USA)</li>
-       <li style="line-height:2.0"> Prof. John M. Prausnitz (Berkeley, USA)</li>
-       <li style="line-height:2.0"> Dr. Mathias Boström (Linköping, Sweden)</li>
+       <li style="line-height:2.0"> Prof. Georgios Kontogeorgis (DTU, Denmark)</li>
+       <li style="line-height:2.0"> Prof. Joao M. Maia (Case University, USA)</li>
+       <li style="line-height:2.0"> Prof. John M. Prausnitz (UC Berkeley, USA)</li>
+       <li style="line-height:2.0"> Dr. Mathias Boström (Linköping University, Sweden)</li>
        <li style="line-height:2.0"> Prof. Marcelo Castier (T&M, Qatar)</li>
-       <li style="line-height:2.0"> Prof. Martin Cismondi (Univ. N. de Córdoba)</li>
-       <li style="line-height:2.0"> Prof. Robert Straka (AGH, Kraków)</li>
+       <li style="line-height:2.0"> Prof. Martin Cismondi (Univ. N. de Córdoba, Argentina)</li>
+       <li style="line-height:2.0"> Prof. Robert Straka (AGH Kraków, Poland)</li>
        <li style="line-height:2.0"> Profª. Selva Pereda (PLAPIQUI, Argentina)</li>
        <li style="line-height:2.0"> Prof. Stanley I. Sandler (Delaware, USA)</li>
   </div>
@@ -69,4 +73,8 @@ s/4/w3.css">
 
 </body>
 </html>
+@endhtmlonly
+
+@htmlonly
+<iframe src="https://www.google.com/maps/d/embed?mid=1V0sP90zKcKUExZ783Ge_v39u5gC0NM2Q" width="640" height="480"></iframe>
 @endhtmlonly
