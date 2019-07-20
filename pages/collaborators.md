@@ -63,6 +63,7 @@ s/4/w3.css">
        <li style="line-height:2.0"> Prof. John M. Prausnitz (UC Berkeley, USA)</li>
        <li style="line-height:2.0"> Dr. Mathias Boström (Linköping University, Sweden)</li>
        <li style="line-height:2.0"> Prof. Marcelo Castier (T&M, Qatar)</li>
+       <li style="line-height:2.0"> Prof. Mark Tuckermann (NY, USA)</li>
        <li style="line-height:2.0"> Prof. Martin Cismondi (Univ. N. de Córdoba, Argentina)</li>
        <li style="line-height:2.0"> Prof. Robert Straka (AGH Kraków, Poland)</li>
        <li style="line-height:2.0"> Profª. Selva Pereda (PLAPIQUI, Argentina)</li>
