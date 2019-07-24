@@ -4,9 +4,15 @@ People {#people}
 <!-- IMPORTANTE: O código que precede o nome de cada pesquisador abaixo é o mesmo código que aparece
 na barra de endereço do navegador quando se visita o seu currículo lattes. Nunca acrescente um novo
 nome nesta página sem precedê-lo pelo correspondente código.
+
+TODO:
+[?] Definir nomenclatura para campo de filiation ou program para informações de qual programa PEQ/EQPB/outros o membro faz parte para fins de informação ao visitante e estatística do grupo.
+[?] Adicionar professores ao programa de pos graduação da eq - epqb:
+> * Graduate Program in Chemical and Biochemical Process Engineering - School of Chemistry - UFRJ
 -->
 
 <img src="../images/Foto_Churratoms2018_crop.jpg" width="830">
+
 <hr>
 
 <!------------------------------------------------------------------------------------------------->
@@ -49,6 +55,7 @@ K4327048A3
 
 K4236807P2
 ## Amanda Gerhardt de Oliveira Ferreira
+<!-- * Project: **Integrated Management Systems Quality, Environment, Safety** -->
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: agerhardt@peq.coppe.ufrj.br
 
@@ -62,43 +69,43 @@ K4236807P2
 
 K4413804P6
 ## Gabriel Duarte Barbosa
-* Project: **Confined Fluids Modeling**
+* Ph.D. Project: **Confined Fluids Modeling**
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
 * E-mail: gdbarbosa@eq.ufrj.br
 
 K4404224D3
 ## Iuri Soter Viana Segtovich
-* Project: **Thermodynamic Modeling of Compressible Natural Gas Hydrates**
+* Ph.D. Project: **Thermodynamic Modeling of Compressible Natural Gas Hydrates**
 * Advisor: Frederico W. Tavares
 * E-mail: iurisegtovich@gmail.com
 
 K4216699A9
 ## Jéssica Caroline da Silva Linhares Maciel
-* Project: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
+* Ph.D. Project: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: jessicaclinhares@gmail.com
 
 K8627879P1
 ## Khalil Kashefi
-* Project: **Dehydration of Natural Gas by Adsorption - Evaluation of Properties and Conditions of Operation**
+* Ph.D. Project: **Dehydration of Natural Gas by Adsorption - Evaluation of Properties and Conditions of Operation**
 * Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
 * E-mail: khalil.kashefi@eq.ufrj.br
 
 K8124300E0
 ## Keerti Vardhan Sharma
-* Project: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
+* Ph.D. Project: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
 * Advisors: Frederico W. Tavares and Robert Straka (in collaboration with this project)
 * E-mail: royalkeerti@hotmail.com
 
 K4408121P6
 ## Pedro Henrique Davi Constantino
-* Project: **Applied Thermodynamics**
+* Ph.D. Project: **Reservoir Simulation**
 * Advisors: Frederico W. Tavares
 * E-mail: pedrohenriquedavi_phd@hotmail.com
 
 K4257847Z6
 ## Troner Assenheimer de Souza
-* Project: **Study of the Influence of the Frequency of Electric Fields on Improving the Separation of Water-in-Oil Emulsions**
+* Ph.D. Project: **Study of the Influence of the Frequency of Electric Fields on Improving the Separation of Water-in-Oil Emulsions**
 * Advisors: Edson Hirokazu Watanabe, Frederico W. Tavares and Márcio Nele de Souza
 * E-mail: tassenheimer@gmail.com
 
@@ -233,14 +240,12 @@ K4478880A4
 <!------------------------------------------------------------------------------------------------->
 @end
 
-
-
 <!------------------------------------------------------------------------------------------------->
 @header: Master's Degree Students
 <!------------------------------------------------------------------------------------------------->
 K8758192A5
 ## Aluan Andrade Ferreira
-* Thesis: **Thermodynamics of Confined Fluids Using Density Functional Theory**
+* M.Sc. Dissertation: **Thermodynamics of Confined Fluids Using Density Functional Theory**
 * Advisors: Frederico W. Tavares and Gabriel Duarte Barbosa
 * E-mail: aluan@eq.ufrj.br
 
@@ -248,81 +253,79 @@ K8758192A5
 K4498086D5
 sem foto
 ## Bruno Miranda Nogueira
-* Thesis: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
+* M.Sc. Dissertation: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
 * E-mail: nogueirab@gmail.com
 -->
 
 K4407408T6
 ## Caio Rodrigues Soares
-* Thesis: **Molecular Dynamics Calculation of Hydration Properties in Calcium Carbonate Clusters**
+* M.Sc. Dissertation: **Molecular Dynamics Calculation of Hydration Properties in Calcium Carbonate Clusters**
 * Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
 * E-mail: caio_equi@hotmail.com
 
 K4200503D6
 ## Felipe Eduardo Braun
-* Thesis: **Modeling and Optimization of Fixed Bed Natural Gas Dehydration Units**
+* M.Sc. Dissertation: **Modeling and Optimization of Fixed Bed Natural Gas Dehydration Units**
 * Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
 * E-mail: braun.ime@gmail.com
 
 K8081407H5
 ## Gerson Francisco da Silva Junior
-* Thesis: **Study of Phase Equilibrium to Predict Scale Deposition of CaCO3**
+* M.Sc. Dissertation: **Study of Phase Equilibrium to Predict Scale Deposition of CaCO3**
 * Advisor: Amaro Gomes Barreto Jr.
 * E-mail: gersonsf.junior@gmail.com
 
 K8290410Y8
 ## Leonardo Tourasse Galdino
-* Project: **Simulation of multiphase hydrate equilibria involving natural gas hydrates and electrolyte solutions**
+* M.Sc. Dissertation: **Simulation of multiphase hydrate equilibria involving natural gas hydrates and electrolyte solutions**
 * Advisor: Frederico W. Tavares and Iuri S. V. Segtovich
 * E-mail: leotg1010@gmail.com
 
 K4245481J2
 ## Tetsuo Mineiro Miyakawa
-* Project: **Methodology for Compositional Distribution in Oil Fields With Compositional Grading**
+* M.Sc. Dissertation: **Methodology for Compositional Distribution in Oil Fields With Compositional Grading**
 * Advisors: Frederico W. Tavares and Rogerio Espósito
 * E-mail: tetmm9@gmail.com
 
 K2721814H4
 ## Thamiris Dias 
-* Project: **Dehydration of natural gas**
+* M.Sc. Dissertation: **Dehydration of natural gas**
 * Advisor: Papa M. Ndiaye
 * E-mail: thamiris.dmascarenhas@gmail.com
 
 K4335171A2
 ## Thiago José Pinheiro dos Santos
-* Project: **Determination of Transport Coefficients of CO2 and n-alkanes Mixtures Under Reservoir Conditions Using Molecular Dynamics**
+* M.Sc. Dissertation: **Determination of Transport Coefficients of CO2 and n-alkanes Mixtures Under Reservoir Conditions Using Molecular Dynamics**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: pinheiro.thiagoj@gmail.com
 
 K4492453P5
 ## Túlio Alves Freire
-* Project: **PVT Modeling Applied to Confined Fluids**
+* M.Sc. Dissertation: **PVT Modeling Applied to Confined Fluids**
 * Advisor: Frederico W. Tavares
 * E-mail: tulio-freire@hotmail.com
 
 K8840999A5
 ## Vanessa Andrea Mascietti
-* Project: **Solubility of Monoethyleneglycol (MEG) in n-pentane in the Presence of Ethanol/Methanol: Experimental Study and Thermodynamic Modeling**
+* M.Sc. Dissertation: **Solubility of Monoethyleneglycol (MEG) in n-pentane in the Presence of Ethanol/Methanol: Experimental Study and Thermodynamic Modeling**
 * Advisors: Papa Matar Ndiaye and Frederico W. Tavares
 * E-mail: vanessa_mascietti05@hotmail.com
 
 K4030740P3
 ## Yamara Matos Oliveira
-* Thesis: **Calculations of Transport Properties of Confined Fluid Via Molecular Dynamics**
+* M.Sc. Dissertation: **Calculations of Transport Properties of Confined Fluid Via Molecular Dynamics**
 * Advisors: Charlles R. A. Abreu and Frederico W. Tavares
 * E-mail: yamaramatos@gmail.com
 
 K8073148E6
 ## Wilfred Andres Gomez Jaramillo
-* Thesis: **High Pressure Phase Equilibria of Parafinic Systems: Experimental and Thermodynamic Study**
+* M.Sc. Dissertation: **High Pressure Phase Equilibria of Parafinic Systems: Experimental and Thermodynamic Study**
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: wilfredjara@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
 @end
-
-
 
 <!------------------------------------------------------------------------------------------------->
 @header: Undergraduate Students
@@ -376,8 +379,6 @@ K8556939Z7
 <!------------------------------------------------------------------------------------------------->
 @end
 
-
-
 <!------------------------------------------------------------------------------------------------->
 @header: Former members
 <!------------------------------------------------------------------------------------------------->
@@ -420,7 +421,7 @@ K4298461A4
 
 K4348506E6
 ## Guilherme Carneiro Queiroz da Silva
-* Thesis: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
+* Final Graduation Project: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
 * Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
 * E-mail: gcarneiroq@gmail.com
 
@@ -432,7 +433,7 @@ K4428226U6
 
 K4201727Y3
 ## Hugo Candia Saad
-* Thesis: **Thermodynamic Properties of CO2 in Mixtures of Natural Gas and Water**
+* M.Sc. Dissertation: **Thermodynamic Properties of CO2 in Mixtures of Natural Gas and Water**
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
 * E-mail: hugo_saad@hotmail.com
 
@@ -450,7 +451,7 @@ K8265433Y5
 
 K4406302J9
 ## Karina Rodrigues Paiva Ranauro do Nascimento
-* Thesis: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
+* Final Graduation Project: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
 * Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
 * E-mail: karinarpr@yahoo.com.br
 
@@ -504,7 +505,7 @@ K4368519A7
 
 K4208759D4
 ## Samir Silva Abunahman
-* Thesis: **A Computational Tool for Equations of State Parameter Estimation: Phase Equilibria Calculations and Industrial Dehydration Unit Operation Analysis**
+* M.Sc. Dissertation: **A Computational Tool for Equations of State Parameter Estimation: Phase Equilibria Calculations and Industrial Dehydration Unit Operation Analysis**
 * Advisors: Frederico W. Tavares and Letícia Cotia dos Santos
 * E-mail: samir@peq.coppe.ufrj.br and samir.abu@gmail.com
 

@@ -2,12 +2,15 @@ Collaborators  {#collaborators}
 ===============================================
 
 <!--
-https://www.google.com/maps/d/u/0/edit?hl=pt-BR&hl=pt-BR&mid=1oVpJsDXktty6LB3STNCQ0WgNOaFws0Pc&ll=-27.751497155848995%2C-53.143950016961924&z=6
+TODO: Remove online dependency to w3schools w3.css script, cloning it to the site repository.
+REF: < https://www.w3schools.com/w3css/w3css_downloads.asp >;
+< https://github.com/JaniRefsnes/w3css >
 -->
 
 @htmlonly
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" href="https://www.w3schools.com/w3cs
 s/4/w3.css">
 <body>
@@ -63,12 +66,13 @@ s/4/w3.css">
        <li style="line-height:2.0"> Prof. John M. Prausnitz (UC Berkeley, USA)</li>
        <li style="line-height:2.0"> Dr. Mathias Boström (Linköping University, Sweden)</li>
        <li style="line-height:2.0"> Prof. Marcelo Castier (T&M, Qatar)</li>
+       <li style="line-height:2.0"> Prof. Mark E. Tuckerman (NYU, USA)</li>
        <li style="line-height:2.0"> Prof. Martin Cismondi (Univ. N. de Córdoba, Argentina)</li>
        <li style="line-height:2.0"> Prof. Robert Straka (AGH Kraków, Poland)</li>
        <li style="line-height:2.0"> Profª. Selva Pereda (PLAPIQUI, Argentina)</li>
        <li style="line-height:2.0"> Prof. Stanley I. Sandler (Delaware, USA)</li>
   </div>
-  
+
 </div>
 
 </body>
