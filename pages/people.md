@@ -58,6 +58,7 @@ K4236807P2
 ## Amanda Gerhardt de Oliveira Ferreira
 <!-- * Project: **Integrated Management Systems Quality, Environment, Safety** -->
 <!-- research assistant -->
+* Integrated management, systems quality, environment and safety assistant
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: agerhardt@peq.coppe.ufrj.br
 
@@ -65,6 +66,7 @@ K8921160A0
 ## Nathália Cerqueira Ribeiro
 <!-- * Project: **Project Management for P,D&I and infrastructure in engineering** -->
 <!-- analista técnico na área de Gestão e Gerenciamento de Projetos de projetos de P,D&I e infraestrutura-->
+* RD&I and infrastructure project management assitant
 * Chemical Engineering Department - School of Chemistry - UFRJ
 * E-mail: nribeiro@peq.coppe.ufrj.br
 
@@ -531,3 +533,10 @@ K8494118E3
 * E-mail: vfranca@peq.coppe.ufrj.br
 
 @end
+
+
+<!--
+fernando dorand
+wesley
+jurgen
+-->
