@@ -80,43 +80,49 @@ K8921160A0
 
 K4413804P6
 ## Gabriel Duarte Barbosa
-* Ph.D. Project: **Confined Fluids Modeling**
+* Project: **Confined Fluids Modeling**
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
 * E-mail: gdbarbosa@eq.ufrj.br
 
 K4404224D3
 ## Iuri Soter Viana Segtovich
-* Ph.D. Project: **Thermodynamic Modeling of Compressible Natural Gas Hydrates**
+* Project: **Thermodynamic Modeling of Compressible Natural Gas Hydrates**
 * Advisor: Frederico W. Tavares
 * E-mail: iurisegtovich@gmail.com
 
 K4216699A9
 ## Jéssica Caroline da Silva Linhares Maciel
-* Ph.D. Project: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
+* Project: **Calculation of Residual Chemical Potential of Rigid Molecules by Monte Carlo Molecular Simulation**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: jessicaclinhares@gmail.com
 
+K4878367E2
+## Jurgen Lange Bregado
+* Project: **Calculation of structural and dynamic properties of lignin systems from molecular dynamics simulations**
+* Advisors: Frederico W. Tavares
+* E-mail: jurgenlange1967@gmail.com
+
 K8627879P1
 ## Khalil Kashefi
-* Ph.D. Project: **Dehydration of Natural Gas by Adsorption - Evaluation of Properties and Conditions of Operation**
+* Project: **Dehydration of Natural Gas by Adsorption - Evaluation of Properties and Conditions of Operation**
 * Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
 * E-mail: khalil.kashefi@eq.ufrj.br
 
 K8124300E0
 ## Keerti Vardhan Sharma
-* Ph.D. Project: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
+* Project: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
 * Advisors: Frederico W. Tavares and Robert Straka (in collaboration with this project)
 * E-mail: royalkeerti@hotmail.com
 
 K4408121P6
 ## Pedro Henrique Davi Constantino
-* Ph.D. Project: **Reservoir Simulation**
+* Project: **Reservoir Simulation**
 * Advisors: Frederico W. Tavares
 * E-mail: pedrohenriquedavi_phd@hotmail.com
 
 K4257847Z6
 ## Troner Assenheimer de Souza
-* Ph.D. Project: **Study of the Influence of the Frequency of Electric Fields on Improving the Separation of Water-in-Oil Emulsions**
+* Project: **Study of the Influence of the Frequency of Electric Fields on Improving the Separation of Water-in-Oil Emulsions**
 * Advisors: Edson Hirokazu Watanabe, Frederico W. Tavares and Márcio Nele de Souza
 * E-mail: tassenheimer@gmail.com
 
@@ -152,6 +158,15 @@ K4406651Z0
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: arthur.ufma@gmail.com
 
+<!--
+K4498086D5
+sem foto
+## Bruno Miranda Nogueira
+* M.Sc. Dissertation: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
+* Advisors: Papa M. Ndiaye and Frederico W. Tavares
+* E-mail: nogueirab@gmail.com
+-->
+
 K4441941E6
 ## Cliff Iuri de Souza Gonçalves
 * Thesis: **Determination of Transport Properties from Systems at Supercritical Conditions**
@@ -175,12 +190,6 @@ K4432903H3
 * Thesis: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
 * Advisor: Amaro G. Barreto Jr.
 * E-mail: joseneto@eq.ufrj.br
-
-K8728144A8
-## Lívia Braga Meirelles
-* Thesis: **Phase Equilibria of heavy oil fraction and Carbon Dioxide at High Pressure**
-* Advisors: Erika Christina Ashton N. Chrisman and Papa Matar Ndiaye
-* E-mail: livia@eq.ufrj.br
 
 K4331136Y5
 ## Maria Rosa Rocha Tenório Góes
@@ -224,6 +233,12 @@ K4866719A0
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: thales@peq.coppe.ufrj.br
 
+K4335171A2
+## Thiago José Pinheiro dos Santos
+* M.Sc. Dissertation: **Determination of Transport Coefficients of CO2 and n-alkanes Mixtures Under Reservoir Conditions Using Molecular Dynamics**
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
+* E-mail: pinheiro.thiagoj@gmail.com
+
 K4426112D6
 ## Tiago Silva Miranda Lemos
 * Thesis: **Molecular Dynamics of Self-Assembling Gradient Copolymers**
@@ -248,6 +263,12 @@ K4478880A4
 * Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
 * E-mail: vsermoud@gmail.com
 
+K4030740P3
+## Yamara Matos Oliveira
+* M.Sc. Dissertation: **Calculations of Transport Properties of Confined Fluid Via Molecular Dynamics**
+* Advisors: Charlles R. A. Abreu and Frederico W. Tavares
+* E-mail: yamaramatos@gmail.com
+
 <!------------------------------------------------------------------------------------------------->
 @end
 
@@ -260,15 +281,6 @@ K8758192A5
 * Advisors: Frederico W. Tavares and Gabriel Duarte Barbosa
 * E-mail: aluan@eq.ufrj.br
 
-<!--
-K4498086D5
-sem foto
-## Bruno Miranda Nogueira
-* M.Sc. Dissertation: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
-* Advisors: Papa M. Ndiaye and Frederico W. Tavares
-* E-mail: nogueirab@gmail.com
--->
-
 K4407408T6
 ## Caio Rodrigues Soares
 * M.Sc. Dissertation: **Molecular Dynamics Calculation of Hydration Properties in Calcium Carbonate Clusters**
@@ -280,6 +292,15 @@ K4200503D6
 * M.Sc. Dissertation: **Modeling and Optimization of Fixed Bed Natural Gas Dehydration Units**
 * Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
 * E-mail: braun.ime@gmail.com
+
+<!--
+K4323172P3
+sem foto
+## Gabriel Moraes Silva
+* Project: **Renormalization Group Theory applied to Equations of State**
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
+* E-mail: silvagm.br@gmail.com
+-->
 
 K8081407H5
 ## Gerson Francisco da Silva Junior
@@ -305,12 +326,6 @@ K2721814H4
 * Advisor: Papa M. Ndiaye
 * E-mail: thamiris.dmascarenhas@gmail.com
 
-K4335171A2
-## Thiago José Pinheiro dos Santos
-* M.Sc. Dissertation: **Determination of Transport Coefficients of CO2 and n-alkanes Mixtures Under Reservoir Conditions Using Molecular Dynamics**
-* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
-* E-mail: pinheiro.thiagoj@gmail.com
-
 K4492453P5
 ## Túlio Alves Freire
 * M.Sc. Dissertation: **PVT Modeling Applied to Confined Fluids**
@@ -323,11 +338,6 @@ K8840999A5
 * Advisors: Papa Matar Ndiaye and Frederico W. Tavares
 * E-mail: vanessa_mascietti05@hotmail.com
 
-K4030740P3
-## Yamara Matos Oliveira
-* M.Sc. Dissertation: **Calculations of Transport Properties of Confined Fluid Via Molecular Dynamics**
-* Advisors: Charlles R. A. Abreu and Frederico W. Tavares
-* E-mail: yamaramatos@gmail.com
 
 K8073148E6
 ## Wilfred Andres Gomez Jaramillo
@@ -360,14 +370,7 @@ K4300549A9
 * Advisor: Charlles R. A. Abreu
 * E-mail: b.c.mquim@gmail.com
 
-<!--
-K4323172P3
-sem foto
-## Gabriel Moraes Silva
-* Project: **Renormalization Group Theory applied to Equations of State**
-* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
-* E-mail: silvagm.br@gmail.com
--->
+
 
 K4362066Z2
 ## Gabriela Freire de Arruda
@@ -456,7 +459,7 @@ K4331379J6
 
 K8265433Y5
 ## José Antonio Scilipoti
-* Ph.D. project: **Compositional Grading in Oil and Gas Reservoirs**
+* Project: **Compositional Grading in Oil and Gas Reservoirs**
 * Advisor: Frederico W. Tavares
 * E-mail: jscilipoti@gmail.com
 
@@ -471,6 +474,12 @@ K4777258Y8
 * Thesis: **An Association Model to Calculate Phase Equilibria of Complex Mixtures With Focus in the Natural Gas Processing**
 * Advisors: Frederico W. Tavares, Victor Rolando Ruiz Ahón and Georgios M. Kontogeorgis
 * E-mail: leticia@peq.coppe.ufrj.br
+
+K8728144A8
+## Lívia Braga Meirelles
+* Thesis: **Phase Equilibria of heavy oil fraction and Carbon Dioxide at High Pressure**
+* Advisors: Erika Christina Ashton N. Chrisman and Papa Matar Ndiaye
+* E-mail: livia@eq.ufrj.br
 
 K8137399J3
 ## Mayk Caldas Ramos
@@ -536,7 +545,35 @@ K8494118E3
 
 
 <!--
-fernando dorand
-wesley
-jurgen
+K4864167T7
+Fernando Augusto Pinheiro da Silva Dorand
+Project process simulation
+Advisors amaro Gomes Barreto Jr
+E-mail dorandfernando@gmail.com 
+
+
+wesley.diatom
+Wesley Alves
+Project molecular simulation
+Advisors Frederico W. Tavares 
+E-mail wesley.diatom@gmail.com
+
+
+K4275728A4
+CAIO FELIPPE CURITIBA MARCELLOS
+POPULATION BALANCE MODELING OF CRYSTALLIZATION FOR MONITORING AND OPTIMAL CONTROL
+caiocuritiba@gmail.com
+
+K4758982U6
+FELIPE COELHO CUNHA
+CONTINUOUS SEPARATION OF PRAZIQUANTEL RACEMIC MIXTURE BY A SIMULATED MOVING BED (SMB) UNIT
+fcoelho@peq.coppe.ufrj.br
+
+
+K4248407A1
+HELTON SIQUEIRA MACIEL
+MOLECULAR RECONSTRUCTION OF HEAVY PETROLEUM FRACTIONS
+helton.maciel@petrobras.com.br
 -->
+
+
