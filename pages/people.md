@@ -7,9 +7,6 @@ nome nesta página sem precedê-lo pelo correspondente código.
 
 TODO:
 [?] Definir nomenclatura para campo de filiation ou program para informações de qual programa PEQ/EQPB/outros o membro faz parte para fins de informação ao visitante e estatística do grupo.
-[?] Adicionar professores ao programa de pos graduação da eq - epqb:
-> * Graduate Program in Chemical and Biochemical Process Engineering - School of Chemistry - UFRJ
--->
 
 <img src="../images/Foto_Churratoms2018_crop.jpg" width="830">
 
@@ -22,28 +19,33 @@ TODO:
 lattes-K4787572D1
 ## Prof. Frederico W. Tavares
 * Chemical Engineering Department - School of Chemistry - UFRJ
+* Graduate Program in Chemical and Biochemical Process Engineering - School of Chemistry - UFRJ
 * Chemical Engineering Program - COPPE - UFRJ
 * E-mail: tavares@eq.ufrj.br
 
 lattes-K4763601J9
 ## Prof. Charlles R. A. Abreu
 * Chemical Engineering Department - School of Chemistry - UFRJ
+* Graduate Program in Chemical and Biochemical Process Engineering - School of Chemistry - UFRJ
 * E-mail: abreu@eq.ufrj.br
 
 lattes-K4763426D4
 ## Prof. Papa M. Ndiaye
 * Chemical Engineering Department - School of Chemistry - UFRJ
+* Graduate Program in Chemical and Biochemical Process Engineering - School of Chemistry - UFRJ
 * Chemical Engineering Program - COPPE - UFRJ
 * E-mail: papa@eq.ufrj.br
 
 lattes-K4765968P1
 ## Prof. Amaro Gomes Barreto Jr.
 * Chemical Engineering Department - School of Chemistry - UFRJ
+* Graduate Program in Chemical and Biochemical Process Engineering - School of Chemistry - UFRJ
 * E-mail: amaro@eq.ufrj.br
 
 lattes-K4327048A3
 ## Profª. Carla Luciane Manske Camargo
 * Chemical Engineering Department - School of Chemistry - UFRJ
+* Graduate Program in Chemical and Biochemical Process Engineering - UFRJ
 * E-mail: carlamanske@eq.ufrj.br
 
 <!------------------------------------------------------------------------------------------------->
@@ -59,7 +61,7 @@ lattes-K4236807P2
 <!-- * Project: **Integrated Management Systems Quality, Environment, Safety** -->
 <!-- research assistant -->
 * Integrated management, systems quality, environment and safety assistant
-* Chemical Engineering Department - School of Chemistry - UFRJ
+* Chemical Engineering Program - COPPE - UFRJ
 * E-mail: agerhardt@peq.coppe.ufrj.br
 
 lattes-K8921160A0
@@ -67,7 +69,7 @@ lattes-K8921160A0
 <!-- * Project: **Project Management for P,D&I and infrastructure in engineering** -->
 <!-- analista técnico na área de Gestão e Gerenciamento de Projetos de projetos de P,D&I e infraestrutura-->
 * RD&I and infrastructure project management assitant
-* Chemical Engineering Department - School of Chemistry - UFRJ
+* Chemical Engineering Program - COPPE - UFRJ
 * E-mail: nribeiro@peq.coppe.ufrj.br
 
 <!------------------------------------------------------------------------------------------------->
