@@ -78,6 +78,15 @@ lattes-K8921160A0
 @header: Postdoctoral Researchers
 <!------------------------------------------------------------------------------------------------->
 
+<!-- semfoto
+lattes-K4275728A4
+## Caio Felippe Curitiba Marcellos
+* Thesis: Population Balance Modeling Of Crystallization For Monitoring And Optimal Control
+* Advisors: Amaro Gomes Barrto Jr.
+* E-mail: caiocuritiba@gmail.com
+-->
+
+
 lattes-K4413804P6
 ## Gabriel Duarte Barbosa
 * Project: **Confined Fluids Modeling**
@@ -167,11 +176,6 @@ sem foto
 * E-mail: nogueirab@gmail.com
 -->
 
-lattes-K4275728A4
-## Caio Felippe Curitiba Marcellos
-* Thesis: Population Balance Modeling Of Crystallization For Monitoring And Optimal Control
-* Advisors: Amaro Gomes Barrto Jr.
-* E-mail: caiocuritiba@gmail.com
 
 lattes-K4441941E6
 ## Cliff Iuri de Souza Gonçalves
@@ -179,11 +183,13 @@ lattes-K4441941E6
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: cliff@peq.coppe.ufrj.br
 
+<!-- sem foto
 lattes-K4758982U6
 ## Felipe Coelho Cunha
 * Thesis: Continuous Separation Of Praziquantel Racemic Mixture By A Simulated Moving Bed Unit
 * Advisors: Amaro Gomes Barreto Jr.
 * E-mail: fcoelho@peq.coppe.ufrj.br
+-->
 
 lattes-K4462773T4
 ## Fellipe Carvalho de Oliveira
@@ -464,12 +470,13 @@ lattes-K4348506E6
 * Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
 * E-mail: gcarneiroq@gmail.com
 
-
+<!-- sem foto
 lattes-K4248407A1
 ## Helton Siqueira Maciel
 * Thesis: Molecular Reconstruction Of Heavy Petroleum Fractions
 * Advisors: Frederico W. Tavares, Charlles R. de A. Abreu
 * E-mail: helton.maciel@petrobras.com.br
+-->
 
 lattes-K4428226U6
 ## Hermes Ribeiro Sant'Anna
