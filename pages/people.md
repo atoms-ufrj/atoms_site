@@ -130,11 +130,7 @@ lattes-K8627879P1
 * Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
 * E-mail: khalil.kashefi@eq.ufrj.br
 
-lattes-K8124300E0
-## Keerti Vardhan Sharma
-* Project: **Double Population Cascaded Lattice Boltzmann Method for Thermal and Advection Diffusion Problems**
-* Advisors: Frederico W. Tavares and Robert Straka (in collaboration with this project)
-* E-mail: royalkeerti@hotmail.com
+
 
 lattes-K4408121P6
 ## Pedro Henrique Davi Constantino
