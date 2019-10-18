@@ -89,11 +89,11 @@ WARN_LOGFILE           =
 INPUT                  = pages/index.md \
                          pages/research.md \
                          proc/people.md \
+                         proc/former.md \
                          proc/publications.md \
                          pages/resources.md \
                          pages/collaborators.md \
                          pages/events.md \
-                         pages/opportunities.md \
                          pages/contact.md \
                          pages/news.md
 INPUT_ENCODING         = UTF-8
