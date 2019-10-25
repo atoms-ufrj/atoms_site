@@ -36,11 +36,11 @@ if [ $# == "0" ] || [ $1 == "people" ]; then
 fi
 
 #---------------------------------------------------------------------------------------------------
-# former
+# alumni
 #---------------------------------------------------------------------------------------------------
-if [ $# == "0" ] || [ $1 == "former" ]; then
+if [ $# == "0" ] || [ $1 == "alumni" ]; then
   address="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id="
-  for code in $(grep 'lattes-K[0-9]\{7\}[A-Z][0-9]' pages/former.md | cut -d "-" -f2); do
+  for code in $(grep 'lattes-K[0-9]\{7\}[A-Z][0-9]' pages/alumni.md | cut -d "-" -f2); do
     image="images/$code.jpg"
     options="--retry-connrefused --waitretry=1 --read-timeout=20 --timeout=15 -t 0 --continue"
 #    for i in $(seq 1 20); do
@@ -65,7 +65,7 @@ if [ $# == "0" ] || [ $1 == "former" ]; then
     -e "s/\@endheader/<\/td><\/tr><\/table>\n<hr>\n/g" \
     -e "s/(Ksemfoto)/$pre<a href=\"$link\1\" $attr><img src=\"..\/images\/Ksemfoto.jpg\"><\/a>$post/g" \
     -e "s/lattes-($code)/$pre<a href=\"$link\1\" $attr><img src=\"..\/images\/\1.jpg\"><\/a>$post/g" \
-  pages/former.md > proc/former.md
+  pages/alumni.md > proc/alumni.md
 fi
 
 
