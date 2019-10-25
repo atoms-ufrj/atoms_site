@@ -53,11 +53,13 @@ lattes-K4348506E6
 * Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
 * E-mail: gcarneiroq@gmail.com
 
+<!-- sem-foto
 lattes-K4248407A1
 ## Helton Siqueira Maciel
 * Thesis: **Molecular Reconstruction Of Heavy Petroleum Fractions**
 * Advisors: Frederico W. Tavares, Charlles R. de A. Abreu
 * E-mail: helton.maciel@petrobras.com.br
+-->
 
 lattes-K4428226U6
 ## Hermes Ribeiro Sant'Anna
@@ -161,13 +163,19 @@ lattes-K4451104E6
 * Advisors: Frederico W. Tavares and Paulo L. C. Lage
 * E-mail: tpitchon@gmail.com
 
+lattes-K4257847Z6
+## Troner Assenheimer de Souza
+* Project: **Study of the Influence of the Frequency of Electric Fields on Improving the Separation of Water-in-Oil Emulsions**
+* Advisors: Edson Hirokazu Watanabe, Frederico W. Tavares and Márcio Nele de Souza
+* E-mail: tassenheimer@gmail.com
+
 lattes-K8494118E3
 ## Victor Virgens de França
 * M.Sc. Dissertation: **Modeling an industrial DEA unit with the CPA EOS: A parameter estimation study and data analytics**
 * Advisors: Frederico W. Tavares and Leticia C. dos Santos
 * E-mail: vfranca@peq.coppe.ufrj.br
 
-@endheader
+
 
 <!--
 lattes-K123456789
@@ -177,6 +185,7 @@ lattes-K123456789
 * E-mail: email@domain.com
 -->
 
+<!--
 ## Naiara dos Santos Lages
 * Título: Estudo Teórico-Experimental de Adsorção em Sólidos Heterogêneos
 * Local: Tecnologia de Processos Químicos e Bioquímicos (EQ/UFRJ)
@@ -433,3 +442,6 @@ lattes-K123456789
 * Bolsa: liberação parcial do UFF (sem ônus)
 * Local: Laboratório de Termodinâmica Aplicada e Simulação Molecular - ATOMS (PEQ e EQ-UFRJ)
 
+-->
+
+@endheader

@@ -73,7 +73,7 @@ lattes-K2054127Z0
 ## Marcia Soares Lima de Mello
 * **Project Management Assistant**
   * *Infrastructure project implementation*
-* E-mail: marciasldm@gmail.com
+* E-mail: cinhavic@gmail.com
 
 lattes-K8921160A0
 ## Nathália Cerqueira Ribeiro
@@ -91,14 +91,11 @@ lattes-K8921160A0
 @header: Postdoctoral Researchers
 <!------------------------------------------------------------------------------------------------->
 
-<!-- semfoto
 lattes-K4275728A4
 ## Caio Felippe Curitiba Marcellos
 * Thesis: Population Balance Modeling Of Crystallization For Monitoring And Optimal Control
 * Advisors: Amaro Gomes Barrto Jr.
 * E-mail: caiocuritiba@gmail.com
--->
-
 
 lattes-K4413804P6
 ## Gabriel Duarte Barbosa
@@ -137,12 +134,6 @@ lattes-K4408121P6
 * Project: **Reservoir Simulation**
 * Advisors: Frederico W. Tavares
 * E-mail: pedrohenriquedavi_phd@hotmail.com
-
-lattes-K4257847Z6
-## Troner Assenheimer de Souza
-* Project: **Study of the Influence of the Frequency of Electric Fields on Improving the Separation of Water-in-Oil Emulsions**
-* Advisors: Edson Hirokazu Watanabe, Frederico W. Tavares and Márcio Nele de Souza
-* E-mail: tassenheimer@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
 @endheader
@@ -344,7 +335,7 @@ lattes-K8560922E9
 ## Ramon Gomes de Castro Lourenço
 * M.Sc. Dissertation: **Boltzmann lattice method application in flow simulations**
 * Advisors: Frederico W. Tavares
-* E-mail: ramon@peq.coppe.ufrj.br>
+* E-mail: ramon@peq.coppe.ufrj.br
 
 lattes-K4245481J2
 ## Tetsuo Mineiro Miyakawa
@@ -442,7 +433,7 @@ lattes-K4455215Z9
 @endheader
 
 <!------------------------------------------------------------------------------------------------->
-@header: Founding members 
+@header: Founding members
 <!-- last but not least -->
 <!------------------------------------------------------------------------------------------------->
 
@@ -458,9 +449,10 @@ lattes-K4455215Z9
 @endheader
 
 
-<!-- matheus amaro/charlles -->
-<!-- yuri amaro-->
-<!-- victor papa -->
+<!-- matheus marques.eq@outlook.com amaro/charlles -->
+<!-- yuri yurialpa@gmail.com amaro-->
+<!-- victor victorpimentel@eq.ufrj.br papa -->
+<!-- lucas goulert  lkgoulart@hotmail.com -->
 
 
 
