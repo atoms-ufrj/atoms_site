@@ -93,7 +93,7 @@ lattes-K8921160A0
 
 lattes-K4275728A4
 ## Caio Felippe Curitiba Marcellos
-* Thesis: Population Balance Modeling Of Crystallization For Monitoring And Optimal Control
+* Project: Population Balance Modeling Of Crystallization For Monitoring And Optimal Control
 * Advisors: Amaro Gomes Barrto Jr.
 * E-mail: caiocuritiba@gmail.com
 
@@ -249,7 +249,7 @@ lattes-K4866719A0
 
 lattes-K4335171A2
 ## Thiago José Pinheiro dos Santos
-* M.Sc. Dissertation: **Determination of Transport Coefficients of CO2 and n-alkanes Mixtures Under Reservoir Conditions Using Molecular Dynamics**
+* Thesis: **Determination of Transport Coefficients of CO2 and n-alkanes Mixtures Under Reservoir Conditions Using Molecular Dynamics**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: pinheiro.thiagoj@gmail.com
 
@@ -279,7 +279,7 @@ lattes-K4478880A4
 
 lattes-K4030740P3
 ## Yamara Matos Oliveira
-* M.Sc. Dissertation: **Calculations of Transport Properties of Confined Fluid Via Molecular Dynamics**
+* Thesis: **Calculations of Transport Properties of Confined Fluid Via Molecular Dynamics**
 * Advisors: Charlles R. A. Abreu and Frederico W. Tavares
 * E-mail: yamaramatos@gmail.com
 
@@ -301,11 +301,7 @@ lattes-K4407408T6
 * Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
 * E-mail: caio_equi@hotmail.com
 
-lattes-K4200503D6
-## Felipe Eduardo Braun
-* M.Sc. Dissertation: **Modeling and Optimization of Fixed Bed Natural Gas Dehydration Units**
-* Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
-* E-mail: braun.ime@gmail.com
+
 
 lattes-K8840132A8
 ## Felipe Rocha Pinto
@@ -315,7 +311,7 @@ lattes-K8840132A8
 
 lattes-K4323172P3
 ## Gabriel Moraes Silva
-* Project: **Renormalization Group Theory applied to Equations of State**
+* M.Sc. Dissertation: **Renormalization Group Theory applied to Equations of State**
 * Advisors: Frederico W. Tavares and Charlles R. A. Abreu
 * E-mail: silvagm.br@gmail.com
 
