@@ -38,9 +38,21 @@ possesses 296 Central Processing Units (CPU's) and 16 General-Purpose Graphical 
 
 ## HPF
 
-The High Pressure Fluid equilibrium cell. It is used to observe phase transitions at pressure conditions up to 1000 bar.
+The **High Pressure Fluid** equilibrium cell. It is used to observe phase transitions at pressure conditions up to 1000 bar.
 
 <img src="../images/hpf.png" alt="" height="200">
+
+## SMB
+
+The **Simulated Moving Bed** pilot plant. It is used to separation of enantiomers using adsorption technology.
+
+<img src="../images/smb.png" alt="" height="200">
+
+## Crystallization analyzer
+
+The **Crystallization analyzer**. It is used to observe particle size distribution in crystallization processes.
+
+<img src="../images/crys.jpg" alt="" height="200">
 
 ---
 # Teaching & Education

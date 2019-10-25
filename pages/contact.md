@@ -11,12 +11,13 @@ s/4/w3.css">
 <div class="w3-row w3-border:none">
 
   <div class="w3-container w3-third w3-white">
-      <h2 style="font-size:20px;"><b>Administrative email address</b></h2>
+      <h2 style="font-size:20px;"><b>Management email address</b></h2>
        <p>E-mail: atoms@eq.ufrj.br</p>
-      <h2 style="font-size:20px;"><b>Administrative Assistant</b></h2>
+      <h2 style="font-size:20px;"><b>RD&I and infrastructure project management assitant</b></h2>
        <p>Nathália Cerqueira Ribeiro</p>
        <p>E-mail: nribeiro@peq.coppe.ufrj.br</p>
-      <h2 style="font-size:20px;"><b>Research Assistant</b></h2>
+       
+      <h2 style="font-size:20px;"><b>Integrated management, systems quality, environment and safety assistant</b></h2>
        <p>Amanda Gerhardt de Oliveira Ferreira</p>
        <p>E-mail: agerhardt@peq.coppe.ufrj.br</p>
   </div>

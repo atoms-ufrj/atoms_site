@@ -102,7 +102,7 @@ s/4/w3.css">
 </table>
 </body>
 
-<iframe style="width:100%;height:700px" src="http://online.anyflip.com/czag/pcuh/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<iframe style="width:100%;height:700px" src="http://online.anyflip.com/czag/pcuh/mobile"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
 <img src="../images/supporters.png" width="100%" height="auto">
 
