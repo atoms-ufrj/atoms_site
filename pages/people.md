@@ -86,14 +86,24 @@ lattes-K8921160A0
 <!------------------------------------------------------------------------------------------------->
 @endheader
 
-<!-- matheus
-* E-mail: marques.eq@outlook.com amaro/charlles -->
-<!-- yuri
-* E-mail: yurialpa@gmail.com amaro-->
-<!-- victor
-* E-mail: victorpimentel@eq.ufrj.br papa -->
-<!-- lucas goulert
-* E-mail: lkgoulart@hotmail.com -->
+<!-- 
+sem-dados
+matheus
+amaro/charlles
+* E-mail: marques.eq@outlook.com 
+-->
+
+<!-- sem-foto
+lattes-K4848482U9
+## Lucas Marchetti Goulart
+* Scientific initiation research: **Chromatographic separation of praziquantel enantiomers - continuous and batch process**
+* Advisors: Amaro G Barreto Jr, Marlon S Gamma
+* E-mail: lkgoulart@hotmail.com
+--->
+
+
+
+
 
 <!------------------------------------------------------------------------------------------------->
 @header: Postdoctoral Researchers
@@ -171,14 +181,11 @@ lattes-K4406651Z0
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: arthur.ufma@gmail.com
 
-<!--
 lattes-K4498086D5
-sem foto
 ## Bruno Miranda Nogueira
 * M.Sc. Dissertation: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
 * E-mail: nogueirab@gmail.com
--->
 
 
 lattes-K4441941E6
@@ -187,13 +194,13 @@ lattes-K4441941E6
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: cliff@peq.coppe.ufrj.br
 
-<!-- sem foto
+
 lattes-K4758982U6
 ## Felipe Coelho Cunha
 * Thesis: **Continuous Separation Of Praziquantel Racemic Mixture By A Simulated Moving Bed Unit**
 * Advisors: Amaro Gomes Barreto Jr.
 * E-mail: fcoelho@peq.coppe.ufrj.br
--->
+
 
 lattes-K4462773T4
 ## Fellipe Carvalho de Oliveira
@@ -365,12 +372,23 @@ lattes-K8840999A5
 * Advisors: Papa Matar Ndiaye and Frederico W. Tavares
 * E-mail: vanessa_mascietti05@hotmail.com
 
+lattes-K4625191D7
+## Victor Hugo Pimentel da Silva
+* M.Sc. Dissertatio: **Thermodynamic study of Asphaltenes / Hydrates / Paraffins formation in flow assurance**
+* Advisors: Frederico W. Tavares, Papa M. Ndiaye
+* E-mail: victorpimentel@eq.ufrj.br
 
 lattes-K8073148E6
 ## Wilfred Andres Gomez Jaramillo
 * M.Sc. Dissertation: **High Pressure Phase Equilibria of Parafinic Systems: Experimental and Thermodynamic Study**
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: wilfredjara@gmail.com
+
+lattes-K8561873P0
+## Yuri de Paiva Alves
+* Project: **Simulation of adsorption columns for natural gas dehydration**
+* Advisors: Amaro G Barreto Jr
+* E-mail: yurialpa@gmail.com
 
 <!------------------------------------------------------------------------------------------------->
 @endheader
