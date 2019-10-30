@@ -26,12 +26,14 @@ clean:
 	ls images/K* | grep 'K[0-9]\{7\}[A-Z][0-9].jpg' | xargs rm -f
 
 view:
-	touch pages/index.md
-	make all
 	firefox en/index.html
 
-review:
+review1:
 	touch pages/index.md
 	make en/index.html
 	firefox en/index.html
 
+review2:
+	touch pages/index.md
+	make all
+	firefox en/index.html

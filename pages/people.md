@@ -86,6 +86,14 @@ lattes-K8921160A0
 <!------------------------------------------------------------------------------------------------->
 @endheader
 
+<!-- matheus
+* E-mail: marques.eq@outlook.com amaro/charlles -->
+<!-- yuri
+* E-mail: yurialpa@gmail.com amaro-->
+<!-- victor
+* E-mail: victorpimentel@eq.ufrj.br papa -->
+<!-- lucas goulert
+* E-mail: lkgoulart@hotmail.com -->
 
 <!------------------------------------------------------------------------------------------------->
 @header: Postdoctoral Researchers
@@ -197,7 +205,7 @@ lattes-K4361739E1
 ## Ingrid Azevedo de Oliveira
 * Thesis: **Kinetic and Thermodynamic Analysis of the Formation of Hydrates**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
-* E-mail: ingrid.azevedo@ufrj.br
+* E-mail: ingrid.azevedo@eq.ufrj.br
 
 lattes-K4432903H3
 ## José Rodrigues Torraca Neto
@@ -221,7 +229,7 @@ lattes-K4419572T6
 ## Marlon de Souza Gama
 * Thesis: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
 * Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
-* E-mail: marlongama@ufrj.br
+* E-mail: marlonsgama@hotmail.com.br 
 
 lattes-K4457388H9
 ## Rafael Cavalcante dos Santos
@@ -441,14 +449,10 @@ lattes-K4455215Z9
 * Texas A&M, Quatar
 * E-mail: mcastier@gmail.com 
 
-
 @endheader
 
 
-<!-- matheus marques.eq@outlook.com amaro/charlles -->
-<!-- yuri yurialpa@gmail.com amaro-->
-<!-- victor victorpimentel@eq.ufrj.br papa -->
-<!-- lucas goulert  lkgoulart@hotmail.com -->
+
 
 
 
