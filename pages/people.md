@@ -194,6 +194,12 @@ lattes-K4441941E6
 * Advisors: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: cliff@peq.coppe.ufrj.br
 
+lattes-K4736023A7
+## Daniele P. S. Dalto
+* Thesis: **Molecular dynamics of nanoparticles in polymer matrix**
+* Advisors: Frederico W. Tavares and Verônica M. A. Calado
+* E-mail: danielepereira@gmail.com
+<!-- EPQB--->
 
 lattes-K4758982U6
 ## Felipe Coelho Cunha
@@ -320,7 +326,7 @@ lattes-K4407408T6
 
 lattes-K8840132A8
 ## Felipe Rocha Pinto
-* M.Sc. Dissertation: **Natural gas dehydration using adsorption technology**
+* M.Sc. Dissertation: **Simulation of adsorption columns for natural gas dehydration**
 * Advisors: Amaro Gomes Barreto Jr. and Carla Luciane Manske Camargo
 * E-mail: felipefrpinto@gmail.com
 
@@ -374,7 +380,7 @@ lattes-K8840999A5
 
 lattes-K4625191D7
 ## Victor Hugo Pimentel da Silva
-* M.Sc. Dissertatio: **Thermodynamic study of Asphaltenes / Hydrates / Paraffins formation in flow assurance**
+* M.Sc. Dissertation: **Thermodynamic study of Asphaltenes / Hydrates / Paraffins formation in flow assurance**
 * Advisors: Frederico W. Tavares, Papa M. Ndiaye
 * E-mail: victorpimentel@eq.ufrj.br
 
@@ -386,7 +392,7 @@ lattes-K8073148E6
 
 lattes-K8561873P0
 ## Yuri de Paiva Alves
-* Project: **Simulation of adsorption columns for natural gas dehydration**
+* Project: **Natural gas dehydration using adsorption technology**
 * Advisors: Amaro G Barreto Jr
 * E-mail: yurialpa@gmail.com
 
@@ -476,7 +482,7 @@ lattes-K4455215Z9
 
 <!--
 lattes-K123456789
-## Nome Sobremnome
+## Nome Sobrenome
 * Scientific initiation research/Final graduation project/M.Sc. Dissertation/Thesis: **Assunto ou Título**
 * Advisors/Supervisors: Nome Sobrenome, Nome Sobrenome,
 * E-mail: email@domain.com
