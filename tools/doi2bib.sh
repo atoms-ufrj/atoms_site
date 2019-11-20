@@ -1,4 +1,8 @@
 #!/bin/bash
+
+#this script gets a DOI as cli arg and then accesses dx.doi site with curl to get the bib string
+#and then echos it to stdout (terminal or pipe)
+
 if [ "$#" -ne 1 ]; then
   echo "usage: doi2bib <DOI>"; exit
 fi
