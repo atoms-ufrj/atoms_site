@@ -12,3 +12,4 @@ exatamente o formato dos demais.
 
 DOI: 10.1021/acs.jced.9b00691
 DOI: 10.1016/j.supflu.2019.104639
+DOI: 10.1002/aic.16028
