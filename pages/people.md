@@ -115,6 +115,13 @@ lattes-K4275728A4
 * Advisors: Amaro Gomes Barrto Jr.
 * E-mail: caiocuritiba@gmail.com
 
+lattes-K4489296Y9
+## Elvis do Amaral Soares
+* Project: Termodinâmica Fora do Equilíbrio 
+* Advisors: Amaro G. Barreto Jr. and Frederico W. Tavares
+* E-mail: elvis.asoares@gmail.com
+<!-- COPPETEC -->
+
 lattes-K4413804P6
 ## Gabriel Duarte Barbosa
 * Project: **Confined Fluids Modeling**
