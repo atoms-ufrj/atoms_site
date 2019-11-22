@@ -5,7 +5,6 @@
     <tab type="mainpage" visible="yes" title="Home"/>
     <tab type="user" url="news.html" visible="yes" title="News"/>
     <tab type="user" url="people.html" visible="yes" title="People"/>
-    <tab type="user" url="alumni.html" visible="yes" title="Alumni"/>
     <tab type="user" url="research.html" visible="yes" title="Research"/>
     <tab type="user" url="publications.html" visible="yes" title="Publications"/>
     <tab type="user" url="collaborators.html" visible="yes" title="Collaborators"/>

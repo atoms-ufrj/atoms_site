@@ -89,7 +89,6 @@ WARN_LOGFILE           =
 INPUT                  = pages/index.md \
                          pages/research.md \
                          proc/people.md \
-                         proc/alumni.md \
                          proc/publications.md \
                          pages/resources.md \
                          pages/collaborators.md \
