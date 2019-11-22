@@ -467,25 +467,32 @@ lattes-K4455215Z9
 <!------------------------------------------------------------------------------------------------->
 @endheader
 
-<!------------------------------------------------------------------------------------------------->
-@header: Founding members
-<!-- last but not least -->
-<!------------------------------------------------------------------------------------------------->
 
 @htmlonly
-</td></tr><tr><td><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787098J0" target="_blank" title="Curriculum vitae"><img src="../images/castier-marcelo.jpg"></a></td><td>
+
+<div>
+<link rel="stylesheet" href="readmorestate.css" type=text/css>
+  <input type="checkbox" class="read-more-state" id="post-2" />
+
+  <ul class="read-more-wrap">
 @endhtmlonly
 
-## Marcelo Castier
-* Texas A&M, Quatar
-* E-mail: mcastier@gmail.com 
-
-@endheader
-
-
-
-
-
+@htmlonly
+    <li>lorem</li>
+    <li>lorem 2</li>
+@endhtmlonly
+    
+@htmlonly
+    <li class="read-more-target">lorem 3</li>
+    <li class="read-more-target">lorem 4</li>
+@endhtmlonly
+    
+@htmlonly
+  </ul>
+  
+  <label for="post-2" class="read-more-trigger"></label>
+</div>
+@endhtmlonly
 
 <!--
 lattes-K123456789

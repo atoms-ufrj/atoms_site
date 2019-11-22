@@ -454,3 +454,17 @@ lattes-K123456789
 -->
 
 @endheader
+
+<!------------------------------------------------------------------------------------------------->
+@header: Founding members
+<!-- last but not least -->
+<!------------------------------------------------------------------------------------------------->
+
+@htmlonly
+</td></tr><tr><td><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787098J0" target="_blank" title="Curriculum vitae"><img src="../images/castier-marcelo.jpg"></a></td><td>
+@endhtmlonly
+
+## Marcelo Castier
+* Texas A&M, Quatar
+
+@endheader
