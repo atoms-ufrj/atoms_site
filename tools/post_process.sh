@@ -34,4 +34,4 @@ done
 
 sed -i "/class=\"headertitle\">/d" en/index.html
 sed -i "/class=\"title\">Applied Thermodynamics and Molecular Simulation/d" en/index.html
-cp ./layout/search.css ./en/search/search.css
+#cp ./layout/search.css ./en/search/search.css

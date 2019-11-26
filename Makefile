@@ -14,8 +14,6 @@ proc/people.md: pages/people.md
 	cp layout/readmorestate.css en/readmorestate.css
 	tools/pre_process.sh people
 
-
-
 proc/publications.md: pages/publications.md pages/publications.bib
 	tools/pre_process.sh publications
 
