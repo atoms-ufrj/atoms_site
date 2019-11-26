@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#this is exactly equal to "pre_process.sh" but with download on
-# To Do : unify both files and conditionally download according to some cli arg flag
-
-mkdir -p proc
-
 #---------------------------------------------------------------------------------------------------
 # people
 #---------------------------------------------------------------------------------------------------
@@ -26,18 +21,7 @@ if [ $# == "0" ] || [ $1 == "people" ]; then
       eval "convert -resize $percent% $image $image"
     fi
   done
-  before="<table id=\"gradient-style-large\"><tr><th><\/th><th><h2>"
-  after="<\/h2><\/th><\/tr><tr><td><\/td><td>"
-  code="K[0-9]{7}[A-Z][0-9]"
-  link="http:\/\/buscatextual.cnpq.br\/buscatextual\/visualizacv.do?id="
-  attr="target=\"_blank\" title=\"Curriculum vitae\""
-  pre="\@htmlonly\n<\/td><\/tr><tr><td>"
-  post="<\/td><td>\n\@endhtmlonly"
-  sed -r -e "s/\@header:(.*)/$before\1$after/g" \
-    -e "s/\@endheader/<\/td><\/tr><\/table>\n<hr>\n/g" \
-    -e "s/(Ksemfoto)/$pre<a href=\"$link\1\" $attr><img src=\"..\/images\/Ksemfoto.jpg\"><\/a>$post/g" \
-    -e "s/lattes-($code)/$pre<a href=\"$link\1\" $attr><img src=\"..\/images\/\1.jpg\"><\/a>$post/g" \
-  pages/people.md > proc/people.md
+
 fi
 
 

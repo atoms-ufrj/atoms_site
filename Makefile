@@ -11,6 +11,7 @@ en/index.html: proc/people.md proc/publications.md $(PAGES)
 	tools/post_process.sh
 
 proc/people.md: pages/people.md
+	mkdir -p en
 	cp layout/readmorestate.css en/readmorestate.css
 	tools/pre_process.sh people
 
