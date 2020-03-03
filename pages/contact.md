@@ -35,6 +35,7 @@ s/4/w3.css">
     <td style="width:49%" align="left">
        <p> <b>[Lab 1]</b> Bloco I, Sala I-224  </p>
        <p> <b>[Lab 3]</b> Bloco I, Sala I-142  </p>
+       <p> <b>[Lab 5]</b> Bloco M </p>
     </td>
 
     <td style="width:2%" align="left">
@@ -43,6 +44,7 @@ s/4/w3.css">
     <td style="width:49%" align="left">
        <p> <b>[Lab 2]</b> LADEQ, 2<sup>o</sup> piso  </p> 
        <p> <b>[Lab 4]</b> LADEQ, 3<sup>o</sup> piso  </p>
+       <p> <br> </p>
     </td>  
   </table>
        
@@ -80,7 +82,7 @@ s/4/w3.css">
   </div>
 
   <div class="w3-container w3-half w3-white">
-    Internal Technology center orientation map
+    Internal Technology Center orientation map
     <img align="center" src="../images/mapa_CT.png" width="100%">
   </div>
 

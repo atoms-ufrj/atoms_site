@@ -20,12 +20,20 @@ TODO:
 
 
 @htmlonly
+<link rel="stylesheet" href="readmorestate.css" type=text/css>
+
+@endhtmlonly
+
+@htmlonly
 
 <div>
-<link rel="stylesheet" href="readmorestate.css" type=text/css>
-  <input type="checkbox" class="read-more-state" id="post-2" />
+  <input type="checkbox" class="read-more-state" id="post-11" />
 
-  <ul class="read-more-wrap">
+  <div class="read-more-wrap">
+  
+  
+  <br> <!-- super important br-->
+  
 @endhtmlonly
 
 <!------------------------------------------------------------------------------------------------->
@@ -106,12 +114,12 @@ lattes-K8921160A0
 
 <!-- 
 sem-dados
-matheus
+matheus marques
 amaro/charlles
 * E-mail: marques.eq@outlook.com 
 -->
 
-<!-- sem-foto
+<!-- sem-foto fev2020
 lattes-K4848482U9
 ## Lucas Marchetti Goulart
 * Scientific initiation research: **Chromatographic separation of praziquantel enantiomers - continuous and batch process**
@@ -192,8 +200,6 @@ lattes-K4794358H6
 * Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
 * E-mail: adriteix@petrobras.com.br and adriteix@yahoo.com.br
 
-
-
 lattes-K4278078T5
 ## Ana Paula Palhares Simoncelli
 * Thesis: **Thermodynamic Study of Asphaltene Precipitation**
@@ -208,7 +214,7 @@ lattes-K4406651Z0
 
 lattes-K4498086D5
 ## Bruno Miranda Nogueira
-* M.Sc. Dissertation: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
+* Thesis: **Phase equilibria of systems containing glycerol, methanol, carbon dioxide and sodium Chloride**
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
 * E-mail: nogueirab@gmail.com
 
@@ -371,7 +377,8 @@ lattes-K8290410Y8
 ## Leonardo Tourasse Galdino
 * M.Sc. Dissertation: **Simulation of multiphase hydrate equilibria involving natural gas hydrates and electrolyte solutions**
 * Advisor: Frederico W. Tavares and Iuri S. V. Segtovich
-* E-mail: leotg1010@gmail.com
+* E-mail: lgaldino@peq.coppe.ufrj.br
+<!--* E-mail: leotg1010@gmail.com-->
 
 lattes-K8560922E9
 ## Ramon Gomes de Castro Lourenço
@@ -384,12 +391,6 @@ lattes-K4245481J2
 * M.Sc. Dissertation: **Methodology for Compositional Distribution in Oil Fields With Compositional Grading**
 * Advisors: Frederico W. Tavares and Rogerio Espósito
 * E-mail: tetmm9@gmail.com
-
-lattes-K2721814H4
-## Thamiris Dias 
-* M.Sc. Dissertation: **Dehydration of natural gas**
-* Advisor: Papa M. Ndiaye
-* E-mail: thamiris.dmascarenhas@gmail.com
 
 lattes-K4492453P5
 ## Túlio Alves Freire
@@ -470,11 +471,12 @@ lattes-K8107131D4
 * Advisors: Papa Matar Ndiaye, Vanessa Andrea Mascietti
 * E-mail: lari.fariass@gmail.com
 
-lattes-K8556939Z7
-## Luana Gaspar
-* Project: **Thermodynamic modeling of electrolyte solutions for hydrate phase equilibria**
-* Advisor: Frederico W. Tavares and Iuri S. V. Segtovich
-* E-mail: luana.s.gaspar@eq.ufrj.br
+lattes-K2662685J8
+## Marlon Conceição dos Santos
+* Scientific initiation research: Reservoir simulation
+<!--EQ-->
+* Advisors: Frederico W. Tavares
+* E-mail: marloncsantos99@gmail.com
 
 lattes-K4455215Z9
 ## Wesley Júnio Alves da Conceição
@@ -487,14 +489,17 @@ lattes-K4455215Z9
 
 
 
-
-    
-<!--readmore1-->
-@htmlonly 
-    <div class="read-more-target">
+@htmlonly
+  
+  
+  <div class="read-more-target">
+  
+  
+  <br> <!-- super important br-->
+  
+  
+  
 @endhtmlonly
-
-
 
 
 
@@ -616,6 +621,12 @@ lattes-K8728144A8
 * Advisors: Erika Christina Ashton N. Chrisman and Papa Matar Ndiaye
 <!--* E-mail: livia@eq.ufrj.br-->
 
+lattes-K8556939Z7
+## Luana Gaspar
+* Project: **Thermodynamic modeling of electrolyte solutions for hydrate phase equilibria**
+* Advisor: Frederico W. Tavares and Iuri S. V. Segtovich
+<!--* E-mail: luana.s.gaspar@eq.ufrj.br-->
+
 lattes-K8137399J3
 ## Mayk Caldas Ramos
 * Final Graduation Project: **A Molecular Dynamics Analysis of Water on Zeolite**
@@ -670,6 +681,12 @@ lattes-K4451104E6
 * Advisors: Frederico W. Tavares and Paulo L. C. Lage
 <!--* E-mail: tpitchon@gmail.com-->
 
+lattes-K2721814H4
+## Thamiris Dias 
+* M.Sc. Dissertation: **Dehydration of natural gas**
+* Advisor: Papa M. Ndiaye
+<!-- * E-mail: thamiris.dmascarenhas@gmail.com -->
+
 lattes-K4239870P7
 ## Thiago de Oliveira Marinho
 * M.Sc. Dissertation: Flow Stress Evaluation in Paraffin Oil, A / O Emulsions and Model Systems Under Gelation Conditions.
@@ -690,14 +707,6 @@ lattes-K8494118E3
 <!--* E-mail: vfranca@peq.coppe.ufrj.br-->
 
 
-
-<!--
-lattes-K123456789
-## Nome Sobremnome
-* Scientific initiation research/Final graduation project/M.Sc. Dissertation/Thesis: **Assunto ou Título**
-* Advisors/Supervisors: Nome Sobrenome, Nome Sobrenome,
-* E-mail: email@domain.com
--->
 
 <!--
 ## Naiara dos Santos Lages
@@ -959,15 +968,14 @@ lattes-K123456789
 
 
 
-
-
 <!------------------------------------------------------------------------------------------------->
 @header: Founding members
 <!-- last but not least -->
 <!------------------------------------------------------------------------------------------------->
 
 @htmlonly
-</td></tr><tr><td><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787098J0" target="_blank" title="Curriculum vitae"><img src="../images/castier-marcelo.jpg"></a></td><td>
+</td></tr><tr><td><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787098J0" target="_blank" title="Curriculum vitae">
+<img src="../images/castier-marcelo.jpg"></a></td><td>
 @endhtmlonly
 
 ## Marcelo Castier
@@ -976,30 +984,17 @@ lattes-K123456789
 @endheader
 
 
-
-<!-- css read more close -->
-
-
-
-
-
-<!--readmore2-->
 @htmlonly
-    </div>
-@endhtmlonly
-    
-@htmlonly
-  </ul>
   
-  <label for="post-2" class="read-more-trigger"></label>
+  </div>
+  </div>
+  
+  <label for="post-11" class="read-more-trigger"></label>
 </div>
+
+
+
 @endhtmlonly
-
-
-
-
-
-
 
 
 
