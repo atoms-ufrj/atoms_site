@@ -79,9 +79,11 @@ As páginas _people_ e _publications_ são pré-processadas por ferramentas que 
 visual diferenciado, mas com uma edição extremamente facilitada. Devido ao pré-processamento, é
 necessário que novos ítens sigam estritamente a formatação dos ítens já existentes. Na página
 _people_, deve-se preceder os dados descritivos de cada pessoa com o código associado a ela no
-sistema Lattes. Ao se visitar um currículo Lattes, o endereço que aparece no navegador é algo como:
+sistema Lattes. Ao se visitar um currículo Lattes, o endereço que aparece no navegador é algo como.
 
-    http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787572D1
+ 
+ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787572D1
+ 
 
 Nesse caso, o código que deve preceder o nome da pessoa no arquivo `people.md` é K4787572D1. Somente
 adicione um novo membro quando tiver o seu código Lattes a disposição.
@@ -96,7 +98,7 @@ publicação no _site_ do ATOMS, bastando acrescentar no arquivo `publications.m
 Conclusão
 ---------
 
-Com este projeto, espera-se que o grupo ATOMS tenha um _web site_ ativo, dinâmico e democrático,
+Com este projeto, espera-se que o grupo "ATOMS" tenha um _web site_ ativo, dinâmico e democrático,
 com o qual todos os membros se sintam identificados e motivados a contribuir.
 
 <!-- Links -->
