@@ -25,6 +25,14 @@ for Molecular Dynamics and Monte Carlo simulations.
 > https://groups.google.com/forum/#!forum/playmol-users
 
 
+## PyEquIon 
+
+Automatic Speciation Simulator
+
+* Web based user interface
+> https://caiofcm.github.io/pyequion-onl/
+
+
 ---
 # Infrastructure
 
@@ -53,6 +61,7 @@ The **Simulated Moving Bed** pilot plant. It is used to separation of enantiomer
 The **Crystallization analyzer**. It is used to observe particle size distribution in crystallization processes.
 
 <img src="../images/crys.jpg" alt="" height="200">
+
 
 ---
 # Teaching & Education
