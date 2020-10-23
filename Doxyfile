@@ -93,6 +93,7 @@ INPUT                  = pages/index.md \
                          pages/resources.md \
                          pages/collaborators.md \
                          pages/events.md \
+                         pages/seminars.md \
                          pages/contact.md \
                          pages/news.md
 INPUT_ENCODING         = UTF-8

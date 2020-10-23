@@ -63,13 +63,9 @@ Interactive courseware content on applied thermodynamics using scientific python
 
 > https://iurisegtovich.github.io/PyTherm-applied-thermodynamics/
 
-Supporting material for undergraduate Thermodynamics
-
-> https://iurisegtovich.github.io/EQE359_Termodinamica_I/
-
 ## Parameter estimation for non-linear models
 
-A fortran package code and build recipes for accompanying your course on parameter estimation for non-linear models
+A fortran package code and build recipes for accompanying a course on parameter estimation for non-linear models
 
 > https://iurisegtovich.github.io/estimation
 
