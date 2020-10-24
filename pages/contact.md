@@ -57,6 +57,8 @@ s/4/w3.css">
       <p> <a href="https://www.facebook.com/atoms.ufrj">facebook.com/atoms.ufrj</a> </p>
       <h2 style="font-size:20px;"><b>Instagram page</b></h2> 
        <p> <a href="https://www.instagram.com/atoms.ufrj">instagram.com/atoms.ufrj</a> </p>
+      <h2 style="font-size:20px;"><b>Youtube channel</b></h2> 
+       <p> <a href="https://www.youtube.com/c/atoms-ufrj">youtube.com/c/atoms-ufrj</a> </p>
   </div>
   
 </div>

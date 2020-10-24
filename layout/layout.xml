@@ -10,6 +10,7 @@
     <tab type="user" url="collaborators.html" visible="yes" title="Collaborators"/>
     <tab type="user" url="resources.html" visible="yes" title="Resources"/>
     <tab type="user" url="events.html" visible="yes" title="Events"/>
+    <tab type="user" url="seminars.html" visible="yes" title="Seminars"/>
     <tab type="user" url="contact.html" visible="yes" title="Contact"/>
     <tab type="pages" visible="no" title="" intro=""/>
     <tab type="modules" visible="yes" title="" intro=""/>
