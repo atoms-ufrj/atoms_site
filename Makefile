@@ -10,13 +10,12 @@ all:
 #main build recipe:
 #rebuilds if Makefile itself changed
 #builds with doxygen, applies patches and post processings
-en/index.html: proc/people.md proc/publications.md $(PAGES) Makefile layout/readmorestate.css
+en/index.html: proc/people.md proc/publications.md $(PAGES) Makefile
 	doxygen
-	cp layout/readmorestate.css en/readmorestate.css
 	tools/post_process.sh
 
 #module concernign preprocessing people
-proc/people.md: pages/people.md en/readmorestate.css
+proc/people.md: pages/people.md
 	tools/pre_process.sh people
 
 #module concernign preprocessing publications
