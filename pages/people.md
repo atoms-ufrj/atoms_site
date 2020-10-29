@@ -476,7 +476,7 @@ lattes-K8611482A6
 * Final Graduation Project: **Development of new materials for CO2 adsorption under pre-salt conditions**
 <!--EQ-->
 * Advisors: Frederico W. Tavares, Carla Manske Camargo, Amaro Gomes Barreto Jr.
-* E-mail: 
+* E-mail: jhenriquelinss@gmail.com
 
 lattes-K8107131D4
 ## Larissa Silva Farias
@@ -985,7 +985,7 @@ lattes-K4455215Z9
 @endheader
 
 
-
+<!-- klug e rodolfo-->
 
 
 
