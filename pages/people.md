@@ -244,6 +244,11 @@ lattes-K4462773T4
 * Advisors: Frederico W. Tavares and João Manuel Luís Lopez Maia
 * E-mail: fellipe.oliveira.ufc@gmail.com
 
+lattes-K8081407H5
+## Gerson Francisco da Silva Junior
+* Thesis: **Study of Phase Equilibrium to Predict Scale Deposition of CaCO3**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: gersonsf.junior@gmail.com
 
 lattes-K4361739E1
 ## Ingrid Azevedo de Oliveira
@@ -398,11 +403,7 @@ lattes-K2045136Z6
 * Advisor: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: gklug@peq.coppe.ufrj.br
 
-lattes-K8081407H5
-## Gerson Francisco da Silva Junior
-* M.Sc. Dissertation: **Study of Phase Equilibrium to Predict Scale Deposition of CaCO3**
-* Advisor: Amaro Gomes Barreto Jr.
-* E-mail: gersonsf.junior@gmail.com
+
 
 lattes-K8290410Y8
 ## Leonardo Tourasse Galdino
