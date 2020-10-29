@@ -391,6 +391,13 @@ lattes-K8701986U2
 * E-mail: gcorrea@peq.coppe.ufrj.br
 
 
+lattes-K2045136Z6
+## Gabriel Bosser Klug
+<!--peq-->
+* M.Sc. Dissertation: **Thermodynamics of Wax Deposition**
+* Advisor: Frederico W. Tavares and Papa M. Ndiaye
+* E-mail: gklug@peq.coppe.ufrj.br
+
 lattes-K8081407H5
 ## Gerson Francisco da Silva Junior
 * M.Sc. Dissertation: **Study of Phase Equilibrium to Predict Scale Deposition of CaCO3**
@@ -417,6 +424,16 @@ lattes-K8560922E9
 * M.Sc. Dissertation: **Boltzmann lattice method application in flow simulations**
 * Advisors: Frederico W. Tavares
 * E-mail: ramon@peq.coppe.ufrj.br
+
+
+
+lattes-K8586700Y5
+## Rodolfo Rodrigues Holanda Cavalcante
+<!--peq-->
+* M.Sc. Dissertation: **Molecular simulations in confined fluid and adsorption systems**
+* Advisors: Frederico W. Tavares and Charlles R. A. Abreu
+* E-mail: rodolfoholanda7@gmail.com
+
 
 lattes-K4245481J2
 ## Tetsuo Mineiro Miyakawa
@@ -1108,13 +1125,6 @@ lattes-K4455215Z9
 * Texas A&M, Quatar
 
 @endheader
-
-
-<!-- klug e rodolfo-->
-
-
-
-
 
 
 
