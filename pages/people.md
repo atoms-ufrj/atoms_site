@@ -205,6 +205,11 @@ lattes-K4498086D5
 * Advisors: Papa M. Ndiaye and Frederico W. Tavares
 * E-mail: nogueirab@gmail.com
 
+lattes-K4407408T6
+## Caio Rodrigues Soares
+* Thesis: **Molecular Dynamics Calculation of Hydration Properties in Calcium Carbonate Clusters**
+* Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
+* E-mail: caio_equi@hotmail.com
 
 lattes-K4441941E6
 ## Cliff Iuri de Souza Gonçalves
@@ -361,11 +366,6 @@ lattes-K8758192A5
 * Advisors: Frederico W. Tavares and Gabriel Duarte Barbosa
 * E-mail: aluan@eq.ufrj.br
 
-lattes-K4407408T6
-## Caio Rodrigues Soares
-* M.Sc. Dissertation: **Molecular Dynamics Calculation of Hydration Properties in Calcium Carbonate Clusters**
-* Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
-* E-mail: caio_equi@hotmail.com
 
 
 
