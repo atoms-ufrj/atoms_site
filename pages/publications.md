@@ -10,6 +10,3 @@ DOI dois pontos espaço num.num barra j fluid num num
 -->
 
 
-
-
-
