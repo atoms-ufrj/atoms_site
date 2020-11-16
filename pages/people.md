@@ -141,6 +141,12 @@ lattes-K4413804P6
 * Advisors: Frederico W. Tavares and Leonardo Travalloni
 * E-mail: gdbarbosa@eq.ufrj.br
 
+lattes-K4361739E1
+## Ingrid Azevedo de Oliveira
+* Project: **Kinetic and Thermodynamic Analysis of the Formation of Hydrates**
+* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
+* E-mail: ingrid.azevedo@eq.ufrj.br
+
 lattes-K4404224D3
 ## Iuri Soter Viana Segtovich
 * Project: **Thermodynamic Modeling of Compressible Natural Gas Hydrates**
@@ -249,12 +255,6 @@ lattes-K8081407H5
 * Thesis: **Study of Phase Equilibrium to Predict Scale Deposition of CaCO3**
 * Advisor: Amaro Gomes Barreto Jr.
 * E-mail: gersonsf.junior@gmail.com
-
-lattes-K4361739E1
-## Ingrid Azevedo de Oliveira
-* Thesis: **Kinetic and Thermodynamic Analysis of the Formation of Hydrates**
-* Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
-* E-mail: ingrid.azevedo@eq.ufrj.br
 
 lattes-K4432903H3
 ## José Rodrigues Torraca Neto
@@ -365,11 +365,6 @@ lattes-K4030740P3
 <!------------------------------------------------------------------------------------------------->
 @header: Master's Degree Students
 <!------------------------------------------------------------------------------------------------->
-lattes-K8758192A5
-## Aluan Andrade Ferreira
-* M.Sc. Dissertation: **Thermodynamics of Confined Fluids Using Density Functional Theory**
-* Advisors: Frederico W. Tavares and Gabriel Duarte Barbosa
-* E-mail: aluan@eq.ufrj.br
 
 
 
@@ -536,6 +531,16 @@ lattes-K4455215Z9
 * Thesis: **Development of Aggregation Kernel for the Electrocoalescency Process**
 * Advisor: Frederico W. Tavares
 <!--* E-mail: alikhajehesamedini@gmail.com-->
+
+@htmlonly
+</td></tr><tr><td></td><td>
+@endhtmlonly
+
+
+### Aluan Andrade Ferreira
+* Final Graduation Project: **Thermodynamics of Confined Fluids Using Density Functional Theory**
+* Advisors: Frederico W. Tavares and Gabriel Duarte Barbosa
+<!--* E-mail: aluan@eq.ufrj.br-->
 
 @htmlonly
 </td></tr><tr><td></td><td>
