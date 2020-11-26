@@ -20,7 +20,7 @@ TODO:
 
 
 
-<!-- mayra -->
+
 
 
 <!------------------------------------------------------------------------------------------------->
@@ -104,6 +104,13 @@ sem-dados
 matheus marques
 amaro/charlles
 * E-mail: marques.eq@outlook.com 
+-->
+
+<!-- 
+sem-dados
+mayra
+fred
+* E-mail: mayraoliveira@gmail.com 
 -->
 
 <!-- sem-foto fev2020
@@ -475,6 +482,12 @@ lattes-K8694587J3
 * Project: **Calculation of Properties of Deep Eutectic Solvents by Molecular Dynamics Simulation**
 * Advisors: Charlles R. A. Abreu and Jéssica C. S. L. Maciel
 * E-mail: arthur_mussi@eq.ufrj.br
+
+lattes-K4362066Z2
+## Gabriela Freire de Arruda
+* Project: **Modeling and Simulation of Monoclonal Antibodies for Purification in Ion Exchange Columns**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: gfa.gabriela@gmail.com
 
 
 
