@@ -20,7 +20,7 @@ TODO:
 
 
 
-<!-- mayra -->
+
 
 
 <!------------------------------------------------------------------------------------------------->
@@ -99,20 +99,11 @@ lattes-K8921160A0
 <!------------------------------------------------------------------------------------------------->
 @endheader
 
-<!-- 
-sem-dados
-matheus marques
-amaro/charlles
-* E-mail: marques.eq@outlook.com 
--->
 
-<!-- sem-foto fev2020
-lattes-K4848482U9
-## Lucas Marchetti Goulart
-* Scientific initiation research: **Chromatographic separation of praziquantel enantiomers - continuous and batch process**
-* Advisors: Amaro G Barreto Jr, Marlon S Gamma
-* E-mail: lkgoulart@hotmail.com
---->
+
+
+
+
 
 
 
@@ -256,11 +247,6 @@ lattes-K8081407H5
 * Advisor: Amaro Gomes Barreto Jr.
 * E-mail: gersonsf.junior@gmail.com
 
-lattes-K4432903H3
-## José Rodrigues Torraca Neto
-* Thesis: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
-* Advisor: Amaro G. Barreto Jr.
-* E-mail: joseneto@eq.ufrj.br
 
 lattes-K2778650U8
 ## Junnio de Sousa Viegas
@@ -295,6 +281,17 @@ lattes-K4419572T6
 * Thesis: **Development of Electrostatic Models to Protein Adsorption by Modified Poisson-Boltzmann Equation**
 * Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
 * E-mail: marlonsgama@hotmail.com.br 
+
+<!--K4584914J0-->
+<!--Mayra Carvalho de Oliveira Ferreira-->
+
+<!--lattes-Kmayra-->
+
+lattes-K4584914J0
+## Mayra de Oliveira Ferreira 
+* Thesis: Thermodynamics in oil and gas systems
+* Advisors: Frederico W. Tavares
+* E-mail: mayraoliveira@gmail.com 
 
 lattes-K4457388H9
 ## Rafael Cavalcante dos Santos
@@ -476,13 +473,15 @@ lattes-K8694587J3
 * Advisors: Charlles R. A. Abreu and Jéssica C. S. L. Maciel
 * E-mail: arthur_mussi@eq.ufrj.br
 
+lattes-K4362066Z2
+## Gabriela Freire de Arruda
+* Project: **Modeling and Simulation of Monoclonal Antibodies for Purification in Ion Exchange Columns**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: gfa.gabriela@gmail.com
 
 
-lattes-K2754085J3
-## Giovanna Mandarino Vieira
-* Project: **Estimation of parameters in crystallization processes**
-* Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
-* E-mail: giomandavieira@gmail.com
+
+
 
 lattes-K8611482A6
 ## João Henrique P. Lins Souza
@@ -609,6 +608,16 @@ lattes-K4455215Z9
 </td></tr><tr><td></td><td>
 @endhtmlonly
 
+<!--K2754085J3-->
+### Giovanna Mandarino Vieira
+* Final Graduation Project: **Estimation of parameters in crystallization processes**
+* Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
+<!--* E-mail: giomandavieira@gmail.com-->
+
+@htmlonly
+</td></tr><tr><td></td><td>
+@endhtmlonly
+
 ### Guilherme Carneiro Queiroz da Silva
 * Final Graduation Project: **Solvent Effects of Dimethyl Sulfoxide on the Decarboxylation of Trichloroacetate**
 * Advisors: Charlles R. A. Abreu and Thiago Messias Cardozo
@@ -663,6 +672,16 @@ lattes-K4455215Z9
 </td></tr><tr><td></td><td>
 @endhtmlonly
 
+<--K4432903H3-->
+### José Rodrigues Torraca Neto
+* M.Sc. Dissertation: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
+* Advisor: Amaro G. Barreto Jr.
+<!--* E-mail: joseneto@eq.ufrj.br-->
+
+@htmlonly
+</td></tr><tr><td></td><td>
+@endhtmlonly
+
 ### Karina Rodrigues Paiva Ranauro do Nascimento
 * Final Graduation Project: **Molecular Modeling and Simulation of Strontium Fouling Inhibitors**
 * Advisors: Charlles R. A. Abreu, Leonardo M. da Costa, and Peter Seidl
@@ -694,6 +713,16 @@ lattes-K4455215Z9
 * Thesis: **Phase Equilibria of heavy oil fraction and Carbon Dioxide at High Pressure**
 * Advisors: Erika Christina Ashton N. Chrisman and Papa Matar Ndiaye
 <!--* E-mail: livia@eq.ufrj.br-->
+
+@htmlonly
+</td></tr><tr><td></td><td>
+@endhtmlonly
+
+<!-- lattes-K4848482U9 -->
+### Lucas Marchetti Goulart
+* Final Graduation Project: **Chromatographic separation of praziquantel enantiomers - continuous and batch process**
+* Advisors: Amaro G Barreto Jr, Marlon S Gamma
+<!--* E-mail: lkgoulart@hotmail.com-->
 
 @htmlonly
 </td></tr><tr><td></td><td>
