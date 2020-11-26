@@ -76,12 +76,6 @@ lattes-K4236807P2
   * *Integrated management, quality, environment and safety.*
 * E-mail: agerhardt@peq.coppe.ufrj.br
 
-lattes-K4404226J7
-## Lucas Silva Calado
-* **Research Assistant**
-  * *Computer aided chemical laboratory monitoring system*
-* E-mail: lucascalado1991@hotmail.com
-
 lattes-K2054127Z0
 ## Marcia Soares Lima de Mello
 * **Project Management Assistant**
@@ -269,6 +263,20 @@ lattes-K8780765H2
 * Thesis: **Thermodynamics of Deep Eutectic Solvents**
 * Advisor: Frederico W. Tavares
 * E-mail: luanvittor_@hotmail.com
+
+lattes-K4404226J7
+## Lucas Silva Calado
+* Thesis: **Computer aided chemical laboratory monitoring system for water content in gas**
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: lucascalado1991@hotmail.com
+
+
+lattes-K4434329T4
+## Luiz Augusto da Silva Mieiro
+* Thesis:   **Optimization of dehydration units by adsorption of natural gas streams typical of pre-salt**
+<!--epqb-->
+* Advisor: Amaro Gomes Barreto Jr.
+* E-mail: la.mieiro@uol.com.br
 
 lattes-K4331136Y5
 ## Maria Rosa Rocha Tenório Góes
