@@ -176,7 +176,8 @@ lattes-K4794358H6
 ## Adriana Teixeira
 * Thesis: **Evaluation of the Agglomeration Process of Gas Hydrates in the Presence of Salts and Surfactants**
 * Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
-* E-mail: adriteix@petrobras.com.br and adriteix@yahoo.com.br
+* E-mail: adriteix@yahoo.com.br
+<!-- and adriteix@petrobras.com.br -->
 
 lattes-K4278078T5
 ## Ana Paula Palhares Simoncelli
@@ -601,7 +602,7 @@ lattes-K4455215Z9
 ### Felipe Eduardo Braun
 * M.Sc. Dissertation: **Modeling and Optimization of Fixed Bed Natural Gas Dehydration Units**
 * Advisors: Argimiro Resende Secchi and Amaro Gomes Barreto Jr.
-* E-mail: braun.ime@gmail.com
+<!-- * E-mail: braun.ime@gmail.com -->
 
 @htmlonly
 </td></tr><tr><td></td><td>
