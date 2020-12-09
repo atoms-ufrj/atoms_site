@@ -67,6 +67,10 @@ s/4/w3.css">
       <div class="item">
         <img src="../images/painel_3.png" style="width:100%">
       </div>
+      
+      <div class="item">
+        <img src="../images/painel_4.png" style="width:100%">
+      </div>
     </div>
 
     <!-- Left and right controls -->
