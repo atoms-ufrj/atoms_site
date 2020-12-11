@@ -665,7 +665,7 @@ lattes-K4455215Z9
 </td></tr><tr><td></td><td>
 @endhtmlonly
 
-<--K4432903H3-->
+<!--K4432903H3-->
 ### José Rodrigues Torraca Neto
 * M.Sc. Dissertation: **Thermodynamic and Crystal Growth Analysis of FeCO3 in Solutions of H2O/MEG**
 * Advisor: Amaro G. Barreto Jr.
