@@ -115,7 +115,7 @@ lattes-K4275728A4
 
 lattes-K4489296Y9
 ## Elvis do Amaral Soares
-* Project: Termodinâmica Fora do Equilíbrio 
+* Project: Nonequilibrium Thermodynamics 
 * Advisors: Amaro G. Barreto Jr. and Frederico W. Tavares
 * E-mail: elvis.asoares@gmail.com
 <!-- COPPETEC -->
@@ -128,7 +128,7 @@ lattes-K4413804P6
 
 lattes-K4361739E1
 ## Ingrid Azevedo de Oliveira
-* Project: **Kinetic and Thermodynamic Analysis of the Formation of Hydrates**
+* Project: **Kinetic and Thermodynamics Analyses of the Hydrate Formation**
 * Advisors: Frederico W. Tavares and Amaro G. Barreto Jr.
 * E-mail: ingrid.azevedo@eq.ufrj.br
 
@@ -155,7 +155,6 @@ lattes-K8627879P1
 * Project: **Dehydration of Natural Gas by Adsorption - Evaluation of Properties and Conditions of Operation**
 * Advisors: Amaro Gomes Barreto Jr. and Frederico W. Tavares
 * E-mail: khalil.kashefi@eq.ufrj.br
-
 
 
 lattes-K4408121P6
@@ -291,16 +290,7 @@ lattes-K4419572T6
 * Advisors: Frederico W. Tavares and Amaro Gomes Barreto Jr.
 * E-mail: marlonsgama@hotmail.com.br 
 
-<!--K4584914J0-->
-<!--Mayra Carvalho de Oliveira Ferreira-->
 
-<!--lattes-Kmayra-->
-
-lattes-K4584914J0
-## Mayra de Oliveira Ferreira 
-* Thesis: Thermodynamics in oil and gas systems
-* Advisors: Frederico W. Tavares
-* E-mail: mayraoliveira@gmail.com 
 
 lattes-K4457388H9
 ## Rafael Cavalcante dos Santos
@@ -388,7 +378,6 @@ lattes-K4323172P3
 * E-mail: silvagm.br@gmail.com
 
 
-
 lattes-K8701986U2
 ## Gabriela Barreto Correa
 <!--peq-->
@@ -420,13 +409,21 @@ lattes-K8729409E5
 * Advisor: Frederico W. Tavares and Papa M. Ndiaye
 * E-mail: mbello@peq.coppe.ufrj.br
 
+<!--K4584914J0-->
+<!--Mayra Carvalho de Oliveira Ferreira-->
+<!--lattes-Kmayra-->
+
+lattes-K4584914J0
+## Mayra de Oliveira Ferreira 
+* Thesis: Thermodynamics in oil and gas systems
+* Advisors: Frederico W. Tavares
+* E-mail: mayraoliveira@gmail.com 
 
 lattes-K8560922E9
 ## Ramon Gomes de Castro Lourenço
 * M.Sc. Dissertation: **Boltzmann lattice method application in flow simulations**
 * Advisors: Frederico W. Tavares
 * E-mail: ramon@peq.coppe.ufrj.br
-
 
 
 lattes-K8586700Y5
@@ -449,13 +446,6 @@ lattes-K4492453P5
 * Advisor: Frederico W. Tavares and Marcelo Castier
 * E-mail: tulio-freire@hotmail.com
 
-
-
-lattes-K4625191D7
-## Victor Hugo Pimentel da Silva
-* M.Sc. Dissertation: **Thermodynamic study of Asphaltenes / Hydrates / Paraffins formation in flow assurance**
-* Advisors: Frederico W. Tavares, Papa M. Ndiaye
-* E-mail: victorpimentel@eq.ufrj.br
 
 lattes-K8561873P0
 ## Yuri de Paiva Alves
@@ -505,12 +495,6 @@ lattes-K8107131D4
 * Advisors: Papa Matar Ndiaye, Vanessa Andrea Mascietti
 * E-mail: lari.fariass@gmail.com
 
-lattes-K2662685J8
-## Marlon Conceição dos Santos
-* Scientific initiation research: **Reservoir Simulation and PVT Analysis Calculations**
-<!--EQ-->
-* Advisors: Frederico W. Tavares
-* E-mail: marloncsantos99@gmail.com
 
 lattes-K4455215Z9
 ## Wesley Júnio Alves da Conceição
