@@ -32,6 +32,9 @@ Automatic Speciation Simulator
 * Web based user interface
 > https://caiofcm.github.io/pyequion-onl/
 
+* Calculation modules
+> https://github.com/caiofcm/pyequion
+
 
 ---
 # Infrastructure
