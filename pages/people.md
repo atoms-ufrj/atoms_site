@@ -120,11 +120,7 @@ lattes-K4489296Y9
 * E-mail: elvis.asoares@gmail.com
 <!-- COPPETEC -->
 
-lattes-K4413804P6
-## Gabriel Duarte Barbosa
-* Project: **Confined Fluids Modeling**
-* Advisors: Frederico W. Tavares and Leonardo Travalloni
-* E-mail: gdbarbosa@eq.ufrj.br
+
 
 lattes-K4361739E1
 ## Ingrid Azevedo de Oliveira
@@ -362,7 +358,11 @@ lattes-K4030740P3
 @header: Master's Degree Students
 <!------------------------------------------------------------------------------------------------->
 
-
+lattes-K8694587J3
+## Arthur Mussi Luz
+* M.Sc. Dissertation: **Calculation of Properties of Deep Eutectic Solvents by Molecular Dynamics Simulation**
+* Advisors: Charlles R. A. Abreu and Jéssica C. S. L. Maciel
+* E-mail: arthur_mussi@eq.ufrj.br
 
 
 lattes-K8840132A8
@@ -466,21 +466,13 @@ lattes-K2523077U7
 * Advisor:  Papa M. Ndiaye and Iuri S. V. Segtovich
 * E-mail: aliciarocha@poli.ufrj.br
 
-lattes-K8694587J3
-## Arthur Mussi Luz
-* Project: **Calculation of Properties of Deep Eutectic Solvents by Molecular Dynamics Simulation**
-* Advisors: Charlles R. A. Abreu and Jéssica C. S. L. Maciel
-* E-mail: arthur_mussi@eq.ufrj.br
+
 
 lattes-K4362066Z2
 ## Gabriela Freire de Arruda
 * Project: **Modeling and Simulation of Monoclonal Antibodies for Purification in Ion Exchange Columns**
 * Advisor: Amaro Gomes Barreto Jr.
 * E-mail: gfa.gabriela@gmail.com
-
-
-
-
 
 lattes-K8611482A6
 ## João Henrique P. Lins Souza
@@ -494,6 +486,16 @@ lattes-K8107131D4
 * Scientific initiation research: **Solubility of Monoethylene Glycol (MEG) in n-pentane in the presence of Ethanol / Methanol**
 * Advisors: Papa Matar Ndiaye, Vanessa Andrea Mascietti
 * E-mail: lari.fariass@gmail.com
+
+
+
+lattes-K8610861A6
+## Sabrina Forte
+<!--EQ-->
+* Scientific initiation research: **Relationship between the properties of emulsions and their stability**
+* Advisors: Carla Manske
+* E-mail: sabrina7forte@gmail.com
+
 
 
 lattes-K4455215Z9
@@ -596,6 +598,16 @@ lattes-K4455215Z9
 * Thesis: **Experimental Determination and Non-Equilibrium Molecular Dynamics Simulation of Thermodiffusion Coefficients of Mixtures**
 * Advisors: Frederico W. Tavares, Charlles R. A. Abreu and Abbas Firoozabadi
 <!--* E-mail: ffurtado@ufrrj.br and arantes.filipe@gmail.com-->
+
+@htmlonly
+</td></tr><tr><td></td><td>
+@endhtmlonly
+
+<!--lattes-K4413804P6-->
+### Gabriel Duarte Barbosa
+* Project: **Confined Fluids Modeling**
+* Advisors: Frederico W. Tavares and Leonardo Travalloni
+<!--* E-mail: gdbarbosa@eq.ufrj.br-->
 
 @htmlonly
 </td></tr><tr><td></td><td>
