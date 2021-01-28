@@ -42,3 +42,9 @@ review2:
 	touch pages/index.md
 	make all
 	firefox en/index.html
+
+checksite:
+	firefox "http://atoms.peq.coppe.ufrj.br"
+
+checkpull:
+	firefox "https://github.com/atoms-ufrj/atoms_site"
